@@ -1,11 +1,33 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-US">
 <head>
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
-</head>
-<body>
-<h1>{{ page.title }}</h1>
+{% include header.html %}</head>
+  <body>
+    <div id="header">
+      <nav>
+          <li class="home"><a href="/index.html">Home</a></li>
+          <li class="quickbuttons"><a href="http://skilstak.com">SkilStak</a></li>
+          <li class="quickbuttons"><a href="http://facebook.com/robmuh">Facebook</a></li>
+          <li class="quickbuttons"><a href="http://google.com/+RobMuhlestein">Google+</a></li>
+          <li class="quickbuttons"><a href="http://linkedin.com/in/robmuh">LinkedIn</a></li>
+          <li class="quickbuttons"><a href="http://twitter.com/robmuh">Twitter</a></li>
+          <li class="quickbuttons"><a href="http://github.com/robmuh">GitHub</a></li>
+      </nav>
+    </div>
+    <div class="wrapper">
+      <section>
+        <div id="title">
+          <h1>{{ page.title }}</h1>
+          <p>{{ page.date | date_to_long_string }}</p>
+          <hr>
+        </div>
+
 {{ content }}
-</body>
+
+      </section>
+    </div>
+
+{% include footer.html %}
+
+  </body>
 </html>

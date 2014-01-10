@@ -1,39 +1,35 @@
 ---
+title: Rob
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <!--^^^^^^^^^^  hell yes this is HTML5 ;) -->
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
-<!--[if IE 8]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--><html class="no-js"> <!--<![endif]-->
-	<head>
-    <meta charset="utf-8">
-		<title>Rob</title>
-		</head>
-		<!-- yeah I know, annoying, but fun, now need to make it bounce -->
-		<style type="text/css">
-			@-webkit-keyframes blink {
-				0% { opacity: 0 } 50% { opacity: 0 }
-				50.01% { opacity: 1 } 100% { opacity: 1 }
-			}	
-					 
-			blink {
-				-webkit-animation: blink 0.7s infinite linear alternate;
-			    -webkit-font-smoothing: antialiased;
-			}
-		</style>
-		<body background="images/rainbows_and_hearts.jpg">
-        <!-- lol -->
-				<h1><blink>Rob</blink></h1>
-        <p><a href="http://twitter.com/robmuh">@robmuh</a></p>
+<html>
+  <head>
+{% include header.html %}
+  </head>
+  <body background="images/rainbows_and_hearts.jpg">
+    <!-- lol, yo, blink is BACK bitch -->
+    <h1><blink>Rob</blink></h1>
 
-        <p>{% for post in site.posts %}
-        <a href="{{ post.url }}">{{ post.title }}</a><br>
-        {% endfor %}
-        </p>
+    <p><a href="http://twitter.com/robmuh">@robmuh</a></p> 
 
-        <p>[You <blink>WISH</blink> your site was as cool as mine.]</p>
+    <p>[You <blink>WISH</blink> your site was as cool as mine. What's that you say? You can't read it?
+      <a href="http://www.w3.org/WAI/Resources/">Hummmmmm</a>.]</p>
 
-		</body>
+    <p>
+      {% for post in site.posts %}<a href="{{ post.url }}">{{ post.title }}</a><br>{% endfor %}
+    </p>
+
+    <!-- yeah, yeah, I know, need a pure JS version, jQuery is for loafer-wearers, :P -->
+    <style type="text/css">
+      @-webkit-keyframes blink { 0% { opacity: 0 } 50% { opacity: 0 } 50.01% { opacity: 1 } 100% { opacity: 1 } }
+      blink { -webkit-animation: blink 0.7s infinite linear alternate; -webkit-font-smoothing: antialiased; }
+    </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    <p>[Optimized for <a href="http://lynx.isc.org">Lynx</a>. <em>*wink*</em>]</p>
+  </body>
 </html>
