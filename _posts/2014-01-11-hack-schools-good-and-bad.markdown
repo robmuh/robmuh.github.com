@@ -40,7 +40,7 @@ something important about progress.
 
 It is just too hard to rid oneself of old scripts, let alone an entire
 system conceived by an industrial age of war. The current system ain't
-dead yet, but the explosion of "hack schools" just might be signally
+dead yet, but the explosion of "hack schools" just might be signalling
 the end, or at least an evolution.
 
 ### But wait &hellip;
