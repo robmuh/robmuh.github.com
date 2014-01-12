@@ -91,7 +91,7 @@ The faces of students learning, often when another student shares what
 they learned last week, is real, palpable, and more encouraging than
 anything I could have imagined, anything virtual.
 
-Thanks universe for this opportunity, now back to work.
+Thanks Universe for this opportunity, now back to work.
 
 [SkilStak Coding Arts]: http://skilstak.com
 [fantastic article]: http://www.fastcompany.com/3023456/become-an-ios-developer-in-8-weeks-the-truth-about-hack-schools
