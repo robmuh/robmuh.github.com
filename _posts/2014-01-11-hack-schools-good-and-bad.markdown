@@ -25,7 +25,7 @@ Today's generations, myself included, have much more than an irreverent
 animosity toward the industrial age education model some still want to
 cram down our throats based on old, irrelevant research and war-time
 expectations. The current
-system based on that system is [horribly broken][]based on that system.
+system, based on that system, is [horribly broken][].
 The only way it will ever really improve is by realists throwing the
 whole fucking thing out the window. (Ok, pretend I said that last sentence with
 a soothing, ironic British accent like Ken's.) Throwing out the old is exactly
