@@ -29,9 +29,7 @@ are doing, throwing the whole system out the window.
 Steve might not have been the best family man, but he understood
 something important about progress.
 
-<iframe width="420" height="315"
-src="//www.youtube.com/embed/-578Q4rb6wM" frameborder="0"
-allowfullscreen></iframe>
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/-578Q4rb6wM" frameborder="0"></iframe></p>
 
 It is just too hard to rid oneself of old scripts, let alone an entire
 system conceived by an industrial age of war. The current system ain't
@@ -86,7 +84,7 @@ Thanks universe for this opportunity, now back to work.
 
 [SkilStak Coding Arts]: http://skilstak.com
 [fantastic article]: http://www.fastcompany.com/3023456/become-an-ios-developer-in-8-weeks-the-truth-about-hack-schools
-[Mo Hax]: http://secondlife.com/https://my.secondlife.com/mo.hax 
+[Mo Hax]: https://my.secondlife.com/mo.hax 
 [ISTE]: https://www.iste.org/
 [EDTECH Retreat]: http://www.flickr.com/groups/edtechretreat/
 [NCTIES]: http://ncties.org
