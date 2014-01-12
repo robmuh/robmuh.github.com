@@ -4,40 +4,46 @@ title: Hack Schools, Good and Bad
 ---
 
 "Hack what?" I would have said a few months ago after I buckled
-down and started [SkilStak Coding Arts][]. "Hack Schools" someone
-would explain to me. "What?"I didnt't start SkilStak, Inc. because it was the cool new thing,
-the up and coming model for education. In fact, I had no fracking
-idea these things existed. But they do and it is a good thing and
-a bad thing that they do.
+down and started [SkilStak Coding Arts][]. "You know, hack Schools",
+someone would explain to me. "What?"
+
+I didnt't start SkilStak, Inc. because it was the cool new thing,
+the up and coming model for education, or any other reason other than
+I wanted to help others--that wanted to learn--to code. In fact, I had
+no idea hack schools existed. But apparently they do and it is a good
+thing ... and a bad thing.
+
+### Reality Check
 
 Recently I read this [fantastic article][] from fastcompany.com that
-makes no quams about the good and bad of this new phenomenon. It is
+makes no qualms about the good and bad of this new phenomenon. It is
 really worth the read. Here's why.
 
 ### Take Your 50s Educational System and Shove It
 
-Today's generations, myself included, have much more than an irreverant
+Today's generations, myself included, have much more than an irreverent
 animosity toward the industrial age education model some still want to
-shoving down our throats based on old, irrellevant research. The current
-system is [horribly broken][] and the only way
-it will ever really improve is by realists throwing the whole fucking
-thing out the window. (Ok, pretend I said that last sentence with
-a nice British accent like Ken's.) This is exactly what hack schools
-are doing, throwing the whole system out the window.
+cram down our throats based on old, irrelevant research and war-time
+expectations. The current
+system based on that system is [horribly broken][]based on that system.
+The only way it will ever really improve is by realists throwing the
+whole fucking thing out the window. (Ok, pretend I said that last sentence with
+a soothing, ironic British accent like Ken's.) Throwing out the old is exactly
+what hack schools are doing.
 
 ### "Death is the single best invention of life." (Steve Jobs)
 
 Steve might not have been the best family man, but he understood
 something important about progress.
 
-<p><iframe width="420" height="315" src="http://www.youtube.com/embed/-578Q4rb6wM" frameborder="0" allowfullscreen="allowfullscreen">buggy maruku</iframe></p>
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/-578Q4rb6wM" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe></p>
 
 It is just too hard to rid oneself of old scripts, let alone an entire
 system conceived by an industrial age of war. The current system ain't
 dead yet, but the explosion of "hack schools" just might be signally
 the end, or at least an evolution.
 
-### But wait ...
+### But wait &hellip;
 
 A lot of these hack schools just suck. The greatest fear of the
 establishment, and the foundation of failed programs like "No Child
