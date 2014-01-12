@@ -71,7 +71,7 @@ someone who's interest is waning to find something that keeps them up
 at night (like SkilStak does for most) rather than adding another
 have-to to the list of expectations.
 
-### I have <s>A</s> My Own Dream
+### I Have <s>A</s> My Own Dream
 
 I have been dreaming for years of beginning an educational career of
 some kind and always hitting barriers of some kind in the process.
@@ -79,9 +79,9 @@ some kind and always hitting barriers of some kind in the process.
 Perhaps the biggest barrier was my very public divorce after some
 three years of complete obsession with virtual worlds for business and
 education as (the now infamous) [Mo Hax][]. I ran virtual world
-playgrounds for [NCTIES][] had educator campfires on my own island
-[EDTECH Retreat][] and attended [ISTE][] conferences with friends of
-all types with a common vision for education and keeping the human
+playgrounds for [NCTIES][], had educator campfires on my own island
+[EDTECH Retreat][], and attended [ISTE][] conferences with friends of
+all types with a common vision for education and preserving the human
 element in the run-away successful distance learning mega-trends.
 
 Then this.
