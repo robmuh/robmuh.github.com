@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Hack Schools, Good and Bad
 ---
 
 "Hack what?" I would have said a few months ago after I buckled
@@ -29,7 +30,7 @@ are doing, throwing the whole system out the window.
 Steve might not have been the best family man, but he understood
 something important about progress.
 
-<p><iframe width="420" height="315" src="http://www.youtube.com/embed/-578Q4rb6wM" frameborder="0"></iframe></p>
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/-578Q4rb6wM" frameborder="0" allowfullscreen="allowfullscreen">buggy maruku</iframe></p>
 
 It is just too hard to rid oneself of old scripts, let alone an entire
 system conceived by an industrial age of war. The current system ain't
