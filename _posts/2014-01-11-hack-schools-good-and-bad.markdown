@@ -35,7 +35,6 @@ what hack schools are doing.
 
 Steve might not have been the best family man, but he understood
 something important about progress.
-
 <iframe width="420" height="315" src="http://www.youtube.com/embed/-578Q4rb6wM" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 It is just too hard to rid oneself of old scripts, let alone an entire
