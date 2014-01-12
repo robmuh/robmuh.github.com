@@ -8,10 +8,9 @@ title: What Will Your Verse Be?
 {% include youtube.html id="jiyIcz7wUH0" %} 
 
 There is perhaps no more life-affirming movie in my top ten more
-powerful than [Dead Poet Society][], premium art in it's storytelling and
+than [Dead Poet Society][], premium art in it's storytelling and
 provocative, tragic, plot. Leave it to Apple to connect it to what
-makes all the tools and noise valuable, their ability to facilitate
-poetry.
+makes all the tools and noise valuable. They facilitate poetry.
 
 Have you found what makes work, education, and life worth living for?
 
