@@ -12,6 +12,6 @@ than [Dead Poet Society][], premium art in it's storytelling and
 provocative, tragic, plot. Leave it to Apple to connect it to what
 makes all the tools and noise valuable. They facilitate poetry.
 
-Have you found what makes work, education, and life worth living for?
+Have you found what makes work, education, and life worth living?
 
 [Dead Poet Society]: http://www.imdb.com/title/tt0097165/
