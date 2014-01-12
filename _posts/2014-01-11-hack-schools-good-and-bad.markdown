@@ -89,7 +89,7 @@ Then this.
 SkilStak is so fulfilling and so successful because it is so tangible.
 The faces of students learning, often when another student shares what
 they learned last week, is real, palpable, and more encouraging than
-anything I could have imagined.
+anything I could have imagined, anything virtual.
 
 Thanks universe for this opportunity, now back to work.
 
