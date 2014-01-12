@@ -47,14 +47,18 @@ the end, or at least an evolution.
 
 A lot of these hack schools just suck. The greatest fear of the
 establishment, and the foundation of failed programs like "No Child
-Left Behind" is *fear*, fear that somehow, those providing the
+Left Behind" is *fear*, fear that somehow those providing the
 education will just pass people, fear that people completing these
 programs won't have enough actual experience to be worth hiring, and
-fear that the system will fail, ironically.
+fear that somehow an educational system with zero-accoutability and
+profit-focus will rule the day.
 
-The ugly truth is that some people do fail, but no one hears about it,
-as the article calls out. Which is why just a high-paid hack school is
-not enough.
+The ugly truth is that some of these people and schools do fail,
+but no one hears about it, as the article calls out. Which is why
+just a high-paid hack school is not enough. There has to be
+demonstratable results. The best rubric will always be show-me skills
+and tangible products. The business world demands it of workers, why shouldn't
+the educational world demand it from students.
 
 ### Promise Less, Deliver More
 
