@@ -35,7 +35,7 @@ Pixelle][] build some time ago:
 Have fun building.
 
 [this thread]: http://community.secondlife.com/t5/Mesh/Basics-Q-Quads-or-tris-when-modeling/td-p/1302581
-[tesselated]: http://en.wikipedia.org/wiki/Tessellation
+[tessellated]: http://en.wikipedia.org/wiki/Tessellation
 [Mudbox]: http://en.wikipedia.org/wiki/Mudbox
 [Dota2]: http://www.dota2.com/workshop/
 [Second Life]: http://wiki.secondlife.com/wiki/Mesh/Creating_a_mesh
