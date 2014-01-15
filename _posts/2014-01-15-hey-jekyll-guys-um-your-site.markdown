@@ -11,7 +11,7 @@ which is located in the `site` directory. Of course the first is on the
 diff in a gist][gist] and the [issue I opened about it][issue].
 
 It's almost as if the Jekyll maintainers didn't read the [GitHub
-instructions about using the `gh-pages` branch][github] but I'm sure
+instructions about using the gh-pages branch][github] but I'm sure
 that's not it.  I'm still very new to Jekyll, which in this case may be a good and a
 bad thing: good because I'm looking at the documenation on the main
 jekyllrb.com web site a lot more
