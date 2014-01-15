@@ -10,11 +10,13 @@ which is located in the `site` directory. Of course the first is on the
 `gh-pages` branch and the second on the `master` branch. [Here's the
 diff in a gist][gist] and the [issue I opened about it][issue].
 
-I'm still very new to Jekyll, which in this case may be a good and a
+It's almost as if the Jekyll maintainers didn't read the [GitHub
+instructions about using the `gh-pages` branch][github] but I'm sure
+that's not it.  I'm still very new to Jekyll, which in this case may be a good and a
 bad thing: good because I'm looking at the documenation on the main
 jekyllrb.com web site a lot more
 than most of you other Jekyll/Ruby pros; good because I was very recently
-[instructed by the GitHub docs][github] that all sites have to be on the
+[RTFMed on GitHub][github] that all sites have to be on the
 `gh-pages` branch; bad because I may not be aware of some special
 magic that might be happening (or should be) to make `site/docs` on
 `master` sync with the `docs` directory on the actual site source.
