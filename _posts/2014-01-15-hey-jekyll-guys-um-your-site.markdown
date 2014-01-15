@@ -15,7 +15,7 @@ instructions about using the gh-pages branch][github] but I'm sure
 that's not it.  I'm still very new to Jekyll, which in this case may be a good and a
 bad thing: good because I'm looking at the documenation on the main
 jekyllrb.com web site a lot more
-than most of you other Jekyll/Ruby pros; good because I was very recently
+than most of the other Jekyll/Ruby pros; good because I very recently
 [RTFMed on GitHub][github] that all sites have to be on the
 `gh-pages` branch; bad because I may not be aware of some special
 magic that might be happening (or should be) to make `site/docs` on
