@@ -27,6 +27,20 @@ UPDATE: Seems like there is some sort of reason for this, but I can't
 imagine what it is. Best news is that [@parkr][] is very responsive
 and thinking about these things. Threw my name in to help. We'll see.
 
+UPDATE: Here's [Mr. Jekyll][] himself clarifying the concern about
+updating the public docs with information about stuff that has not
+been bundled and packaged into a release yet:
+
+![@mojombo clarifies][]
+
+That I get. Just unclear
+why the stuff unrelated to releases isn't immediately updated in both
+places to prevent them from getting out of sync, or worse, stuff in
+one place eventually blowing out changes in the other.
+
+FUNFACT: Found [this write up of Obama's tech][obama] during the campaign. He
+used Jekyll.
+
 [main]: https://github.com/jekyll/jekyll/tree/gh-pages
 [jekyllrb.com]: http://jekyllrb.com
 [bundled]: https://github.com/jekyll/jekyll/tree/master/site 
@@ -34,3 +48,7 @@ and thinking about these things. Threw my name in to help. We'll see.
 [gist]: https://gist.github.com/robmuh/8433813
 [issue]: https://github.com/jekyll/jekyll/issues/1954
 [@parkr]: http://github.com/parkr
+[Mr. Jekyll]: http://github.com/mojombo
+[@mojombo clarifies]: /images/mojombo_on_jekyll_docs.png
+[obama]:http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/ 
+
