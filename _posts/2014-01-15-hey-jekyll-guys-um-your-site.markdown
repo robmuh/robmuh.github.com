@@ -23,9 +23,14 @@ master sync with the docs directory on the actual site source.
 
 If I'm missing something let me know. Happy to help fix if I can.
 
+UPDATE: Seems like there is some sort of reason for this, but I can't
+imagine what it is. Best news is that [@parkr][] is very responsive
+and thinking about these things. Threw my name in to help. We'll see.
+
 [main]: https://github.com/jekyll/jekyll/tree/gh-pages
 [jekyllrb.com]: http://jekyllrb.com
 [bundled]: https://github.com/jekyll/jekyll/tree/master/site 
 [github]: https://help.github.com/articles/user-organization-and-project-pages
 [gist]: https://gist.github.com/robmuh/8433813
 [issue]: https://github.com/jekyll/jekyll/issues/1954
+[@parkr]: http://github.com/parkr
