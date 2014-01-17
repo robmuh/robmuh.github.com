@@ -15,9 +15,6 @@ because we like pictures of excuriatingly diverse
 corporate types with bad comb-overs, ties, and skirts marking up on
 a track as our favorite high school to make a point."
 
-
-cor
-
 ![To better understand the material, please spend more time on this
 page](/images/spend_more_time.jpg)
 
