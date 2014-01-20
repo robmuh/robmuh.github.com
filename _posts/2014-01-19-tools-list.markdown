@@ -13,7 +13,7 @@ right.
 Hardware:
 
 * Laptop (Mac if you can)
-* Desktop
+* Desktop (Windows 7)
 * SmartPhone
 
 Software:
