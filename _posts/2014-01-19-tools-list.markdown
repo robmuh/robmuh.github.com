@@ -11,7 +11,7 @@ right.
 
 ### TL;DR
 
-**Hardware:**
+***Hardware:***
 
 Don't stick with just one vendor. Mix it up.
 
