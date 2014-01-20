@@ -533,8 +533,8 @@ essential domains services.
 [Git]: http://git-scm.org
 [GitHub]: http://github.com
 [GitHub Pages]: http://pages.github.com/
-[Hootsuite]: http://hootsuite.com
-[InstaPaper]: 
+[Hootsuite]: http://hootsuite.com/
+[InstaPaper]: http://instapaper.com/
 [Internet Relay Chat]: http://en.wikipedia.org/wiki/Internet_Relay_Chat
 [Jekyll]: http://jekyllrb.com
 [KhanAcademy]: http://khanacademy.com
