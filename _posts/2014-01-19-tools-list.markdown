@@ -11,7 +11,7 @@ right.
 
 ### **TL;DR**
 
-Hardware:
+**Hardware:**
 
 Don't stick with just one vendor. Mix it up.
 
@@ -20,7 +20,7 @@ Don't stick with just one vendor. Mix it up.
 * SmartPhone
 * Pad
 
-Software:
+**Software:**
 
 There will be other stuff depending on your industry (Adobe, etc.).
 
@@ -34,7 +34,7 @@ There will be other stuff depending on your industry (Adobe, etc.).
 * VMware
 * Eclipse (if necessary)
 
-Services:
+**Services:**
 
 So very many, but these are essential.
 
@@ -48,7 +48,7 @@ So very many, but these are essential.
 * InstaPaper.com
 * Joker.com (or equiv)
 
-Languages:
+**Languages:**
 
 For hacking your personal toolset, not other main development.
 
