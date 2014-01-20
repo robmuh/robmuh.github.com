@@ -1,8 +1,9 @@
 ---
 layout: post
 description: A list of the best programming, sysadmin, and developer tools based on experience and consensus
-tldr: Masters use elite tools: smartphone, laptop, vmware, bash, vim, screen, git, github.com, git-scm.org, twitter.com, irc, gmail.com, joker.com, bourne shell, and perl; eclipse if necessary
 ---
+
+tldr: Masters use elite tools smartphone, laptop, vmware, bash, vim, screen, git, github.com, git-scm.org, twitter.com, irc, gmail.com, joker.com, bourne shell, and perl; eclipse if necessary
 
 Coding is a craft, an art. Artists pick tools that bring their art to life
 as quickly and powerfully as they can. Often artists settle on one, best tool
@@ -319,22 +320,26 @@ essential domains services.
 
 [Amazon]: http://aws.amazon.com/
 [BackPAN]: http://backpan.perl.org/
-[Bash]: http://superuser.com/questions/61727/why-is-bash-everywhere-in-most-if-not-all-linux-distributions 
+[Bash]: http://superuser.com/questions/61727/why-is-bash-everywhere-in-most-if-not-all-linux-distributions
 [CPAN]: http://www.perlmonks.org/?node_id=770042
+[Digital Ocean]: https://digitalocean.com/
 [Git]: http://git-scm.org
 [GitHub]: http://github.com
+[GitHub Pages]: http://pages.github.com/ 
 [Hootsuite]: http://hootsuite.com
 [Jekyll]: http://jekyllrb.com
 [Lynx]: http://lynx.browser.org/
 [Moose]: http://blog.moose.perl.org/
-[Node.js]: http://nodejs.org 
+[NeXT integration]: http://en.wikipedia.org/wiki/Darwin_(operating_system) 
+[Node.js]: http://nodejs.org
 [PLN]: http://en.wikipedia.org/wiki/Personal_learning_network
 [Rackspace]: http://rackspace.com
 [Screen]: https://www.gnu.org/software/screen/
 [Twitter]: http://twitter.com
-[Xchat]: http://xchat.org 
+[VMware Workstaion]: http://www.vmware.com/products/workstation/
+[Xchat]: http://xchat.org
 [bozos]: 'http://www.forbes.com/sites/ericjackson/2012/01/31/why-every-company-needs-a-no-bozo-policy/',
 [classes]: https://github.com/robmuh/perl-classes.git
-[npm]:  https://npmjs.org/
-[vim]: http://www.vim.org/ 
-[vimfiles]: https://github.com/robmuh/vimfiles.git 
+[npm]: https://npmjs.org/
+[vim]: http://www.vim.org/
+[vimfiles]: https://github.com/robmuh/vimfiles.git
