@@ -15,14 +15,10 @@ right.
 Before I get into this. I realize this post will infuriate some,
 usually [bozos][]. If you aren't already using these tools:
 
-<style type="text/css">
-  ol { list-style-type: upper-alpha; }
-</style>
-
-1. You are a muggle (Isn't there a sports game on somewhere?)
-1. You are a bozo (Shouldn't you go check your StackExchange rep again?)
-1. You are a master (Nice to have you, but isn't that your hot pocket burning?)
-1. You are a noob (Welcome! Hopefully I can help. Read on.)
+* You are a muggle (Isn't there a sports game on somewhere?)
+* You are a bozo (Shouldn't you go check your StackExchange rep again?)
+* You are a master (Nice to have you, but isn't that your hot pocket burning?)
+* You are a noob (Welcome! Hopefully I can help. Read on.)
 
 I hope this post helps you prioritize the mountain of things you have
 to learn to really become a great coder.
