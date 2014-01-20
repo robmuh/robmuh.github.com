@@ -3,25 +3,58 @@ layout: post
 description: A list of the best programming, sysadmin, and developer tools based on experience and consensus
 ---
 
-
 Coding is a craft, an art. Artists pick tools that bring their art to life
 as quickly and powerfully as they can. Often artists settle on one, best tool
 for the job. Here's list of the best tools to help you get started
 right.
 
-**TL;DR** Masters use elite tools smartphone, laptop, vmware, bash, vim,
-screen, git, github.com, git-scm.org, twitter.com, irc, gmail.com,
-joker.com, bourne shell, and perl; eclipse if necessary
+### **TL;DR**
+
+Master developers use the following tools:
+
+* SmartPhone
+* Laptop
+* VMware
+* Bash
+* Screen
+* git
+* GitHub.com
+* Twitter.com
+* IRC
+* gmail.com
+* joker.com
+* Bourne Shell
+* Perl
+* Eclipse (if necessary)
+
+I'm not just listing my preferred tool set. And although my conclusions
+are anecdotal, they are pretty consistent with what you would find out on
+your own if you searched or surveyed developers on the Internet, which is
+something I hope to better do someday through [skilstak,io][].
+
+### How to Decide?
+
+My criteria are simple:
+
+* Which tools (when mastered) makes a developer the fastest?
+* Which tools are the most ubiquitous?
+* Which tools take the least time to install if necessary?
+* Which tools tend to produce the highest quality outputs?
+
+Notice I did not include how long it takes to master the tool. Doctors
+don't pick the procedures that are the fastest to learn, they pick the
+ones that are ultimately the most effective and efficient once they
+have mastered them. Developers should be no different.
 
 ### 'dems fightin' words
 
 Before I get into this. I realize this post will infuriate some,
 usually [bozos][]. If you aren't already using these tools:
 
-* You are a muggle (Isn't there a sports game on somewhere?)
-* You are a bozo (Shouldn't you go check your StackExchange rep again?)
-* You are a master (Nice to have you, but isn't that your hot pocket burning?)
-* You are a noob (Welcome! Hopefully I can help. Read on.)
+* You are a muggle<br>(Isn't there a sports game on somewhere?)
+* You are a bozo<br>(Shouldn't you go check your StackExchange rep again?)
+* You are a master<br>(Nice to have you, but isn't that your hot pocket burning?)
+* You are a noob<br>(Welcome! Hopefully I can help. Read on.)
 
 I hope this post helps you prioritize the mountain of things you have
 to learn to really become a great coder.
@@ -346,5 +379,6 @@ essential domains services.
 [classes]: https://github.com/robmuh/perl-classes.git
 [git-scm.org]: http://git-scm.org
 [npm]: https://npmjs.org/
+[skilstak,io]: http://skilstak.io
 [vim]: http://www.vim.org/
 [vimfiles]: https://github.com/robmuh/vimfiles.git
