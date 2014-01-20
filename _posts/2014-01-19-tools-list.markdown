@@ -1,0 +1,340 @@
+---
+layout: post
+description: A list of the best programming, sysadmin, and developer tools based on experience and consensus
+tldr: Masters use elite tools: smartphone, laptop, vmware, bash, vim, screen, git, github.com, git-scm.org, twitter.com, irc, gmail.com, joker.com, bourne shell, and perl; eclipse if necessary
+---
+
+Coding is a craft, an art. Artists pick tools that bring their art to life
+as quickly and powerfully as they can. Often artists settle on one, best tool
+for the job. Here's list of the best tools to help you get started
+right.
+
+### 'dems fightin' words
+
+Before I get into this. I realize this post will infuriate some,
+usually [bozos][]. If you aren't already using these tools:
+
+A. You are a muggle (Isn't there a sports game on somewhere?)
+B. You are a bozo (Shouldn't you go check your StackExchange rep again?)
+C. You are a master (Nice to have you, but isn't that your hot pocket burning?)
+C. You are a noob (Welcome! Hopefully I can help. Read on.)
+
+I hope this post helps you prioritize the mountain of things you have
+to learn to really become a great coder.
+
+### Phone and Texts: SmartPhone
+
+I don't really have to explain this one do I? If you don't have one
+forget about any client or potential employer ever taking you
+seriously as a technologist.
+
+### Laptop
+
+Even if you do a lot of desktop lab work, a laptop allows you to code
+anywhere, anytime--including in bed with your understanding wife
+sometimes. Unless you are doing high-end game and 3D modeling you
+don't need more than a $500 laptop--especially since you'll spend most
+of your best coding hours staring at terminals running `vim` and web
+pages. Make sure you get RAM though because virtual machines eat it up fast.
+
+A lot of developers are getting Macs these days not just because they are
+crazy cool (despite the price) but because you can develop for Windows on
+a Mac, but you can't develop for Mac--including iOS--on Windows (as of
+this writing). This also works out because, if you have the money, you
+can get an amped up Windows machine (that doubles as a sweet gaming
+rig) for your Desktop.
+
+### Virtual Machine: VMware
+
+Many will strongly argue with me on this one, but VMWare still
+dominates the personal lab-type virtual machine usage. If you want to
+setup a local emulated multi-tier application [VMware Workstaion][] is
+the way to go.
+
+That said, [Amazon][], [Rackspace][], and [Digital Ocean][] are making
+it to easy and cost effective to bring up server images that more and
+more developers are just using them for developing these types of apps
+and turning them up when things go into production. With the cost of
+VMware up front and the upgrade costs, which are about annually, you
+about pay for the cloud hosting costs to just to all the development
+in the cloud.
+
+VMware is still a good investment, however, because it allows you to
+manipulate images that you have locally or have downloaded from the
+cloud. That is, assuming your cloud provider allows downloading of
+fully cloud system images ([Rackspace][] currently does not, for
+example).
+
+### Navigate: Bash (in vi-mode)
+
+The day has finally come: one command shell to rule them all.
+
+[Bash][] is the most powerful command shell on the planet, period. Now
+that it runs on Mac, thanks to Steve Jobs and [NeXT integration][], and
+Windows, thanks to git-scm.org, there is really no reason to ever use
+another interactive command shell again. You will code scripting
+languages for others for sure (i.e. Bourne, bat, etc.) but you will
+never need another shell to do your coding in.
+
+The lackluster `cmd` (conceived, developed and used by bozos) can die the
+death it has always deserved. There is no excuse to use `cmd`, ever. Just
+stop using it. Small kittens are dying someplace every time you do.
+
+One of the best parts of Bash is vi-mode navigation through your command
+history. Set it with `set -o vi`. command history.
+
+### Compose: vi (vim), screen
+
+The `vi` UNIX editor has long been the tool of choice for UNIX
+professionals be they coders or sys admins or both. This editor is
+literally on every UNIX or Linux machine in existence and has been since
+the 70s. No other editor can claim that, period. It was developed by
+geniuses at a time when Bill Gates was still in diapers. In other
+words, these guys had no mouse to navigate, so they came up with the most
+efficient way ever conceived to navigate with a keyboard *only*.
+
+When the next generation [vim][] upgrade came the funcationality as a tool
+blew well past 9000. Vim 7.4 enables beautiful editing in a way that no
+other editor can touch. Masters tend to have a common set of
+customizations mixed with their own through `.vimrc` and other
+[vimfiles][].
+
+Vim, like so many things in the development world, takes months to become
+proficient with but it is practically a requirement in this field.
+
+**Bozo Alert**: Some will tell you to use Emacs and make lame arguments
+for it. Just ignore them. Most of the rest of the world already has.
+
+### Terminals: screen
+
+This is another classic old tool that has fallen into the arcane arts
+but remains wildly amazing for fast development.
+
+[Screen][] was developed before Windows to allow multiple sessions, or
+screens, in a single terminal window. I always chuckle a bit when
+I read blogs about people using multiple tabs in their terminal
+software when screen has been there all along, and has much more
+powerful cut and paste operations between screens.
+
+Not only that, screen sessions do NOT die even if you disconnect. This
+is an absolute must when doing highly sensitive work remotely where
+a crash or suspend from a broken Internet connection could be
+catestrophic. Yes you can `nohup` the work you are doing, but when you
+log back in remotely all your screens are there waiting for you to
+reattach. This is simply indispensable. Take the time to learn it.
+Soon the keyboard commands will merge into your muscle memory with the
+rest of your bask command line and VIM skills.
+
+### Meet: Twitter, Hootsuite
+
+Every job I have had since Twitter came out has been directly or
+indirectly because of contacts and information I gleaned from Twitter.
+
+Facebook is to keep connected with those you've known. Twitter is for
+meeting who you want to know. The best technologists make sure to keep up
+on emerging trends and people, to build their [PLN][] as it's come to be
+known. That is what [Twitter][] is *really* about. Not Kone West's horrid
+videos and cat juggling.
+
+To make the most of Twitter you should get proficient with a tool like
+[Hootsuite][], which let's you monitor a Matrix-like stream of people,
+terms, and services from one screen.
+
+If you have to pick one thing for a business card these days people
+put only their Twitter handle. Same with advertisers. Twitter is *the*
+way to reach out. Use it.
+
+### Team: IRC
+
+If you need a fast answer to a question you've already researched from
+experts your best tool is IRC.
+
+IRC, or Internet Relay Chat, is something of a rite of passage. Like
+VI, but not as old, IRC has been used by the best hackers in the world
+since the beginning of the Internet. It is the first, and some would
+say best, chat room. IRC is like Twitter in that you can follow
+streams of information about people or topics, but differs in the
+number of people and ease of asking a question immediately.
+
+I use [Xchat][], but there are tons of different IRC clients. This doesn't
+matter so much as the rooms and servers you pick to connect to. Find
+your topic of interest and Google the servers and rooms to add to your
+IRC client.
+
+You'll want to lock down a regular nick by authenticating it.
+
+IRC is also perfect for small teams to open their own room and just
+hang out in there. People come and go as they are around. Gives
+a watercooler feel when coding in your dungeon.
+
+**WARNING:**Do NOT jump into an IRC room and violate the rules of the
+room or do stupid things like asking to ask a question instead of just
+asking a question. The biggest strength of IRC, the immediate
+responsiveness and volume of people, is also it's greatest weakness.
+
+### Email: Gmail
+
+My impression following a lot of Silicon Valley developer blogs and
+tweets is that Google just ain't as cool to them as the rest of the
+world. This may be, but Gmail is still a defacto standard email
+provider for many reasons:
+
+* Multiple emails in one by moving periods around (rob.muh, r.obmuh)
+* Multiple accounts link seamlessly
+* Hangouts for voice discussions, video chats, and desktop sharing
+* Easily forward branded email to gmail (like rob@skilstak.com)
+
+There simply isn't a better email provider for this stuff. Unless you
+have very specific security concerns about Google potentially reading
+anything you send or receive it really is the way to go.
+
+### Save: Git
+
+Linux uses [Git][] to manage and save all its source code. In fact,
+the entire [CPAN][] library is migrating to it as well. Git wins over
+every other source control management system because *every* clone of
+a `git` repository is effectively identical. This is radically
+different than ever source management system up to now and git has
+a wide and commanding lead over `hg` and all the other variants.
+
+### Contribute: GitHub
+
+[GitHub][] is largely the reason git has such a commanding lead over
+`hg`. This 'social development' approach of GitHub has caught on like
+wildfire and reached epic proportions. [BackPAN][] is migrating to it;
+Adobe PhoneGap is tightly integrated with it; [Node.js][] has tied
+its package manager [npm][] directly to it. GitHub was good enough for
+Linus himself to go with and everything since has been a snowball.
+
+But it isn't just source management. Anyone can have a web site for
+free on GitHub as well using [GitHub Pages][]. This developer-centric
+web site and blogging system using [Jekyll][], (which I think is
+a required tool as well but not enough to list alone), has brought
+full control static web site development into the hands of anyone for free.
+
+### Research: Google
+
+Had to list it. Save yourself some money and trees and just Google
+everything. Learn to setup automated searches that will send you email
+when new information is available for the keywords you list. This is
+a good way to assess your brand and self as well.
+
+You can even set up [Lynx][] on the command line if you want to do
+google searches. This text only browser cuts out on a lot of the fat
+and can be cut and paste from using `screen` directly into your VIM
+sessions without ever touching a mouse.
+
+Don't even thing about using Bing or Yahoo. The search results aren't
+even accurate.
+
+### Scripting: Perl, Bourne Shell
+
+
+These days at least Perl 5.8.8 is on no installation required. And
+when it isn't Bourne is.
+
+I'm not talking about for developing apps. I'm talking about the tools you
+hack together quickly in your `bin` dir to help you develop apps. These
+are the bits of code you and others make to make your coding life bliss.
+Perl + Bourne means you have a toolset that is ubiquitous and ready to
+install on anything in this cloud-centric time.
+
+If any one of those little hacked tools become big enough to evolve into
+an application, then, yeah, sure, port it to something else.
+
+**But Bourne is old and doesn't do what I want?**
+
+Then use Perl.
+
+**What about Korn shell?**
+
+I have yet to encounter a UNIX or Linux machine that has Korn shell
+that doesn't also have Perl. It just isn't worth it to blow Bourne
+shell universal compatibility. If you are ready to do that, then do it
+with Perl instead, which scales much better than Korn and saves you
+from nasty inconsistencies in `n|g|awk` and `sed` between Unix versions.
+I've been bit by that more times than I can remember.
+
+**Perl isn't secure**
+
+Bullshit. Prove it.
+
+**What about Ruby, Python, Node or any other scripting lang?**
+
+What about them? They are fantastic scripting languages ***that you still
+have to install.*** I'm just too lazy and in today's cloud development
+world so are a lot of other developers.
+
+
+Try as they might, there is simply no more ubiquitous scripting language
+with the power of Perl than Perl.
+
+**Perl is write-once, read-never code**
+
+Programmers that complain about not being able to read and modify Perl
+reveal more about themselves than any problem with Perl. Usually some bozo
+wrote spaghetti and another isn't smart enough to decipher it. It has
+never been about Perl itself. And yes you can write spaghetti in Python,
+Java, PHP, and JavaScript.
+
+
+**Perl sucks at object-oriented programming**
+
+Ummmm ... duh. And why are you using OO for your utility hacks anyway? Not
+*nearly* lazy enough. If you need more OO use something else like Ruby,
+Python, [Moose][] or the older [classes][] pragma. Why are you even
+doing OO? Are you absolutely sure a functional or procedural paradigm
+won't work for you? OO has major failings for the wrong application.
+
+### IDE: Eclipse
+
+An Integrated Development Environment is some messed up term invented
+by someone probably paid way too much. This is the thing you make
+other things with. That is, if those things are bloated crap, usually.
+
+IDEs where made for mouse-clicking bozos. But only the very lucky will
+escape having to ever use one. For some reason senior bozo
+decision-makers are convinced in some companies that these expensive
+bloated pieces of shit help our efficiency as developers, or maybe it
+is because they can hire more cheap bozos mouse-clickers to do the
+work they don't want to pay one *good* developer to do.
+
+If you have to use one, use Eclipse and then you can modify all the
+files from your Bash shell and VIM and just click update from the GUI
+when you are done. Eclipse also has a pretty good command-line
+interface as well so you can stay away from fat-GUI clicking.
+
+There is one big exception: when building stuff that contains a lot of
+clicking specifically targeted at mouse-clicking, touchy-pad smearing
+muggles (who pay us, I might add). The Android SDK is a good example
+of this.
+
+### Domains: Joker?
+
+I have used joker.com my whole life because it was cheaper than
+anything else for a very long time. Just this month I am starting to
+see other providers who are cheaper and want to check them out. Until
+then Joker has proved over and over to be the cheapest with the
+essential domains services.
+
+[Amazon]: http://aws.amazon.com/
+[BackPAN]: http://backpan.perl.org/
+[Bash]: http://superuser.com/questions/61727/why-is-bash-everywhere-in-most-if-not-all-linux-distributions 
+[CPAN]: http://www.perlmonks.org/?node_id=770042
+[Git]: http://git-scm.org
+[GitHub]: http://github.com
+[Hootsuite]: http://hootsuite.com
+[Jekyll]: http://jekyllrb.com
+[Lynx]: http://lynx.browser.org/
+[Moose]: http://blog.moose.perl.org/
+[Node.js]: http://nodejs.org 
+[PLN]: http://en.wikipedia.org/wiki/Personal_learning_network
+[Rackspace]: http://rackspace.com
+[Screen]: https://www.gnu.org/software/screen/
+[Twitter]: http://twitter.com
+[Xchat]: http://xchat.org 
+[bozos]: 'http://www.forbes.com/sites/ericjackson/2012/01/31/why-every-company-needs-a-no-bozo-policy/',
+[classes]: https://github.com/robmuh/perl-classes.git
+[npm]:  https://npmjs.org/
+[vim]: http://www.vim.org/ 
+[vimfiles]: https://github.com/robmuh/vimfiles.git 
