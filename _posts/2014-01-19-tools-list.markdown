@@ -9,7 +9,7 @@ as quickly and powerfully as they can. Often artists settle on one, best tool
 for the job. Here's list of the best tools to help you get started
 right.
 
-### **TL;DR**
+### TL;DR
 
 **Hardware:**
 
