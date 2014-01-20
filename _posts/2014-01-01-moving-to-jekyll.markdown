@@ -22,7 +22,7 @@ use GitHub daily for my commits for about everything, updating my
 web site and blog has become such a simple matter it will be very
 hard not to just continue to use Jekyll. Besides, the formatting and
 style of the Jekyll site---plus the amazing design sense of it's
-creator are spectacular. 
+creator are spectacular.
 
 To all my new students in 2014, let me say hello and wish you the best
 while I finish fleshing this thing out. Go ahead. Give it a try as
@@ -31,7 +31,7 @@ well. I'll even give you extra credit.
 Now I have to decide if porting all my ancient SourceForge code is
 worth it, nah.
 
-[Jekyll]: http://jekyllrb.com
-[GitHub]: http://github.com/robmuh
-[dominating]: http://programmers.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn
 
+[GitHub]: http://github.com/robmuh
+[Jekyll]: http://jekyllrb.com
+[dominating]: http://programmers.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn
