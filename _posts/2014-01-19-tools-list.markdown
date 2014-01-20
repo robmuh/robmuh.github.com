@@ -43,7 +43,7 @@ crazy cool (despite the price) but because you can develop for Windows on
 a Mac, but you can't develop for Mac--including iOS--on Windows (as of
 this writing). This also works out because, if you have the money, you
 can get an amped up Windows machine (that doubles as a sweet gaming
-rig) for your Desktop.
+rig) for your desktop.
 
 ### Virtual Machine: VMware
 
@@ -63,7 +63,7 @@ in the cloud.
 VMware is still a good investment, however, because it allows you to
 manipulate images that you have locally or have downloaded from the
 cloud. That is, assuming your cloud provider allows downloading of
-fully cloud system images ([Rackspace][] currently does not, for
+fully cloud system images. ([Rackspace][] currently does not, for
 example).
 
 ### Navigate: Bash (in vi-mode)
@@ -72,7 +72,7 @@ The day has finally come: one command shell to rule them all.
 
 [Bash][] is the most powerful command shell on the planet, period. Now
 that it runs on Mac, thanks to Steve Jobs and [NeXT integration][], and
-Windows, thanks to git-scm.org, there is really no reason to ever use
+Windows, thanks to [git-scm.org][], there is really no reason to ever use
 another interactive command shell again. You will code scripting
 languages for others for sure (i.e. Bourne, bat, etc.) but you will
 never need another shell to do your coding in.
@@ -168,14 +168,14 @@ IRC is also perfect for small teams to open their own room and just
 hang out in there. People come and go as they are around. Gives
 a watercooler feel when coding in your dungeon.
 
-**WARNING:**Do NOT jump into an IRC room and violate the rules of the
+**WARNING:** Do NOT jump into an IRC room and violate the rules of the
 room or do stupid things like asking to ask a question instead of just
 asking a question. The biggest strength of IRC, the immediate
 responsiveness and volume of people, is also it's greatest weakness.
 
 ### Email: Gmail
 
-My impression following a lot of Silicon Valley developer blogs and
+My impression as I read a lot of Silicon Valley developer blogs and
 tweets is that Google just ain't as cool to them as the rest of the
 world. This may be, but Gmail is still a defacto standard email
 provider for many reasons:
@@ -203,7 +203,7 @@ a wide and commanding lead over `hg` and all the other variants.
 [GitHub][] is largely the reason git has such a commanding lead over
 `hg`. This 'social development' approach of GitHub has caught on like
 wildfire and reached epic proportions. [BackPAN][] is migrating to it;
-Adobe PhoneGap is tightly integrated with it; [Node.js][] has tied
+[Adobe PhoneGap][] is tightly integrated with it; [Node.js][] has tied
 its package manager [npm][] directly to it. GitHub was good enough for
 Linus himself to go with and everything since has been a snowball.
 
@@ -318,6 +318,7 @@ see other providers who are cheaper and want to check them out. Until
 then Joker has proved over and over to be the cheapest with the
 essential domains services.
 
+[Adobe PhoneGap]: https://build.phonegap.com/
 [Amazon]: http://aws.amazon.com/
 [BackPAN]: http://backpan.perl.org/
 [Bash]: http://superuser.com/questions/61727/why-is-bash-everywhere-in-most-if-not-all-linux-distributions
@@ -325,12 +326,12 @@ essential domains services.
 [Digital Ocean]: https://digitalocean.com/
 [Git]: http://git-scm.org
 [GitHub]: http://github.com
-[GitHub Pages]: http://pages.github.com/ 
+[GitHub Pages]: http://pages.github.com/
 [Hootsuite]: http://hootsuite.com
 [Jekyll]: http://jekyllrb.com
 [Lynx]: http://lynx.browser.org/
 [Moose]: http://blog.moose.perl.org/
-[NeXT integration]: http://en.wikipedia.org/wiki/Darwin_(operating_system) 
+[NeXT integration]: http://en.wikipedia.org/wiki/Darwin_(operating_system)
 [Node.js]: http://nodejs.org
 [PLN]: http://en.wikipedia.org/wiki/Personal_learning_network
 [Rackspace]: http://rackspace.com
@@ -340,6 +341,7 @@ essential domains services.
 [Xchat]: http://xchat.org
 [bozos]: http://www.forbes.com/sites/ericjackson/2012/01/31/why-every-company-needs-a-no-bozo-policy/
 [classes]: https://github.com/robmuh/perl-classes.git
+[git-scm.org]: http://git-scm.org
 [npm]: https://npmjs.org/
 [vim]: http://www.vim.org/
 [vimfiles]: https://github.com/robmuh/vimfiles.git
