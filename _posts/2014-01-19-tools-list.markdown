@@ -516,7 +516,7 @@ of this.
 
 ### Domains: Joker?
 
-I have used joker.com my whole life because it was cheaper than
+I have used joker.com most of my career because it was cheaper than
 anything else for a very long time. Just this month I am starting to
 see other providers who are cheaper and want to check them out. Until
 then Joker has proved over and over to be the cheapest with the
