@@ -35,4 +35,4 @@ worth it, nah.
 [GitHub]: http://github.com/robmuh
 [Jekyll]: http://jekyllrb.com
 [dominating]: http://programmers.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn
-[tools list]: /tools-list/
+[tools list]: /pro-developer-tools-list/
