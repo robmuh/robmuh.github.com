@@ -51,7 +51,7 @@ don't pick the procedures that are the fastest to learn, they pick the
 ones that are ultimately the most effective and efficient once they
 have mastered them. Developers should be no different.
 
-**Bozos Alert:** Bozos don't learn something new unless forced. Gurus
+**Bozo Alert:** Bozos don't learn something new unless forced. Gurus
 don't *stop* learning and trying new things unless forced.
 
 ### 'dems fightin' words
