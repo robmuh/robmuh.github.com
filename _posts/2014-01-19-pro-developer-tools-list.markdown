@@ -5,7 +5,7 @@ description: A list of the best professional programming, sysadmin, and develope
 
 Coding is a craft, an art. Artists pick tools that bring their art to life
 as quickly and powerfully as they can. Often artists settle on one, best tool
-for the job. Here's list of the best tools to help you get started
+for the job. Here is a list of the best tools to help you get started
 right.
 
 ### TL;DR
