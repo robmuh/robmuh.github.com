@@ -32,6 +32,7 @@ There will be other stuff depending on your industry (Adobe, etc.).
 * Chrome
 * VMware
 * Eclipse (if necessary)
+* Jekyll (or equiv)
 
 **Services:**
 
@@ -345,9 +346,45 @@ Linus himself to go with and everything since has been a snowball.
 
 But it isn't just source management. Anyone can have a web site for
 free on GitHub as well using [GitHub Pages][]. This developer-centric
-web site and blogging system using [Jekyll][], (which I think is
-a required tool as well but not enough to list alone), has brought
+web site and blogging system using [Jekyll][] has brought
 full control static web site development into the hands of anyone for free.
+
+### Blogging: Jekyll
+
+[Jekyll][] is a static blogging engine made for developers who don't want
+to leave VIM and the command line unless they have to.
+
+1. Write
+1. [Show][]
+1. [Save][git save]
+
+And I'm done. No need to even open a browser unless I want to read it.
+There is simply no faster way to blog.
+
+All the blog posts are in [markdown][], which has become the standard
+light-weight text markup for about everything these days including entire
+[books][] and [StackExchange][]. This format reads and prints well all by
+itself and allows full HTML inclusion as well.
+
+
+While Jekyll is not the only static blogging engine around it is the
+main engine used for [GitHub Pages][] and has a long lead over any
+other static blogging offerings. This is a hot space right now and
+will likely change over time, but Jekyll has the momentum and support
+to be an essential tool to understand.
+
+[Jekyll][] is so powerful and efficient that the [Obama campaign][]
+included it in their toolset as well.
+
+A lot of developers don't take the time to blog, which I think is
+really too bad. Technocrats horde knowledge thinking it will give them
+power and authority. The opposite is actually true. The more you blog
+about topics you have clearly researched and discovered the more your
+influence grows. Plus putting concepts to type solidifies your
+understanding of them.
+
+Blogging is the modern form of [old world correspondence][] done between
+people of similar interest and aptitude.
 
 ### Reader: InstaPaper, Kindle
 
@@ -543,21 +580,27 @@ essential domains services.
 [Moose]: http://blog.moose.perl.org/
 [NeXT integration]: http://en.wikipedia.org/wiki/Darwin_(operating_system)
 [Node.js]: http://nodejs.org
+[Obama campaign]: http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/
 [PLN]: http://en.wikipedia.org/wiki/Personal_learning_network
 [Putty]: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 [Rackspace]: http://rackspace.com
 [Screen]: https://www.gnu.org/software/screen/
+[Show]: https://github.com/robmuh/bin/blob/master/show
+[StackExchange]: http://stackexchange.com/
 [Twitter]: http://twitter.com
 [VMware Workstaion]: http://www.vmware.com/products/workstation/
 [Vimeo]: http://vimeo.com
 [Xchat]: http://xchat.org
 [YouTube]: http://youtube.com
+[books]: http://ianhocking.com/2013/06/22/writing-a-novel-using-markdown/
 [bozos]: http://www.forbes.com/sites/ericjackson/2012/01/31/why-every-company-needs-a-no-bozo-policy/
 [classes]: https://github.com/robmuh/perl-classes.git
 [git save]: https://github.com/robmuh/bin/blob/master/save
 [git-bash]: http://git-scm.org
 [git-scm.org]: http://git-scm.org
+[markdown]: https://help.github.com/articles/github-flavored-markdown
 [npm]: https://npmjs.org/
+[old world correspondence]: https://www.darwinproject.ac.uk/
 [skilstak.io]: http://skilstak.io
 [vim]: http://www.vim.org/
 [vimfiles]: https://github.com/robmuh/vimfiles.git
