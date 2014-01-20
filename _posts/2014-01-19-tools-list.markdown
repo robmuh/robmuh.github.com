@@ -59,10 +59,10 @@ don't *stop* learning and trying new things unless forced.
 Before I get into this. I realize this post will infuriate some,
 usually [bozos][]. If you aren't already using these tools:
 
-* You are a muggle<br>(Isn't there a sports game on somewhere?)
-* You are a bozo<br>(Shouldn't you go check your StackExchange rep again?)
-* You are a master<br>(Nice to have you, but isn't that your hot pocket burning?)
-* You are a noob<br>(Welcome! Hopefully I can help. Read on.)
+* You are a muggle.<br>(Isn't there a sports game on somewhere?)
+* You are a [bozo][bozos].<br>(Shouldn't you go check your StackExchange rep again?)
+* You are a master.<br>(Nice to have you, but isn't that your hot pocket burning?)
+* You are a noob.<br>(Welcome! Hopefully I can help. Read on.)
 
 I hope this post helps you prioritize the mountain of things you have
 to learn to really become a great coder.
