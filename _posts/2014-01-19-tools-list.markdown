@@ -12,20 +12,26 @@ right.
 
 Master developers use the following tools:
 
+* Laptop (Mac if you can)
+* Desktop
 * SmartPhone
-* Laptop
-* VMware
+
 * Bash
+* VIM
+* Secure Shell (SSH)
 * Screen
 * git
+* IRC
+* VMware
+* Eclipse (if necessary)
+
 * GitHub.com
 * Twitter.com
-* IRC
-* gmail.com
-* joker.com
-* Bourne Shell
+* Gmail.com
+* Joker.com
+
 * Perl
-* Eclipse (if necessary)
+* Bourne Shell
 
 I'm not just listing my preferred tool set and supporting it. And although
 my conclusions are anecdotal, they are pretty consistent with what you
@@ -89,6 +95,19 @@ this writing). This also works out because, if you have the money, you
 can get an amped up Windows machine (that doubles as a sweet gaming
 rig) for your desktop.
 
+### Desktop
+
+Most established developers that I have met over the years have at
+least two computers, which means usually they have a powerful desktop
+system *and* a laptop. Usually they will get a static IP from their
+ISP and connect in with ssh. Even developers that spend most of their
+days in the cloud have a desktop to allow really powerful coding
+sessions with multiple screens even with their laptop beside them.
+
+This is particularly important if you are developing apps, games or
+enterprise software that requires a lot of horsepower or complex
+virtual lab setups.
+
 ### Virtual Machine: VMware
 
 Many will strongly argue with me on this one, but VMWare still
@@ -109,6 +128,24 @@ manipulate images that you have locally or have downloaded from the
 cloud. That is, assuming your cloud provider allows downloading of
 fully cloud system images. ([Rackspace][] currently does not, for
 example).
+
+### Connect: Secure Shell (SSH)
+
+This remote connection method is now the gold standard. Most
+enterprises and clients require it for logging into their systems.
+GitHub allows you to checkout your source repositories using only SSH
+keys, which is faster than over https (and less buggy) since you don't
+need to enter your password every time. This allows you to do things
+like combine everything you need to do to [git save][] something into a single
+command.
+
+And you really don't need [Putty][] anymore. Use [git-bash][], which
+you already installed if you are on Windows. It comes with ssh and your
+configurations can be saved and consistent across all your systems. I
+admit I chuckle a bit inside everytime I come across someone still using
+Putty. Save yourself one more install and skip it.
+
+Never use `telnet`. It's insecure and quirky.
 
 ### Navigate: Bash (in vi-mode)
 
@@ -241,6 +278,9 @@ every other source control management system because *every* clone of
 a `git` repository is effectively identical. This is radically
 different than ever source management system up to now and git has
 a wide and commanding lead over `hg` and all the other variants.
+
+Once you have ssh setup for your Git repositories like GitHub you can
+combine several git commands into one [git save][] type of command.
 
 ### Contribute: GitHub
 
@@ -379,6 +419,7 @@ essential domains services.
 [NeXT integration]: http://en.wikipedia.org/wiki/Darwin_(operating_system)
 [Node.js]: http://nodejs.org
 [PLN]: http://en.wikipedia.org/wiki/Personal_learning_network
+[Putty]: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 [Rackspace]: http://rackspace.com
 [Screen]: https://www.gnu.org/software/screen/
 [Twitter]: http://twitter.com
@@ -386,6 +427,8 @@ essential domains services.
 [Xchat]: http://xchat.org
 [bozos]: http://www.forbes.com/sites/ericjackson/2012/01/31/why-every-company-needs-a-no-bozo-policy/
 [classes]: https://github.com/robmuh/perl-classes.git
+[git save]: https://github.com/robmuh/bin/blob/master/save 
+[git-bash]: http://git-scm.org
 [git-scm.org]: http://git-scm.org
 [npm]: https://npmjs.org/
 [skilstak,io]: http://skilstak.io
