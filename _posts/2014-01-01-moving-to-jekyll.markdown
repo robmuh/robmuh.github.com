@@ -3,10 +3,10 @@ layout: post
 ---
 
 [Jekyll][] caught my eye more than a year ago, about the same time
-[GitHub][] did. Although GitHub only really took off in 2012 it has
+[GitHub][] did. Although GitHub seems like it only really took off in 2012 it has
 quickly become an essential tool for any self-respecting developer.
 Git itself is quickly [dominating][] the version management systems
-and with it GitHub.
+and with it GitHub. (*Update: added explanation to [tools list][]*)
 
 I'll save my rant about how ironic it is that the cool
 _new_ thing on the Web is static sites and blog engines.
@@ -35,3 +35,4 @@ worth it, nah.
 [GitHub]: http://github.com/robmuh
 [Jekyll]: http://jekyllrb.com
 [dominating]: http://programmers.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn
+[tools list]: /tools-list/
