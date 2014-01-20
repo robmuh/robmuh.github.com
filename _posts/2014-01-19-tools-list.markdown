@@ -19,10 +19,10 @@ usually [bozos][]. If you aren't already using these tools:
   ol { list-style-type: upper-alpha; }
 </style>`
 
-A. You are a muggle (Isn't there a sports game on somewhere?)
-B. You are a bozo (Shouldn't you go check your StackExchange rep again?)
-C. You are a master (Nice to have you, but isn't that your hot pocket burning?)
-D. You are a noob (Welcome! Hopefully I can help. Read on.)
+1. You are a muggle (Isn't there a sports game on somewhere?)
+1. You are a bozo (Shouldn't you go check your StackExchange rep again?)
+1. You are a master (Nice to have you, but isn't that your hot pocket burning?)
+1. You are a noob (Welcome! Hopefully I can help. Read on.)
 
 I hope this post helps you prioritize the mountain of things you have
 to learn to really become a great coder.
