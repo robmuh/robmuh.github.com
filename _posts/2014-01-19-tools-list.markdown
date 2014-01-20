@@ -3,12 +3,15 @@ layout: post
 description: A list of the best programming, sysadmin, and developer tools based on experience and consensus
 ---
 
-tldr: Masters use elite tools smartphone, laptop, vmware, bash, vim, screen, git, github.com, git-scm.org, twitter.com, irc, gmail.com, joker.com, bourne shell, and perl; eclipse if necessary
 
 Coding is a craft, an art. Artists pick tools that bring their art to life
 as quickly and powerfully as they can. Often artists settle on one, best tool
 for the job. Here's list of the best tools to help you get started
 right.
+
+**TL;DR** Masters use elite tools smartphone, laptop, vmware, bash, vim,
+screen, git, github.com, git-scm.org, twitter.com, irc, gmail.com,
+joker.com, bourne shell, and perl; eclipse if necessary
 
 ### 'dems fightin' words
 
