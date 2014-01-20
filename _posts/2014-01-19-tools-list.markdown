@@ -10,11 +10,13 @@ right.
 
 ### **TL;DR**
 
-Master developers use the following tools:
+Hardware:
 
 * Laptop (Mac if you can)
 * Desktop
 * SmartPhone
+
+Software:
 
 * Bash
 * VIM
@@ -25,10 +27,14 @@ Master developers use the following tools:
 * VMware
 * Eclipse (if necessary)
 
+Services: 
+
 * GitHub.com
 * Twitter.com
 * Gmail.com
 * Joker.com
+
+Languages:
 
 * Perl
 * Bourne Shell
