@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Pro Developer Tools List
-description: A list of the best programming, sysadmin, and developer tools based on experience and consensus
+description: A list of the best professional programming, sysadmin, and developer tools based on experience and consensus
 ---
 
 Coding is a craft, an art. Artists pick tools that bring their art to life
