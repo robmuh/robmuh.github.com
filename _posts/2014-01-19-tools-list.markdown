@@ -50,7 +50,7 @@ So very many, but these are essential.
 
 Languages:
 
-For hacking your perosnal toolset, not other main development.
+For hacking your personal toolset, not other main development.
 
 * Perl
 * Bourne Shell
@@ -59,7 +59,7 @@ I'm not just listing my preferred tool set and supporting it. And although
 my conclusions are anecdotal, they are pretty consistent with what you
 would find out on your own if you searched or surveyed developers on the
 Internet, which is something I hope to better do someday through
-[skilstak,io][].
+[skilstak.io][].
 
 **Bozo Alert:** Bozos decide first then research later to support their
 conclusions. Gurus learn and research, even if informally, and then
@@ -559,6 +559,6 @@ essential domains services.
 [git-bash]: http://git-scm.org
 [git-scm.org]: http://git-scm.org
 [npm]: https://npmjs.org/
-[skilstak,io]: http://skilstak.io
+[skilstak.io]: http://skilstak.io
 [vim]: http://www.vim.org/
 [vimfiles]: https://github.com/robmuh/vimfiles.git
