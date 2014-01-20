@@ -17,7 +17,7 @@ usually [bozos][]. If you aren't already using these tools:
 
 <style type="text/css">
   ol { list-style-type: upper-alpha; }
-</style>`
+</style>
 
 1. You are a muggle (Isn't there a sports game on somewhere?)
 1. You are a bozo (Shouldn't you go check your StackExchange rep again?)
