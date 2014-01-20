@@ -194,7 +194,7 @@ way to reach out. Use it.
 If you need a fast answer to a question you've already researched from
 experts your best tool is IRC.
 
-IRC, or Internet Relay Chat, is something of a rite of passage. Like
+IRC, or [Internet Relay Chat][], is something of a rite of passage. Like
 VI, but not as old, IRC has been used by the best hackers in the world
 since the beginning of the Internet. It is the first, and some would
 say best, chat room. IRC is like Twitter in that you can follow
@@ -372,6 +372,7 @@ essential domains services.
 [GitHub]: http://github.com
 [GitHub Pages]: http://pages.github.com/
 [Hootsuite]: http://hootsuite.com
+[Internet Relay Chat]: http://en.wikipedia.org/wiki/Internet_Relay_Chat
 [Jekyll]: http://jekyllrb.com
 [Lynx]: http://lynx.browser.org/
 [Moose]: http://blog.moose.perl.org/
