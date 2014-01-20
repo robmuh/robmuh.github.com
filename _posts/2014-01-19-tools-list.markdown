@@ -12,29 +12,37 @@ right.
 
 Hardware:
 
-* Laptop (Mac if you can)
-* Desktop (Windows 7)
+Don't stick with just one vendor. Mix it up.
+
+* Laptop (Mac if you can or Linux)
+* Tower (Windows 7)
 * SmartPhone
 
 Software:
 
-* Bash
-* VIM
-* Secure Shell (SSH)
-* Screen
+There will be other stuff depending on your industry (Adobe, etc.).
+
+* bash
+* vim
+* ssh
+* screen
 * git
-* IRC
+* irc
 * VMware
 * Eclipse (if necessary)
 
 Services: 
 
-* GitHub.com
-* Twitter.com
+So very many, but these are essential.
+
 * Gmail.com
-* Joker.com
+* Twitter.com
+* GitHub.com
+* Joker.com (or equiv)
 
 Languages:
+
+For hacking your perosnal toolset, not other main development.
 
 * Perl
 * Bourne Shell
