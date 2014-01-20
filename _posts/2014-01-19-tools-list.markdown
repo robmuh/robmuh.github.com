@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Pro Developer Tools List
 description: A list of the best programming, sysadmin, and developer tools based on experience and consensus
 ---
 
