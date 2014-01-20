@@ -27,10 +27,15 @@ Master developers use the following tools:
 * Perl
 * Eclipse (if necessary)
 
-I'm not just listing my preferred tool set. And although my conclusions
-are anecdotal, they are pretty consistent with what you would find out on
-your own if you searched or surveyed developers on the Internet, which is
-something I hope to better do someday through [skilstak,io][].
+I'm not just listing my preferred tool set and supporting it. And although
+my conclusions are anecdotal, they are pretty consistent with what you
+would find out on your own if you searched or surveyed developers on the
+Internet, which is something I hope to better do someday through
+[skilstak,io][].
+
+**Bozo Alert:** Bozos decide first then research later to support their
+conclusions. Gurus learn and research, even if informally, and then
+decide.
 
 ### How to Decide?
 
@@ -45,6 +50,9 @@ Notice I did not include how long it takes to master the tool. Doctors
 don't pick the procedures that are the fastest to learn, they pick the
 ones that are ultimately the most effective and efficient once they
 have mastered them. Developers should be no different.
+
+**Bozos Alert:** Bozos don't learn something new unless forced. Gurus
+don't *stop* learning and trying new things unless forced.
 
 ### 'dems fightin' words
 
