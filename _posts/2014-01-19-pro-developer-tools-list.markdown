@@ -383,12 +383,12 @@ even accurate.
 
 ### Sharing: Google+
 
-Google+ has taken over Skype in my opinion as the best 'fat' collaboration
+[Google+][] has taken over Skype in my opinion as the best 'fat' collaboration
 tool, when you need voice, video and more. You can not only voice and
 video chat, but you can make demos and presentations--even remote desktop.
 
 Count on becoming the extended family and friends IT guy. Google+ is
-worth it just to fix their muggle IT proglems with and for them in the
+worth it just to fix their muggle IT problems with and for them in the
 least amount of time so you can go back to creating cool stuff.
 
 ### Video: Youtube.com
@@ -399,7 +399,7 @@ Even though [Vimeo][] has a better product, YouTube is tied to your Google
 account and contains more instructional material than any other
 service. This is why [KhanAcademy][] and others choose it.
 
-You may never make a video of your own, but shances are someone else
+You may never make a video of your own, but chances are someone else
 has and you'll need an account to remember all the videos you collect
 covering development and other topics you care about.
 
@@ -407,10 +407,9 @@ covering development and other topics you care about.
 
 Amazon has so many benefits it too is a no brainer:
 
-*
 * Best no-questions-asked return policy
 * Reviews of everything
-* Videos puchased are available
+* Videos purchased are available
 * You keep any music purchased
 
 And of course ...
@@ -427,7 +426,7 @@ provider as your primary ([Digital Ocean][], [Rackspace][], [Linode][], etc.)
 can selectively make items public. While you can have private GitHub
 repos for a slight additional cost, DropBox gives you this
 functionality for free and is available anytime to any computer that
-has an internet connection.
+has an Internet connection.
 
 You can also collaboratively share files here with muggles that are
 unfamiliar with GitHub.
@@ -522,8 +521,8 @@ then Joker has proved over and over to be the cheapest with the
 essential domains services.
 
 [Adobe PhoneGap]: https://build.phonegap.com/
-[Amazon AWS]: http://aws.amazon.com/
 [Amazon]: http://amazon.com
+[Amazon AWS]: http://aws.amazon.com/
 [BackPAN]: http://backpan.perl.org/
 [Bash]: http://superuser.com/questions/61727/why-is-bash-everywhere-in-most-if-not-all-linux-distributions
 [CPAN]: http://www.perlmonks.org/?node_id=770042
@@ -533,12 +532,13 @@ essential domains services.
 [Git]: http://git-scm.org
 [GitHub]: http://github.com
 [GitHub Pages]: http://pages.github.com/
+[Google+]: http://plus.google.com/
 [Hootsuite]: http://hootsuite.com/
 [InstaPaper]: http://instapaper.com/
 [Internet Relay Chat]: http://en.wikipedia.org/wiki/Internet_Relay_Chat
 [Jekyll]: http://jekyllrb.com
 [KhanAcademy]: http://khanacademy.com
-[Linode]: https://www.linode.com/ 
+[Linode]: https://www.linode.com/
 [Lynx]: http://lynx.browser.org/
 [Moose]: http://blog.moose.perl.org/
 [NeXT integration]: http://en.wikipedia.org/wiki/Darwin_(operating_system)
