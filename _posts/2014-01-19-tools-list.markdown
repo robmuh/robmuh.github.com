@@ -338,7 +338,7 @@ essential domains services.
 [Twitter]: http://twitter.com
 [VMware Workstaion]: http://www.vmware.com/products/workstation/
 [Xchat]: http://xchat.org
-[bozos]: 'http://www.forbes.com/sites/ericjackson/2012/01/31/why-every-company-needs-a-no-bozo-policy/',
+[bozos]: http://www.forbes.com/sites/ericjackson/2012/01/31/why-every-company-needs-a-no-bozo-policy/
 [classes]: https://github.com/robmuh/perl-classes.git
 [npm]: https://npmjs.org/
 [vim]: http://www.vim.org/
