@@ -18,6 +18,7 @@ Don't stick with just one vendor. Mix it up.
 * Laptop (Mac if you can or Linux)
 * Tower (Windows 7)
 * SmartPhone
+* Pad
 
 Software:
 
@@ -29,16 +30,22 @@ There will be other stuff depending on your industry (Adobe, etc.).
 * screen
 * git
 * irc
+* Chrome
 * VMware
 * Eclipse (if necessary)
 
-Services: 
+Services:
 
 So very many, but these are essential.
 
 * Gmail.com
 * Twitter.com
 * GitHub.com
+* Google+
+* YouTube.com
+* DropBox.com
+* Amazon.com
+* InstaPaper.com
 * Joker.com (or equiv)
 
 Languages:
@@ -122,6 +129,37 @@ sessions with multiple screens even with their laptop beside them.
 This is particularly important if you are developing apps, games or
 enterprise software that requires a lot of horsepower or complex
 virtual lab setups.
+
+### Pad
+
+You need a touch device. It seems optional but even all you use it for
+is as a reader it is worth it. This is the primary reason I list it.
+You should be constantly reading and keeping up on new stuff and being
+stuck in front of a Desktop or even a laptop can be just annoying
+enough to keep you from reading. This is particularly powerful when
+combined with Kindle and InstaPaper (which I discuss later).
+
+Here are some more reasons:
+
+* Enables point-of-sale credit card transactions with clients
+* Makes presentations easier
+* Portable enough to take with you to read
+* Use it to plug your music or video into TV while you code on laptop
+* You'll likely be developing for it
+
+Get the one you will be developing for the most, if that is your thing.
+Since Kindle runs on everything I would suggest an iPad or Android.
+
+### Browser: Chrome
+
+There is no more better graphic web browser than Chrome. Webkit and the JavaScript V8
+are the dominate web components. Everything is benchmarked against
+them. Chrome's developer console and other tools also make it far
+superiour even to Firefox.
+
+On the practical side, Chrome wonderfully organizes and psychronizes
+your bookmarks, search items and more. Your customizations are
+instantly anywhere you find [Chrome][].
 
 ### Virtual Machine: VMware
 
@@ -312,6 +350,23 @@ web site and blogging system using [Jekyll][], (which I think is
 a required tool as well but not enough to list alone), has brought
 full control static web site development into the hands of anyone for free.
 
+### Reader: InstaPaper, Kindle
+
+[InstaPaper][] is something of an unknown tool but I have noticed the
+most elite use it to constantly keep up on those web site posts that
+are just TL;RL (read later). You want to read them but don't have time
+now. But you will later. That's the point of InstaPaper. You click
+*Read Later* on the page or from your device and now you have
+something to read over coffee in the morning, while waiting in lines,
+even in the john (but you can expect funny looks when you take your
+device in the bathroom with you).
+
+Kindle books is a given. They are cheaper and lighter on your device
+than in tree form, but most importantly they are **searchable**.
+Sometimes having a good O'Reilly book is nostalgically nice, but
+a really bad idea given how fast that material will become out of
+date.
+
 ### Research: Google
 
 Had to list it. Save yourself some money and trees and just Google
@@ -327,8 +382,58 @@ sessions without ever touching a mouse.
 Don't even thing about using Bing or Yahoo. The search results aren't
 even accurate.
 
-### Scripting: Perl, Bourne Shell
+### Sharing: Google+
 
+Google+ has taken over Skype in my opinion as the best 'fat' collaboration
+tool, when you need voice, video and more. You can not only voice and
+video chat, but you can make demos and presentations--even remote desktop.
+
+Count on becoming the extended family and friends IT guy. Google+ is
+worth it just to fix their muggle IT proglems with and for them in the
+least amount of time so you can go back to creating cool stuff.
+
+### Video: Youtube.com
+
+[YouTube][] is another no brainer. Chances are you already use this.
+
+Even though [Vimeo][] has a better product, YouTube is tied to your Google
+account and contains more instructional material than any other
+service. This is why [KhanAcademy][] and others choose it.
+
+You may never make a video of your own, but shances are someone else
+has and you'll need an account to remember all the videos you collect
+covering development and other topics you care about.
+
+### Cloud and More: Amazon
+
+Amazon has so many benefits it too is a no brainer:
+
+*
+* Best no-questions-asked return policy
+* Reviews of everything
+* Videos puchased are available
+* You keep any music purchased
+
+And of course ...
+
+* AWS Cloud Services
+
+[Amazon AWS][] AWS has a far lead in the cloud hosting world, chances are you'll
+have to know it at some point even if you do pick another cloud
+provider as your primary ([Digital Ocean][], [Rackspace][], [Linode][], etc.)
+
+### DropBox
+
+[DropBox][] is just the easiest way to transfer files between computers. You
+can selectively make items public. While you can have private GitHub
+repos for a slight additional cost, DropBox gives you this
+functionality for free and is available anytime to any computer that
+has an internet connection.
+
+You can also collaboratively share files here with muggles that are
+unfamiliar with GitHub.
+
+### Scripting: Perl, Bourne Shell
 
 These days at least Perl 5.8.8 is on no installation required. And
 when it isn't Bourne is.
@@ -418,17 +523,23 @@ then Joker has proved over and over to be the cheapest with the
 essential domains services.
 
 [Adobe PhoneGap]: https://build.phonegap.com/
-[Amazon]: http://aws.amazon.com/
+[Amazon AWS]: http://aws.amazon.com/
+[Amazon]: http://amazon.com
 [BackPAN]: http://backpan.perl.org/
 [Bash]: http://superuser.com/questions/61727/why-is-bash-everywhere-in-most-if-not-all-linux-distributions
 [CPAN]: http://www.perlmonks.org/?node_id=770042
+[Chrome]: http://chrome.google.com
 [Digital Ocean]: https://digitalocean.com/
+[DropBox]: http://dropbox.com
 [Git]: http://git-scm.org
 [GitHub]: http://github.com
 [GitHub Pages]: http://pages.github.com/
 [Hootsuite]: http://hootsuite.com
+[InstaPaper]: 
 [Internet Relay Chat]: http://en.wikipedia.org/wiki/Internet_Relay_Chat
 [Jekyll]: http://jekyllrb.com
+[KhanAcademy]: http://khanacademy.com
+[Linode]: https://www.linode.com/ 
 [Lynx]: http://lynx.browser.org/
 [Moose]: http://blog.moose.perl.org/
 [NeXT integration]: http://en.wikipedia.org/wiki/Darwin_(operating_system)
@@ -439,10 +550,12 @@ essential domains services.
 [Screen]: https://www.gnu.org/software/screen/
 [Twitter]: http://twitter.com
 [VMware Workstaion]: http://www.vmware.com/products/workstation/
+[Vimeo]: http://vimeo.com
 [Xchat]: http://xchat.org
+[YouTube]: http://youtube.com
 [bozos]: http://www.forbes.com/sites/ericjackson/2012/01/31/why-every-company-needs-a-no-bozo-policy/
 [classes]: https://github.com/robmuh/perl-classes.git
-[git save]: https://github.com/robmuh/bin/blob/master/save 
+[git save]: https://github.com/robmuh/bin/blob/master/save
 [git-bash]: http://git-scm.org
 [git-scm.org]: http://git-scm.org
 [npm]: https://npmjs.org/
