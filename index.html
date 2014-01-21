@@ -1,36 +1,8 @@
 ---
-title: Rob
-description: Rob Muhlestein's blog exposing the arcane art of crafting code to create apps, web sites, software, linux and unix shell scriptis, games and more
-subtitle: exposing the arcane art of crafting code
+layout: blog
+title: robmuh.com - 
 ---
 
-{% include top.html %}
-<!--^^^^^^^^^  hell yes this is HTML5 ;) -->
-
-<!-- vvvvvvvv redundant, nah, just to lazy to not include top.html -->
-<body background="/images/rainbows_and_hearts.jpg">
-
-    <!-- lol, yo, blink is BACK bitch -->
-    <h1><blink>Rob</blink></h1>
-
-    <p><a href="http://twitter.com/robmuh">@robmuh</a></p> 
-
-    <p>[You <blink>WISH</blink> your site was as cool as mine. What's that you say? You can't read it?
-      <a href="http://www.w3.org/WAI/Resources/">Hummmmmm</a>.]</p>
-
-    <p>
-      {% for post in site.posts %}<a href="{{ post.url }}">{{ post.title }}</a><br>{% endfor %}
-    </p>
-
-    <!-- yeah, yeah, I know, need a pure JS version, jQuery is for loafer-wearers, :P -->
-    <style type="text/css">
-      @-webkit-keyframes blink { 0% { opacity: 0 } 50% { opacity: 0 } 50.01% { opacity: 1 } 100% { opacity: 1 } }
-      blink { -webkit-animation: blink 0.7s infinite linear alternate; -webkit-font-smoothing: antialiased; }
-    </style>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/respond.js"></script>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    <p>[Optimized for <a href="http://lynx.isc.org">Lynx</a>. <em>*wink*</em>]</p>
-  </body>
-</html>
+{% for post in site.posts %}
+  {% include blog_post.html %}
+{% endfor %}
