@@ -582,10 +582,11 @@ h3 {
 a {
   color: #ffcc00;
   font-weight: 400;
-  text-decoration: none;
 }
-a:hover {
+
+a:hover, a:focus {
   color: #ffeb9b;
+  background-color: #000000;
 }
 
 a small {
@@ -777,8 +778,9 @@ dt {
   font-size: 14px;
   display: inline-block;
   text-align: center;
+  text-decoration: none;
 }
-#header nav li a:hover {
+#header nav li a:hover, a:focus {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #749619), color-stop(100%, #527f0e));
   background: -webkit-linear-gradient(#749619, #527f0e);
   background: -moz-linear-gradient(#749619, #527f0e);
@@ -791,6 +793,7 @@ dt {
   -webkit-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(0, 0, 0, 0);
   -o-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(0, 0, 0, 0);
   box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(0, 0, 0, 0);
+  text-decoration: none;
 }
 #header nav li.home {
   float: left;
@@ -806,12 +809,19 @@ dt {
   font-size: 11px;
 }
 
+
 section {
   max-width: 650px;
   padding: 30px 0px 50px 0px;
   margin: 20px 0;
   margin-top: 60px;
 }
+
+section h3 a {
+  text-decoration: none;
+  font-weight: 700;
+}
+
 section #title {
   border: 0;
   outline: none;
@@ -832,19 +842,7 @@ section #title p {
   font-size: 18px;
   text-align: center;
 }
-section #title .credits {
-  font-size: 11px;
-  font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: normal;
-  color: #696969;
-  margin-top: -10px;
-}
-section #title .credits.left {
-  float: left;
-}
-section #title .credits.right {
-  float: right;
-}
+
 section ul li span.points {
   color: #696969;
 }
