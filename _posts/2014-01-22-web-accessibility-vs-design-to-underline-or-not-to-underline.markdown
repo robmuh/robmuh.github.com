@@ -9,21 +9,32 @@ requirements or artistic sensibilities. Why? What is your goal? To look
 good for the majority or be functional for everyone.
 
 **TL;DR:** Follow [webaim.org][]'s recommendations when creating your web
-sites and apps unless you are really, really, really sure no one with any
-sight impairments has any reason to ever use it, or you're just an asshole
-that doesn't give a shit.
+sites and apps unless you *know* no one with any sight impairment will
+ever want to use it.
 
 ![Put a damn line underneath][]
 
-Yeah, that's my social media friend Gina calling us all out for what
-we should already obviously know as web developers and
-designers---especially as current or aspiring instructional designers.
+I've never met [Jen Myers][] but I like her already. That's her calling out all of
+us that put design over function, something we web and mobile developers
+all need to remember---especially as current or aspiring instructional
+designers.
 
 ### Don't be me.
 
+I've been away from web design for a while (since my
+[90s Teleport and Nike days][]) but I've kept up enough to know [bad design](http://robmuh.me)
+when I see it &hellip; or at least I think so. &hellip; ok, ok, what the
+hell do I know about design? I'm just a coder after all, right? Let's
+just say my design-muggle eyes know [really bad design][shittysite] when I
+see it. (I'm curious, how long did it take for that site to load for
+you? For me, on a screaming machine it still takes a full two
+seconds.) Still I forgot something we all should remember.
+
+
+
 Recently I grabbed a nice [Jekyll][] template from GitHub during the
 [GitHub Automatic Pages][] creation (as I recommend to my students as
-well). Later when Gina tweeted this I thought, "Oh God, I hope it wasn't
+well). Later when Jen tweeted this I thought, "Oh God, I hope it wasn't
 because she visited my site." I was so embarrassed to realize that,
 although I just earned my [Online Instructors Certificate][], which
 included an entire unit dedicated to web accessibility, that I had quickly
@@ -35,7 +46,7 @@ I knew better and fixed that immediately.
 
 ### "Put a damn line underneath"
 
-&hellip; to use Gina's words. It really isn't that hard. In fact, it
+&hellip; to use Jen's words. It really isn't that hard. In fact, it
 is the default unless you turn it off:
 
 {% highlight css %}
@@ -66,8 +77,8 @@ hover event will not trigger without adding the focus event.
 ### Why so many links?
 
 While we are on this, why are their so many links on your site anyway? Can
-you imagine navigating sites like [this, my favorite example of a shitty
-site](http://lakenorman.com) with just tab? Thank God for the mobile-first,
+you imagine navigating sites like [this, (my favorite example of a shitty site)][shittysite]
+with just tab? Thank God for the mobile-first,
 responsive design movement and the HTML5 that enables it so
 wonderfully.
 
@@ -91,8 +102,11 @@ I don't want to believe there are designers out there that knowingly
 ignore those with visual impairments but there are definitely a lot
 of us who forget to think about it. Now that we will we remember?
 
+[90s Teleport and Nike days]: http://linkedin.com/in/robmuh
 [GitHub Automatic Pages]: http://pages.github.com/
 [Jekyll]: http://jekyllrb.com
+[Jen Myers]: http://twitter.com/antiheroine
 [Online Instructors Certificate]: http://www.rccc.edu/distance/internet-courses/
 [Put a damn line underneath]: /images/put_a_damn_line_underneath.png
 [webaim.org]: http://webaim.org
+[shittysite]: http://lakenorman.com
