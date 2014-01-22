@@ -100,7 +100,7 @@ elements and not necessarily underlines.
 
 I don't want to believe there are designers out there that knowingly
 ignore those with visual impairments but there are definitely a lot
-of us who forget to think about it. Now that we will we remember?
+of us who forget to think about it. Now that have been reminded we will we remember?
 
 [90s Teleport and Nike days]: http://linkedin.com/in/robmuh
 [GitHub Automatic Pages]: http://pages.github.com/
