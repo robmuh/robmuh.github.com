@@ -36,7 +36,7 @@ Recently I grabbed a nice [Jekyll][] template from GitHub during the
 [GitHub Automatic Pages][] creation (as I recommend to my students as
 well). Later when Jen tweeted this I thought, "Oh God, I hope it wasn't
 because she visited my site." I was so embarrassed to realize that,
-although I just earned my [Online Instructors Certificate][], which
+although I just earned my [Online Instructor Certificate][], which
 included an entire unit dedicated to web accessibility, that I had quickly
 picked a cool template that missed one of the easiest things to catch:
 
@@ -76,8 +76,8 @@ hover event will not trigger without adding the focus event.
 
 ### Why so many links?
 
-While we are on this, why are their so many links on your site anyway? Can
-you imagine navigating sites like [this, (my favorite example of a shitty site)][shittysite]
+While we are on this, why are there so many links on your site anyway? Can
+you imagine navigating sites like [this, (my favorite example of a bad site)][shittysite]
 with just tab? Thank God for the mobile-first,
 responsive design movement and the HTML5 that enables it so
 wonderfully.
@@ -92,7 +92,7 @@ For example, I have a client currently who is putting his instructional
 golf videos online and into an app. At first it almost seems like
 vision accessibility should not be an issue since golfers will generally
 be able to see well, it's a big part of the sport. But there are obviously
-color-blind golfers. So no, he needs accessibility as well. In his
+color-blind golfers. So yes, he needs accessibility as well. In his
 case, however, visual accessibility comes through mobile-first design
 elements and not necessarily underlines.
 
@@ -106,7 +106,7 @@ of us who forget to think about it. Now that have been reminded we will we remem
 [GitHub Automatic Pages]: http://pages.github.com/
 [Jekyll]: http://jekyllrb.com
 [Jen Myers]: http://twitter.com/antiheroine
-[Online Instructors Certificate]: http://www.rccc.edu/distance/internet-courses/
+[Online Instructor Certificate]: http://www.rccc.edu/distance/internet-courses/
 [Put a damn line underneath]: /images/put_a_damn_line_underneath.png
 [webaim.org]: http://webaim.org
 [shittysite]: http://lakenorman.com
