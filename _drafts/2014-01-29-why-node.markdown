@@ -1,0 +1,28 @@
+---
+layout: post
+---
+
+"So you can have a web upload progress bar," says Ryan Dahl [paraphrasing], the creator of the [node.js][] experiment.
+
+{% include youtube.html Fc26auhSLqM %}
+
+This is a dry technical topic, but an exciting one for technologists.
+
+The rise of do-two-things-at-once in the formerly quick
+request-response world of the web gave birth to thinking like Ryan's
+node.js as well as the wildly popular [nginx][] web server both of
+which are *event driven* and *asynchronous*. The age of memory-hogging
+intensive, synchronous let's-spawn-dozens-of-child-processes model
+such as that found in the original Apache web server has passed.
+
+The cloud has changed everything. I once created several automations for
+instantiating Apache virtual servers for Teleport customers. All these
+light-weight web sites shared a common system and web server, which was
+given a healthy amount of RAM to split between them all. Today these
+same customers can flip on an [AWS][] or [Digital Ocean][] cloud
+instance and have all the autonomy they could ever want, if they even
+need a full machine.
+
+The demand for behemoth software applications is dramatically
+declining in favor of granular apps and much smaller systems dedicated
+to one function.
