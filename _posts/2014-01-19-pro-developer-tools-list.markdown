@@ -30,9 +30,9 @@ There will be other stuff depending on your industry (Adobe, etc.).
 * git
 * irc
 * Chrome
-* VMware
 * Eclipse (if necessary)
 * Jekyll (or equiv)
+* GreenShot (or equiv)
 
 **Services:**
 
@@ -161,26 +161,30 @@ On the practical side, Chrome wonderfully organizes and psychronizes
 your bookmarks, search items and more. Your customizations are
 instantly anywhere you find [Chrome][].
 
-### Virtual Machine: VMware
+### Cloud
 
-Many will strongly argue with me on this one, but VMWare still
-dominates the personal lab-type virtual machine usage. If you want to
-setup a local emulated multi-tier application [VMware Workstaion][] is
-the way to go.
+Modern development is in the Cloud Modern developers therefore have two
+things above all:
 
-That said, [Amazon][], [Rackspace][], and [Digital Ocean][] are making
-it to easy and cost effective to bring up server images that more and
+1. A laptop
+1. A cloud account (or ten)
+
+Most of the work you do will will not be on the actual
+computer you use. You will either log into servers using `ssh` or you
+will actually setup servers in the cloud for your customers and
+clients.
+
+[Amazon][], [Rackspace][], and [Digital Ocean][] are making
+it easy and cost effective to bring up server images that more and
 more developers are just using them for developing these types of apps
-and turning them up when things go into production. With the cost of
-VMware up front and the upgrade costs, which are about annually, you
-about pay for the cloud hosting costs to just to all the development
-in the cloud.
+and turning them up when things go into production. 
 
-VMware is still a good investment, however, because it allows you to
-manipulate images that you have locally or have downloaded from the
-cloud. That is, assuming your cloud provider allows downloading of
-fully cloud system images. ([Rackspace][] currently does not, for
-example).
+I used to recommend getting VMware since it allows setting up a lab in
+your location all on a single computer. I suppose this is still an
+option if you have a powerful desktop. But the contract/project-based
+work of most developers makes portability usually more valuable. This
+is why the Macbook Air or light Ubuntu equivalent a *huge* item for
+developers.
 
 ### Connect: Secure Shell (SSH)
 
@@ -385,6 +389,24 @@ understanding of them.
 
 Blogging is the modern form of [old world correspondence][] done between
 people of similar interest and aptitude.
+
+### Screen Capture: GreenShot
+
+You'll need screen shots a lot as a developer, to communicate with
+customers, show problems, create help documentation, design
+prototypes, and blog.
+
+* Fast
+* Flexible
+* Compatible
+* Free
+
+GreenShot seems the best option on all of these. It allows the capture
+of an entire window, even if not on the page, which is key to me. It
+also changes the default `Print Screen` key to do region captures,
+which I prefer. Yes you can customize to your hearts content, but the
+default functionality is very good making it a quick application to
+download and install for anyone.
 
 ### Reader: InstaPaper, Kindle
 
