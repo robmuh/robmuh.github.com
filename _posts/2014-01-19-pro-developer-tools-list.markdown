@@ -177,7 +177,7 @@ clients.
 [Amazon][], [Rackspace][], and [Digital Ocean][] are making
 it easy and cost effective to bring up server images that more and
 more developers are just using them for developing these types of apps
-and turning them up when things go into production. 
+and turning them up when things go into production.
 
 I used to recommend getting VMware since it allows setting up a lab in
 your location all on a single computer. I suppose this is still an
@@ -401,7 +401,7 @@ prototypes, and blog.
 * Compatible
 * Free
 
-GreenShot seems the best option on all of these. It allows the capture
+[GreenShot][] seems the best option on all of these. It allows the capture
 of an entire window, even if not on the page, which is key to me. It
 also changes the default `Print Screen` key to do region captures,
 which I prefer. Yes you can customize to your hearts content, but the
@@ -592,6 +592,7 @@ essential domains services.
 [GitHub]: http://github.com
 [GitHub Pages]: http://pages.github.com/
 [Google+]: http://plus.google.com/
+[GreenShot]: http://getgreenshot.org/
 [Hootsuite]: http://hootsuite.com/
 [InstaPaper]: http://instapaper.com/
 [Internet Relay Chat]: http://en.wikipedia.org/wiki/Internet_Relay_Chat
@@ -610,7 +611,6 @@ essential domains services.
 [Show]: https://github.com/robmuh/bin/blob/master/show
 [StackExchange]: http://stackexchange.com/
 [Twitter]: http://twitter.com
-[VMware Workstaion]: http://www.vmware.com/products/workstation/
 [Vimeo]: http://vimeo.com
 [Xchat]: http://xchat.org
 [YouTube]: http://youtube.com
