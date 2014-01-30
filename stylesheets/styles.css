@@ -651,6 +651,7 @@ section iframe {
 blockquote {
   border-left: 3px solid #ffcc00;
   margin: 0;
+  margin-left: +20px;
   padding: 0 0 0 20px;
   font-style: italic;
 }
