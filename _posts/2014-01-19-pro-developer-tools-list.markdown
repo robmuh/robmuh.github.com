@@ -241,8 +241,9 @@ customizations mixed with their own through `.vimrc` and other
 Vim, like so many things in the development world, takes months to become
 proficient with but it is practically a requirement in this field.
 
-**Bozo Alert**: Some will tell you to use Emacs and make lame arguments
-for it. Just ignore them. Most of the rest of the world already has.
+Note: If you absolutely positively have to have another editor besides
+vim, consider [sublime][] or [writemonkey][] for just pure writing without
+screen distraction (for which I would pay $100 for a pure vim mode).
 
 ### Terminals: screen
 
@@ -579,6 +580,10 @@ see other providers who are cheaper and want to check them out. Until
 then Joker has proved over and over to be the cheapest with the
 essential domains services.
 
+
+
+
+
 [Adobe PhoneGap]: https://build.phonegap.com/
 [Amazon]: http://amazon.com
 [Amazon AWS]: http://aws.amazon.com/
@@ -624,5 +629,7 @@ essential domains services.
 [npm]: https://npmjs.org/
 [old world correspondence]: https://www.darwinproject.ac.uk/
 [skilstak.io]: http://skilstak.io
+[sublime]: http://www.sublimetext.com/
 [vim]: http://www.vim.org/
 [vimfiles]: https://github.com/robmuh/vimfiles.git
+[writemonkey]: http://www.writemonkey.com
