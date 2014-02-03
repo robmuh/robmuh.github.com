@@ -826,7 +826,7 @@ section {
 section a {
   text-decoration: none;
   padding-bottom: 1px; 
-  border-bottom: 1px solid;
+  border-bottom: 1px dotted;
 }
 
 section h3 a {

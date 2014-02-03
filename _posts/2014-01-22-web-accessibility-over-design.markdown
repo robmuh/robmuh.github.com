@@ -61,7 +61,7 @@ the underline text decoration looks, use a border instead:
 {% highlight css %}
 a {
   padding-bottom: 1px;
-  border-bottom: 1px solid;
+  border-bottom: 1px dotted;
   text-decoration: none;
 }
 {% endhighlight %}
