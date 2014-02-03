@@ -55,7 +55,15 @@ a {
 }
 {% endhighlight %}
 
-Removing these isn't that hard.
+Removing these isn't that hard. And if you don't particularly like how
+the underline text decoration looks, use a border instead:
+
+{% highlight css %}
+a {
+  border-bottom: 1px solid;
+  text-decoration: none;
+}
+{% endhighlight %}
 
 ### But what about just making them bold?
 
