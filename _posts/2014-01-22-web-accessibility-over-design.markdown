@@ -25,8 +25,8 @@ I've been away from web design for a while, since my
 90s Teleport and Nike [days][], but I've kept up enough to know [bad
 design](http://robmuh.me) when I see it --- or at least I think so.
 --- OK, OK, what the hell do I know about design? I'm just a coder
-after all, right? Let's just say my design-muggle eyes know [really bad
-design][shittysite] when I see it. (I'm curious, how long did it take for
+after all, right? Let's just say my design-muggle eyes know really [bad][ugly]
+design when I see it. (I'm curious, how long did it take for
 that site to load for you? For me, on a screaming machine it still takes a
 full two seconds.) Still I forgot something we all should remember.
 
@@ -89,10 +89,9 @@ hover event will not trigger without adding the focus event.
 ### Why so many links?
 
 While we are on this, why are there so many links on your site anyway? Can
-you imagine navigating sites like [this, (my favorite example of a bad site)][shittysite]
-with just tab? Thank God for the mobile-first,
-responsive design movement and the HTML5 that enables it so
-wonderfully.
+you imagine navigating sites like this [ugly][] with just tab? Thank
+God for the mobile-first, responsive design movement and the HTML5 that
+enables it so wonderfully.
 
 ### Does everyone need accessibility in their site?
 
@@ -115,11 +114,15 @@ ignore those with visual impairments but there are definitely a lot of us
 who forget to think about it. Now that have been reminded we will we
 remember?
 
-[days]: http://linkedin.com/in/robmuh
-[Pages]: http://pages.github.com/
+
+
+
+[Certificate]: http://www.rccc.edu/distance/internet-courses/
 [Jekyll]: http://jekyllrb.com
 [Jen Myers]: http://twitter.com/antiheroine
-[Certificate]: http://www.rccc.edu/distance/internet-courses/
+[Pages]: http://pages.github.com/
 [Put a damn line underneath]: /images/put_a_damn_line_underneath.png
+[days]: http://linkedin.com/in/robmuh
 [recommendations]: http://webaim.org
+[ugly]: http://www.rccc.edu/distance/internet-courses/
 [webaim.org]: http://webaim.org
