@@ -22,7 +22,7 @@ designers.
 ### Don't be me.
 
 I've been away from web design for a while (since my
-[90s Teleport and Nike days][]) but I've kept up enough to know [bad design](http://robmuh.me)
+90s Teleport and Nike [days][]) but I've kept up enough to know [bad design](http://robmuh.me)
 when I see it &hellip; or at least I think so. &hellip; OK, OK, what the
 hell do I know about design? I'm just a coder after all, right? Let's
 just say my design-muggle eyes know [really bad design][shittysite] when I
@@ -33,7 +33,7 @@ seconds.) Still I forgot something we all should remember.
 
 
 Recently I grabbed a nice [Jekyll][] template from GitHub during the
-[GitHub Automatic Pages][] creation (as I recommend to my students as
+GitHub Automatic [Pages][] creation (as I recommend to my students as
 well). Later when Jen tweeted this I thought, "Oh God, I hope it wasn't
 because she visited my site." I was so embarrassed to realize that,
 although I just earned my [Online Instructor Certificate][], which
@@ -112,8 +112,8 @@ ignore those with visual impairments but there are definitely a lot of us
 who forget to think about it. Now that have been reminded we will we
 remember?
 
-[90s Teleport and Nike days]: http://linkedin.com/in/robmuh
-[GitHub Automatic Pages]: http://pages.github.com/
+[days]: http://linkedin.com/in/robmuh
+[Pages]: http://pages.github.com/
 [Jekyll]: http://jekyllrb.com
 [Jen Myers]: http://twitter.com/antiheroine
 [Online Instructor Certificate]: http://www.rccc.edu/distance/internet-courses/
