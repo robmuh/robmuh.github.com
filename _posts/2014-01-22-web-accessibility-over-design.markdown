@@ -8,7 +8,7 @@ Web accessibility often gets thrown out because of someone's design
 requirements or artistic sensibilities. Why? What is your goal? To look
 good for the majority or be functional for everyone.
 
-**TL;DR:** Follow [webaim.org][]'s recommendations when creating your web
+**TL;DR:** Follow webaim.org's [recommendations][] when creating your web
 sites and apps unless you *know* no one with any sight impairment will
 ever want to use it.
 
@@ -108,8 +108,9 @@ elements and not necessarily underlines.
 ### Remember
 
 I don't want to believe there are designers out there that knowingly
-ignore those with visual impairments but there are definitely a lot
-of us who forget to think about it. Now that have been reminded we will we remember?
+ignore those with visual impairments but there are definitely a lot of us
+who forget to think about it. Now that have been reminded we will we
+remember?
 
 [90s Teleport and Nike days]: http://linkedin.com/in/robmuh
 [GitHub Automatic Pages]: http://pages.github.com/
@@ -117,5 +118,5 @@ of us who forget to think about it. Now that have been reminded we will we remem
 [Jen Myers]: http://twitter.com/antiheroine
 [Online Instructor Certificate]: http://www.rccc.edu/distance/internet-courses/
 [Put a damn line underneath]: /images/put_a_damn_line_underneath.png
+[recommendations]: http://webaim.org
 [webaim.org]: http://webaim.org
-[shittysite]: http://lakenorman.com
