@@ -3,10 +3,10 @@ layout: post
 ---
 
 [Jekyll][] caught my eye more than a year ago, about the same time
-[GitHub][] did. Although GitHub seems like it only really took off in 2012 it has
-quickly become an essential tool for any self-respecting developer.
-Git itself is quickly [dominating][] the version management systems
-and with it GitHub. (*Update: added explanation to [tools list][]*)
+[GitHub][] did. Although GitHub seems like it only really took off in 2012
+it has quickly become an essential tool for any self-respecting developer.
+Git itself is quickly [dominating][] the version management systems and
+with it GitHub. (*Update: added explanation to [tools list][]*)
 
 I'll save my rant about how ironic it is that the cool
 _new_ thing on the Web is static sites and blog engines.
