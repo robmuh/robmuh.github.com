@@ -11,7 +11,7 @@ access to premium content videos, in which case [Vimeo seems best][].
 
 Once upon a time (2007) I had an series of videos on how to make a series
 of videos as well the [Hey Avatar][] training series aimed at helping
-beginners with [OpenSim][] and [Second Life][]---particularly for virtual
+beginners with [OpenSim][] and [Second Life][] --- particularly for virtual
 conferences such as the [IBM Academy of Technology][]. Back then blip.tv
 was really the best way then to reach the most people in the shortest
 amount of time and looks like it still is. Here are my main reasons for

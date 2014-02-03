@@ -16,14 +16,14 @@ ever want to use it.
 
 I've never met [Jen Myers][] but I like her already. That's her calling out all of
 us that put design over function, something we web and mobile developers
-all need to remember---especially as current or aspiring instructional
+all need to remember --- especially as current or aspiring instructional
 designers.
 
 ### Don't be me.
 
 I've been away from web design for a while (since my
 [90s Teleport and Nike days][]) but I've kept up enough to know [bad design](http://robmuh.me)
-when I see it &hellip; or at least I think so. &hellip; ok, ok, what the
+when I see it &hellip; or at least I think so. &hellip; OK, OK, what the
 hell do I know about design? I'm just a coder after all, right? Let's
 just say my design-muggle eyes know [really bad design][shittysite] when I
 see it. (I'm curious, how long did it take for that site to load for

@@ -10,7 +10,7 @@ No one can. We know."
 But do they know? Nahhhh. I'll tell you what they know. They know that
 if you put track sprinters in corporate apparel (ties and skirts) and
 put them on a local track and take pictures that I will be *motivated*
-to be fast, and effecient, and---wait 
+to be fast, and effecient, and --- wait 
 because we like pictures of excuriatingly diverse
 corporate types with bad comb-overs, ties, and skirts marking up on
 a track as our favorite high school to make a point."

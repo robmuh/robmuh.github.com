@@ -7,7 +7,7 @@ title: Hack Schools, Good and Bad
 down and started [SkilStak Coding Arts][]. "You know, hack Schools",
 someone would explain to me. "What?"
 
-I didnt't start SkilStak, Inc. because it was the cool new thing,
+I didn't start SkilStak, Inc. because it was the cool new thing,
 the up and coming model for education, or any other reason other than
 I wanted to help others--that wanted to learn--to code. In fact, I had
 no idea hack schools existed. But apparently they do and it is a good

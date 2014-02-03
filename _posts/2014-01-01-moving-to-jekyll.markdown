@@ -21,7 +21,7 @@ as Jekyll slurps in WordPress and other blog engines. But since I
 use GitHub daily for my commits for about everything, updating my
 web site and blog has become such a simple matter it will be very
 hard not to just continue to use Jekyll. Besides, the formatting and
-style of the Jekyll site---plus the amazing design sense of it's
+style of the Jekyll site --- plus the amazing design sense of it's
 creator are spectacular.
 
 To all my new students in 2014, let me say hello and wish you the best
