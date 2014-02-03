@@ -60,6 +60,7 @@ the underline text decoration looks, use a border instead:
 
 {% highlight css %}
 a {
+  padding-bottom: 1px;
   border-bottom: 1px solid;
   text-decoration: none;
 }
