@@ -5,7 +5,7 @@ title: Why I Still Use Blip
 
 [Blip.tv][] publishes your videos to [YouTube][], [Vimeo][], [iTunes][],
 its own site and more. The only reason not to use it would be to sell
-access to premium content videos, in which case [Vimeo seems best][].
+access to premium content videos, in which case Vimeo seems [best][].
 
 ![blip dot tv logo][]
 
@@ -34,7 +34,7 @@ looks like the clear leader from where I'm sitting.
 [OpenSim]: http://opensimulator.org/ 
 [Second Life]: http://www.secondlife.com/
 [Vimeo]: http://vimeo.com
-[Vimeo seems best]: http://www.wp101.com/blog/tutorials/10-reasons-why-you-should-never-host-your-own-videos/
+[best]: http://www.wp101.com/blog/tutorials/10-reasons-why-you-should-never-host-your-own-videos/
 [YouTube]: http://youtube.com
 [blip dot tv logo]: /images/bliptv.png
 [iTunes]: http://www.apple.com/itunes/podcasts/creatorfaq.html
