@@ -66,6 +66,9 @@ a {
 }
 {% endhighlight %}
 
+That's not to horrible if I force myself to only link one word or two
+instead of a whole sentence. Right?
+
 ### But what about just making them bold?
 
 I thought about this a lot and tested. I don't believe bold alone covers
