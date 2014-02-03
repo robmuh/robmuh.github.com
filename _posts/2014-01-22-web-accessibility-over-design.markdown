@@ -21,14 +21,14 @@ designers.
 
 ### Don't be me.
 
-I've been away from web design for a while (since my
-90s Teleport and Nike [days][]) but I've kept up enough to know [bad design](http://robmuh.me)
-when I see it &hellip; or at least I think so. &hellip; OK, OK, what the
-hell do I know about design? I'm just a coder after all, right? Let's
-just say my design-muggle eyes know [really bad design][shittysite] when I
-see it. (I'm curious, how long did it take for that site to load for
-you? For me, on a screaming machine it still takes a full two
-seconds.) Still I forgot something we all should remember.
+I've been away from web design for a while, since my
+90s Teleport and Nike [days][], but I've kept up enough to know [bad
+design](http://robmuh.me) when I see it --- or at least I think so.
+--- OK, OK, what the hell do I know about design? I'm just a coder
+after all, right? Let's just say my design-muggle eyes know [really bad
+design][shittysite] when I see it. (I'm curious, how long did it take for
+that site to load for you? For me, on a screaming machine it still takes a
+full two seconds.) Still I forgot something we all should remember.
 
 
 
@@ -36,7 +36,7 @@ Recently I grabbed a nice [Jekyll][] template from GitHub during the
 GitHub Automatic [Pages][] creation (as I recommend to my students as
 well). Later when Jen tweeted this I thought, "Oh God, I hope it wasn't
 because she visited my site." I was so embarrassed to realize that,
-although I just earned my [Online Instructor Certificate][], which
+although I just earned my Online Instructor [Certificate][], which
 included an entire unit dedicated to web accessibility, that I had quickly
 picked a cool template that missed one of the easiest things to catch:
 
@@ -116,7 +116,7 @@ remember?
 [Pages]: http://pages.github.com/
 [Jekyll]: http://jekyllrb.com
 [Jen Myers]: http://twitter.com/antiheroine
-[Online Instructor Certificate]: http://www.rccc.edu/distance/internet-courses/
+[Certificate]: http://www.rccc.edu/distance/internet-courses/
 [Put a damn line underneath]: /images/put_a_damn_line_underneath.png
 [recommendations]: http://webaim.org
 [webaim.org]: http://webaim.org
