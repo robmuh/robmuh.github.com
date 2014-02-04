@@ -140,7 +140,7 @@ are being forced to learn .NET. *shiver*
 
 I'd dare say even those learning Ruby on Rails are behind. Raking Active
 Records was nice in the pre-NoSQL days but these days you either want
-finally crafted DB queries with absolute control (node +
+finely crafted DB queries with absolute control (node +
 MariaDB/PostgreSQL/DataWarehouse) or you don't want an SQL database at all
 ([MEAN][]) --- if you even need a database at all. The HTML5 [data][]
 attribute alone has made working with small amounts of data much more
