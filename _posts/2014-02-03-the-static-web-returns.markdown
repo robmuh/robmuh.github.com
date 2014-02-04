@@ -184,7 +184,7 @@ first blog posts to GitHub it certainly has grown into much more.
 
 As if returning to the static web were not retro enough, [Markdown][],
 [Sublime][], [WriteMonkey][] and [vim][] have returned us all to an age
-when word processing is done on a terminal and not a bloated, ugly word
+when word processing was done on a terminal and not a bloated, ugly word
 processor. Just like before we markup special emphasis as easily as we
 type other words and live with it appearing in-line, then we tweak the
 presentation of the whole hot mess with CSS beyond our dreams back then.
