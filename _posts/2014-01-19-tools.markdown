@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Professional Developer and Admin Tools
-subtitle: The best programming, sysadmin, and developer tools --- ever
+title: Professional Tools
+subtitle: The best programming, sysadmin, and developer tools&mdash;ever
 ---
 
 Coding is a craft, an art. Artists pick tools that bring their art to life
