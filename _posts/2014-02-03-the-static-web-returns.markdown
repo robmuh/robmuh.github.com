@@ -185,11 +185,11 @@ first blog posts to GitHub it certainly has grown into much more.
 As if returning to the static web were not retro enough, [Markdown][],
 [Sublime][], [WriteMonkey][] and [vim][] have returned us all to an age
 when word processing was done on a terminal and not a bloated, ugly word
-processor. Just like before we markup special emphasis as easily as we
-type other words and live with it appearing in-line, then we tweak the
-presentation of the whole hot mess with CSS beyond our dreams back then.
-No more, "Oh, was that an H2, damn I missed it" like you get with
-incompatible Microsoft Word docs.
+processor. The terminals just got [cooler][]. Just like before, we markup
+special emphasis as easily as we type other words and live with it
+appearing in-line, then we tweak the presentation of the whole hot mess
+with CSS beyond our dreams back then. No more, "Oh, was that an H2, damn I
+missed it" like you get with incompatible Microsoft Word docs.
 
 ### You can always add dynamic later
 
@@ -215,6 +215,7 @@ God, who invited tables.)
 [SkilStak]: http://skilstak.com
 [Sublime]: http://www.sublimetext.com/
 [WriteMonkey]: http://writemonkey.com/
+[cooler]: http://youtu.be/CP_4ZJEIH3U
 [crap]: http://blog.ircmaxell.com/2013/09/rambling-on-internals.html
 [data]: http://html5doctor.com/html5-custom-data-attributes/
 [horrible]: http://lakenorman.com
