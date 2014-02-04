@@ -80,7 +80,7 @@ and people refuse to work on it. Yeah, now THERE is a language we should
 build our entire web-o-sphere on --- *shakes head* --- which is exactly
 what happened with Wordpress, Drupal, Joomla and the rest of the PHP-based
 butt-ugly frameworks. Why on Earth so many brilliant, talented, people are
-waisting their skills on that shit is beyond me. I just won't. And I won't
+wasting their skills on that shit is beyond me. I just won't. And I won't
 teach it either. PHP and all the frameworks built on it are BAD for the
 Internet.
 
