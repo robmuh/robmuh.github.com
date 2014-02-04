@@ -13,7 +13,7 @@ standing single and static.
 ### Grunge, brit-rock, alpha JavaScript and the first static web
 
 
-Nirvana in on the Walkman, laser-discs the size of vinyl albums tied to
+Nirvana on the Walkman, laser-discs the size of vinyl albums tied to
 our Apple Macintosh IIfx boxes, writing emails in Eudora, searching the
 Internet with [Gopher][] or for books [telneting][] to library terminals,
 fingering our friends on university BSD machines, aw yes, those were the
