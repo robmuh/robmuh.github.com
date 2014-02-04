@@ -8,8 +8,14 @@ it has quickly become an essential tool for any self-respecting developer.
 Git itself is quickly [dominating][] the version management systems and
 with it GitHub. (*Update: added explanation to [tools list][]*)
 
+If you prefer the command line --- and you should --- then Jekyll is
+for you. With a [save][] bash function covering all the git steps to
+effectively save your blog updates to GitHub total time for new posts
+and updates is reduced so much you won't believe you ever sat around
+even a second waiting for Wordpress edit boxes to write posts.
+
 I'll save my rant about how ironic it is that the cool
-_new_ thing on the Web is static sites and blog engines.
+_new_ thing on the Web is [static][] sites and blog engines.
 
 Anyone remember how cool guestbooks were back in '94? Anyway, it was enough
 to get me wanting to do an entire static blog engine of my own, (which
@@ -35,4 +41,6 @@ worth it, nah.
 [GitHub]: http://github.com/robmuh
 [Jekyll]: http://jekyllrb.com
 [dominating]: http://programmers.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn
+[save]: http://github.com/robmuh/config 
+[static]: /the-static-web-returns/
 [tools list]: /pro-developer-tools-list/

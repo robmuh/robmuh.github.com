@@ -219,6 +219,10 @@ another interactive command shell again. You will code scripting
 languages for others for sure (i.e. Bourne, bat, etc.) but you will
 never need another shell to do your coding in.
 
+Bash is most powerful with a really customized and powerful [bashrc][]
+file and some custom bash command completions for your own custom
+functions as well as ones you will use all the time like `ssh`.
+
 The lackluster `cmd` (conceived, developed and used by bozos) can die the
 death it has always deserved. There is no excuse to use `cmd`, ever. Just
 stop using it. Small kittens are dying someplace every time you do.
@@ -651,6 +655,7 @@ essential domains services.
 [Vimeo]: http://vimeo.com
 [Xchat]: http://xchat.org
 [YouTube]: http://youtube.com
+[bashrc]: http://github.com/robmuh/config.git
 [books]: http://ianhocking.com/2013/06/22/writing-a-novel-using-markdown/
 [bozos]: http://www.forbes.com/sites/ericjackson/2012/01/31/why-every-company-needs-a-no-bozo-policy/
 [classes]: https://github.com/robmuh/perl-classes.git
@@ -660,10 +665,10 @@ essential domains services.
 [markdown]: https://help.github.com/articles/github-flavored-markdown
 [npm]: https://npmjs.org/
 [old world correspondence]: https://www.darwinproject.ac.uk/
+[reasons]: http://www.wp101.com/blog/tutorials/10-reasons-why-you-should-never-host-your-own-videos/
 [reexamined]: /blip-why/
 [skilstak.io]: http://skilstak.io
 [sublime]: http://www.sublimetext.com/
 [vim]: http://www.vim.org/
 [vimfiles]: https://github.com/robmuh/vimfiles.git
 [writemonkey]: http://www.writemonkey.com
-[reasons]: http://www.wp101.com/blog/tutorials/10-reasons-why-you-should-never-host-your-own-videos/
