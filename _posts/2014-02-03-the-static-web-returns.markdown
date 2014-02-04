@@ -160,7 +160,7 @@ the most efficient solution the first time.
 You know those people that find something great and become so obsessed
 they cannot think of anything else?
 
-Some web developers, (who, I am betting are not polyglots), have taken the
+Some web developers, (who, I am betting are not [polyglots][]), have taken the
 power of modern JavaScript so far as to suggest that the entire web, HTML,
 CSS and all the rest should be replaced with pure JavaScipt and a very
 fat, smart web browser, (well, to be fair, as fat as the modern browsers
@@ -218,6 +218,7 @@ God, who invited tables.)
 [data]: http://html5doctor.com/html5-custom-data-attributes/
 [horrible]: http://lakenorman.com
 [node]: http://nodejs.org
+[polyglots]: http://programming.oreilly.com/2013/11/polyglot-programming-what-is-it-and-why-should-you-be-using-it.html
 [responsive]: http://johnpolacek.github.io/scrolldeck.js/decks/responsive/
 [skinny jeans]: https://twitter.com/noahlz/status/365519263236235266
 [telneting]: http://en.wikipedia.org/wiki/Telnet
