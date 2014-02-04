@@ -35,7 +35,13 @@ Then came CGI, the Common Gateway Interface, and anyone with Perl skills
 instantly became a web god --- especially if you could make web pages
 render data from flat file databases like Xbase, CSV, and such.
 
-**Get off my lawn!**
+At one point we even had JavaScript on the server. Yep we even called it
+SSJS and yes, vendors warred over that as well, no consensus like behind
+node today. It still makes me laugh a little when I hear young node fans
+proclaim, 'Yes, JavaScript is FINALLY on the server!' Believe me guys when
+I say we tried it.
+![Server-Side JavaScript][]
+**Now get off my lawn!**
 
 OK, I couldn't resist.
 
@@ -205,6 +211,7 @@ God, who invited tables.)
 [Markdown]: https://help.github.com/articles/github-flavored-markdown
 [Mosaic]: /images/mosaic.jpg
 [Obama]: http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/
+[Server-Side JavaScript]: /images/ssjs.gif
 [SkilStak]: http://skilstak.com
 [Sublime]: http://www.sublimetext.com/
 [crap]: http://blog.ircmaxell.com/2013/09/rambling-on-internals.html
