@@ -94,6 +94,7 @@ frameworks:
 * Mobile first development began to dominate
 * HTML5/CSS3 came out and was welcomed
 * JavaScript got fast, really fast
+* JavaScript *returned* to server-side (remember Netscape Server?)
 * SQLLite and NoSQL databases emerged
 * git and GitHub saw mass adoption
 * Static web site frameworks (Jekyll)
