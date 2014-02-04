@@ -196,8 +196,8 @@ with incompatible Microsoft Word docs.
 Mobile and cloud seem to have shaped server-side functionality into
 manageable, granular bits of event drive functionality couched in events.
 It's no surprise to me (and others) that [node][] is taking off so quickly
-because of it. It seems the modern static web is in love with the ripped
-server-side power tools node brings to the party (notice I did not say
+because of it. It seems the modern static web is in love with the ripped,
+server-side abs node shows off at this party (notice I did not say
 *framework* and yes I'm wearing [skinny jeans][]).
 
 Thank you static web for putting the fun back into writing and web
