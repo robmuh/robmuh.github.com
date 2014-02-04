@@ -141,7 +141,7 @@ are being forced to learn .NET. *shiver*
 I'd dare say even those learning Ruby on Rails are behind. Raking Active
 Records was nice in the pre-NoSQL days but these days you either want
 finely crafted DB queries with absolute control (node +
-MariaDB/PostgreSQL/DataWarehouse) or you don't want an SQL database 
+MariaDB/PostgreSQL/DataWarehouse) or you don't want an SQL database
 ([MEAN][]) --- if you even need a database at all. The HTML5 [data][]
 attribute alone has made working with small amounts of data much more
 elegant.
@@ -182,14 +182,14 @@ the sheer power and simplicity of the static site paradigm. Even though
 Jekyll started as static blogging engine from what I can tell from the
 first blog posts to GitHub it certainly has grown into much more.
 
-As if returning to the static web were not retro enough, [Sublime][],
-[vim][] and [Markdown][] have returned us all to an age when word
-processing is done on a terminal and not a bloated, ugly word
+As if returning to the static web were not retro enough, [Markdown][],
+[Sublime][], [WriteMonkey][] and [vim][] have returned us all to an age
+when word processing is done on a terminal and not a bloated, ugly word
 processor. Just like before we markup special emphasis as easily as we
 type other words and live with it appearing in-line, then we tweak the
-presentation of the whole hot mess with CSS beyond our dreams back
-then. No more, "Oh, was that an H2, damn I missed it" like you get
-with incompatible Microsoft Word docs.
+presentation of the whole hot mess with CSS beyond our dreams back then.
+No more, "Oh, was that an H2, damn I missed it" like you get with
+incompatible Microsoft Word docs.
 
 ### You can always add dynamic later
 
@@ -214,6 +214,7 @@ God, who invited tables.)
 [Server-Side JavaScript]: /images/ssjs.gif
 [SkilStak]: http://skilstak.com
 [Sublime]: http://www.sublimetext.com/
+[WriteMonkey]: http://writemonkey.com/
 [crap]: http://blog.ircmaxell.com/2013/09/rambling-on-internals.html
 [data]: http://html5doctor.com/html5-custom-data-attributes/
 [horrible]: http://lakenorman.com
