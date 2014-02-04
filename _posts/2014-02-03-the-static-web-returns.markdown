@@ -197,8 +197,8 @@ Mobile and cloud seem to have shaped server-side functionality into
 manageable, granular bits of event drive functionality couched in events.
 It's no surprise to me (and others) that [node][] is taking off so quickly
 because of it. It seems the modern static web is in love with the ripped
-server-side power tools (notice I did not say *framework* and yes I'm
-wearing [skinny jeans][]) like node bring to the party.
+server-side power tools node brings to the party (notice I did not say
+*framework* and yes I'm wearing [skinny jeans][]).
 
 Thank you static web for putting the fun back into writing and web
 development. I owe you a beer. Now will you dance on the table? (Oh
