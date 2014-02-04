@@ -44,6 +44,8 @@ So very many, but these are essential.
 * GitHub.com
 * Google+
 * YouTube.com
+* Blip.tv
+* Vimeo.com
 * Pinboard.in
 * DropBox.com
 * Amazon.com
@@ -466,13 +468,29 @@ Count on becoming the extended family and friends IT guy. Google+ is
 worth it just to fix their muggle IT problems with and for them in the
 least amount of time so you can go back to creating cool stuff.
 
-### Video: Youtube.com
+### Video: Blip.tv, Youtube.com, Vimeo.com
+
+When dealing with video I usually have two general audiences based on
+public and premium video content.
 
 [YouTube][] is another no brainer. Chances are you already use this.
+YouTube is tied to your Google account and has massive public
+visibility, which is why [KhanAcademy][] and others choose it.
 
-Even though [Vimeo][] has a better product, YouTube is tied to your Google
-account and contains more instructional material than any other
-service. This is why [KhanAcademy][] and others choose it.
+[Blip.tv][], however, you may not have heard about. Use Blip and
+YouTube (and every other video service in existence just about) to
+push your public videos to the most people. I [reexamined][] Blip recently
+to check its relevance and it still seems there to me --- especially
+for this upload once, push everywhere public content.
+
+[Vimeo][] is mostly for your premium content but can also take the
+public content you push with Blip. It is also the only service (as of
+this writing) that let's you lock down streaming to a specific domain
+name or pay-per-view types of access and subscription handling. This
+is why indy film makers, machinimatagraphers, and other high-brow
+video types use it. Don't mess around with their terms, they are
+pretty draconian about enforcing them (from what I've read). There are
+other [reasons][] to use it as well.
 
 You may never make a video of your own, but chances are someone else
 has and you'll need an account to remember all the videos you collect
@@ -596,16 +614,12 @@ then Joker has proved over and over to be the cheapest with the
 essential domains services.
 
 
-
-
-
-
-
 [Adobe PhoneGap]: https://build.phonegap.com/
 [Amazon]: http://amazon.com
 [Amazon AWS]: http://aws.amazon.com/
 [BackPAN]: http://backpan.perl.org/
 [Bash]: http://superuser.com/questions/61727/why-is-bash-everywhere-in-most-if-not-all-linux-distributions
+[Blip.tv]: http://blip.tv
 [CPAN]: http://www.perlmonks.org/?node_id=770042
 [Chrome]: http://chrome.google.com
 [Digital Ocean]: https://digitalocean.com/
@@ -646,8 +660,10 @@ essential domains services.
 [markdown]: https://help.github.com/articles/github-flavored-markdown
 [npm]: https://npmjs.org/
 [old world correspondence]: https://www.darwinproject.ac.uk/
+[reexamined]: /blip-why/
 [skilstak.io]: http://skilstak.io
 [sublime]: http://www.sublimetext.com/
 [vim]: http://www.vim.org/
 [vimfiles]: https://github.com/robmuh/vimfiles.git
 [writemonkey]: http://www.writemonkey.com
+[reasons]: http://www.wp101.com/blog/tutorials/10-reasons-why-you-should-never-host-your-own-videos/

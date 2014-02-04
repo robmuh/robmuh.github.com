@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I Still Use Blip
+title: Blip, Why I Still Use It
 ---
 
 [Blip.tv][] publishes your videos to [YouTube][], [Vimeo][], [iTunes][],
@@ -25,8 +25,6 @@ choosing it again:
 
 However, if you have any plans to monetize your content itself Vimeo
 looks like the clear leader from where I'm sitting.
-
-
 
 [Blip.tv]: http://blip.tv
 [Hey Avatar]: http://archive.is/1hrWE
