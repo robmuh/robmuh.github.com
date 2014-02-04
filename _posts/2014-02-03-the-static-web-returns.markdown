@@ -106,7 +106,7 @@ got developers concerned about speed again.
 
 But clearly the leading reason for this reemergence boils down to:
 
-1. The proliferation of Mashable services
+1. The proliferation of mashable services
 1. The increase in cross-browser, client-side power
 
 Almost instantly the need for WordPress plugins vanished. Once these
