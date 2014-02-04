@@ -1,6 +1,7 @@
 ---
 layout: post
-description: A list of the best professional programming, sysadmin, and developer tools based on experience and consensus
+title: Professional Developer and Admin Tools
+subtitle: The best programming, sysadmin, and developer tools --- ever
 ---
 
 Coding is a craft, an art. Artists pick tools that bring their art to life
