@@ -43,6 +43,7 @@ So very many, but these are essential.
 * GitHub.com
 * Google+
 * YouTube.com
+* Pinboard.in
 * DropBox.com
 * Amazon.com
 * InstaPaper.com
@@ -441,6 +442,19 @@ sessions without ever touching a mouse.
 Don't even thing about using Bing or Yahoo. The search results aren't
 even accurate.
 
+### Bookmarking: Pinboard - Social Bookmarking for Introverts
+
+[Pinboard][] is fast --- like lightning fast. There is *nothing* between me
+and saving my bookmark except my typing speed and decision on what I
+personally want for tags. I don't have to slow down to deal with menus and
+creating new folders or the right folder like you do with Google. And
+Delicious is just sooooo slow. I really don't care about tags others have
+used or looking through what the most tagged sites are. If I want that
+I'll look it up on Delicious or just Google it. Besides, frequently the
+stuff I find that is work bookmarking isn't mainstream enough to even
+register on the Delicious radar. Plus the guy who runs it is just cool. I
+prefer supporting him.
+
 ### Sharing: Google+
 
 [Google+][] has taken over Skype in my opinion as the best 'fat' collaboration
@@ -612,6 +626,7 @@ essential domains services.
 [Node.js]: http://nodejs.org
 [Obama campaign]: http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/
 [PLN]: http://en.wikipedia.org/wiki/Personal_learning_network
+[Pinboard]: http://pinboard.in
 [Putty]: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 [Rackspace]: http://rackspace.com
 [Screen]: https://www.gnu.org/software/screen/
