@@ -42,7 +42,8 @@ So very many, but these are essential.
 * Gmail.com
 * Twitter.com
 * GitHub.com
-* Google+
+* Google
+* NewRelic
 * YouTube.com
 * Blip.tv
 * Vimeo.com
@@ -527,6 +528,12 @@ has an Internet connection.
 
 You can also collaboratively share files here with muggles that are
 unfamiliar with GitHub.
+
+### Analytics: Google, NewRelic
+
+Google and [NewRelic][] give you stats about your sites and apps. They
+are pretty much standard on everything these days. Most all modern
+sites contain the 'agent' code to tie them in.
 
 ### Scripting: Perl, Bourne Shell
 
