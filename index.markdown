@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: robmuh.com - 
+title: robmuh.com 
 ---
 
 {% for post in site.posts %}
