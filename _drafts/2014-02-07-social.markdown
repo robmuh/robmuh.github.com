@@ -1,0 +1,53 @@
+---
+layout: post
+title: Social Media Links
+subtitle: Twitter and Pintrest and Facebook &mdash; Oh My
+---
+
+[Oh My][] is not a new social media fad (even though George Takai could
+start one and instantly convert millions). But ask yourself this question
+(and your little dog too), "Am I a good widget witch or a bad one?" Yes
+social media is everywhere. Now stop reminding us. We get it.
+
+### Don't tell me. Show me.
+
+First off, I was a premium [offender][] here. Once upon a time I created
+the most entertaining, amazing, about page I could imagine. *Oh god what
+was I thinking.*
+
+
+I don't know about you, but I get annoyed when the only way to follow
+a blogger on Twitter is clicking the *Follow Me* button with the birdie
+in it. I need more information before I commit. By going to the blog
+author's twitter feed I get to see quickly all I really need to know
+about that person:
+
+* How the describe themselves without unlimited word-counts
+* How much content they produce
+* How much they engage others in their community
+* Where else they may be blogging or active
+* Other people like them (friends and Twitter suggestions)
+
+Now see, you just denied me all that by only having a glowing *About*
+page and/or that little *Follow Me* button.
+
+### And not just Twitter ...
+
+If you had given me a link to your GitHub I could instantly see if you
+are actually worth following as well.
+
+By having a link to your social media the reader gets an instant
+profile of you without you having to spout about yourself in an about
+page on your blog. Yet another opportunity for laziness. You maintain
+your profiles in Social media then refer readers there.
+
+
+### Widgets clutter
+
+### Widgets cover
+
+Including a link
+
+
+[Oh My]: 
+[offender]: http://web.archive.org/web/20090918084821/http://imohax.com/about/

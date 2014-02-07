@@ -1,0 +1,67 @@
+---
+layout: post
+title: Comments
+subtitle: A overly analytical consideration of the humble comment
+---
+
+New takes on commenting force us to make some tough decisions on what used
+to be a no-brainer. In the end, comments should come at the end, if at
+all. In-line commenting popularized by [Medium][] seems cool at first but
+upon deeper consideration disjoints, clutters, and confuses.
+
+### Why comment at all?
+
+This is the first question we should be asking. Social media has
+caused a lot of prolific bloggers to ask this question ---
+particularly those that don't like wasting time with comment
+moderation.
+
+Python dropped commenting
+
+Most technical bloggers refer to other threads like ycombinator
+
+The two approaches boil down to:
+
+1. Comments show community/tribe/followers I care
+1. Comments waste our time and become irrelevant distractions
+
+"The most valuable thing about that blog post was something I read in
+the comments clarifying."
+
+Comments lock you into your current content
+
+1. You write post
+1. Someone writes a comment noting you need clarification
+1. You clarify the post by changing it
+1. The comment is no longer relevant and confuses other readers
+1. You now have to remove comment, but did you clarify enough?
+1. Commenter has moved on.
+1. Will commenter be offended by removing it?
+
+1. Do you have the time to micro-manage comments?
+
+
+### A database just for your comments? Really?
+
+Do you still have 2004 Wordpress comments? Oh god help you.
+
+### But not everyone has Twitter/Facebook/YCombinator
+
+My favorite is "Discuss this on Hacker News" (which has an elitist
+approach to even being able to participate, which is just stupid, not
+elite).
+
+## But Disqus is so slow to load
+
+First consider how much faster it is than Wordpress DB comments.
+
+Then consider how much more visibility your content gets by including
+the discussion in Disqus and Google searches.
+
+This is the main reason why things like [inlineDisqussion][] --- while
+cool to see can be implemented --- seem like the worse of both to me.
+
+Put it at the end.
+
+[Medium]: http://medium.com
+[inlineDisqussion]: http://tsi.github.io/inlineDisqussions/
