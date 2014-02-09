@@ -1,0 +1,79 @@
+---
+layout: post
+title: Blip, Thanks but BuBye
+---
+
+I used to think pushing your video content to as many services as possible
+with [Blip.tv][] was a good idea. But ultimately centralizing your videos
+and subscribers on [YouTube][] and premium content on [Vimeo][] is
+better for everyone.
+
+YouTube is about building subscribers and reach.
+
+[Vimeo][] is where you put your premium content you want to lock down.
+
+### YouTube for Obvious Reasons
+
+* YouTube dominates
+* YouTube is blazing fast for 1080p upload and delivery
+* YouTube is tied to Google Plus
+* Pushes to YouTube show up on your Google Plus site
+* Pushes are included in Google business page site linked from maps
+* YouTube is easiest to embed
+* YouTube allows you to have multiple channels with different names
+
+### Why One Service is Best
+
+* Builds a better [tribe][]
+* Does not splinter your subscriber base
+* Easy comments response and notification
+* Makes video corrections and removal possible
+* Commenting and annotation are in one place
+* One-stop shopping for analytics and advertising
+
+### Vimeo for Premium Content
+
+* If I have movie quality, premium videos
+* If I want pay-per-view
+* If I want to have paid subscriptions to my videos
+* If I want to securely stream video from mobile app
+
+### The good 'ol days
+
+![blip dot tv logo][]
+
+Once upon a time (2007) I had an series of videos on how to make a series
+of videos as well the [Hey Avatar][] training series aimed at helping
+beginners with [OpenSim][] and [Second Life][] --- particularly for
+virtual conferences such as the [IBM Academy of Technology][]. Back then
+blip.tv was really the best way then to reach the most people in the
+shortest amount of time. Here are reasons I chose it:
+
+* One upload gets pushed to all major video sites
+* Analytics
+* No need for feedburner and the rest for iTunes, etc.
+* Reaches the most people for public content
+* Wider net for public content directs more to premium content
+
+Problem is that I never really knew who was watching, who was
+commenting, and how to take stuff down. The worst part of all was
+building the expectation that I was actually on one of the services
+with those watching my videos there and then just not responding at
+all to their comments. It made me look like I did see them or didn't
+care.
+
+### Don't host your own
+
+In case you were thinking of it. Those days are also gone. Here's a great
+[explanation][] of why.
+
+[Blip.tv]: http://blip.tv
+[Hey Avatar]: http://archive.is/1hrWE
+[IBM Academy of Technology]: http://secondlifegrid.net.s3.amazonaws.com/docs/Second_Life_Case_IBM_EN.pdf
+[OpenSim]: http://opensimulator.org/
+[Second Life]: http://www.secondlife.com/
+[Vimeo]: http://vimeo.com
+[YouTube]: http://youtube.com
+[blip dot tv logo]: /images/bliptv.png
+[explanation]: http://www.wp101.com/blog/tutorials/10-reasons-why-you-should-never-host-your-own-videos/
+[tribe]: http://www.ted.com/talks/seth_godin_on_the_tribes_we_lead.html
