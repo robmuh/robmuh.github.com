@@ -75,20 +75,21 @@ control. Devs would send relatively simple, but commonly supported
 HTML and the magic would happen server-side, which meant more dynamic
 web page requests on the back end.
 
-The shitty, web-driven language PHP was born around this time. It was
-carelessly thrown together and grew with no supervision into a bloated
-piece of [crap][] that even the original authors won't claim anymore. I
-made the mistake of being a team player and using PHP for a rudimentary
-back-end data processing queue only to uncover the horrendous memory-leaks
-of a piece of shit conceived and designed to never have to run but a few
-seconds in a web server request. I imagine a lot of that is still unfixed
-and people refuse to work on it. Yeah, now THERE is a language we should
-build our entire web-o-sphere on --- *shakes head* --- which is exactly
-what happened with Wordpress, Drupal, Joomla and the rest of the PHP-based
-butt-ugly frameworks. Why on Earth so many brilliant, talented, people are
-wasting their skills on that shit is beyond me. I just won't. And I won't
-teach it either. PHP and all the frameworks built on it are BAD for the
-Internet.
+The web-driven language PHP was born around this time. It was carelessly
+thrown together and grew with no supervision into a bloated piece of
+[crap][] that even the original authors won't claim anymore. I made the
+mistake of being a team player and using PHP for a rudimentary back-end
+data processing queue only to uncover the horrendous memory-leaks of
+something that was conceived and designed to run but a few seconds in a
+web server request. I imagine a lot of that is still unfixed and people
+refuse to work on it. Yeah, now THERE is a language we should build our
+entire web-o-sphere on --- *shakes head* --- which is exactly what
+happened with Wordpress, Drupal, Joomla, Facebook, and the rest of the
+PHP-based butt-ugly applications and frameworks. Why on Earth so many
+brilliant, talented, people would waste their skills on that this shit
+that the creator doesn't even call a 'language' is beyond me. I just
+won't. And I won't teach it either. PHP and all the frameworks built on it
+are BAD for the Internet. The sooner they die the better. And they will.
 
 ### Browsers grew. Peace was made. The web got faster.
 
