@@ -1,0 +1,32 @@
+---
+layout: post
+title: NoFlo and Node.js, Going with the Flow
+subtitle: An Ancient Paradigm Based on Organic Life Returns
+---
+
+Ever watch the development of a human fetus? How about an assembly line? A
+Chipotle burrito? Or even a snowflake or other ice crystal? What do they
+have in common? They are developed as they flow through steps and
+interactions which change, adjust, or build the object.
+
+Back at Nike in the 90s I developed a Java library to assist with
+shopping on Nike.com by creating a mutable cluster of data, using
+simple Java properties objects, and allowing it to be passed along as
+if down the assembly line. This flexibility allowed the glob of data
+to be morphed as it traveled into whatever the workers along the path
+decided it needed during it's flow. 
+
+This model flies in the face of a lot of traditional, strongly-typed
+object-oriented paradigms because the data blob has no strong type. 
+
+Dynamic languages are clearly leading when business logic, evolution,
+and quick changes are needed for the same reasons.
+
+Recently I read about [NoFlo][] and all the memories came flooding
+back. Then it occurred to me.
+
+The NoSQL movement toward document databases is exactly this.
+
+Modern tagging is another example of the crowd acting to shape things
+by their observance of the object and data.
+

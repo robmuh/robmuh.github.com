@@ -1,0 +1,25 @@
+---
+layout: post
+title: I Wanna Work at Walmart &mdash; Labs
+subtitle: How Walmart and Bookstores are Leading Innovation
+---
+
+Bell Labs, Big Blue and the like may need a reminder that the fastest
+gains in innovation come when motivated to meet an immediate, often
+profitable consumer need, which is what Amazon, Walmart and Mastercard are
+doing.
+
+Amazon's domination --- and largely invention --- of consumer cloud
+computing compliments Walmart's cutting edge adoption and promotion of
+[Node.js][] and other technologies that 90% of IBMers, for example, have
+never heard of.
+
+### Consumers Drive Innovation
+
+Whether they be repressed porn-seeking Internet traffic drivers or
+obsessed Walmart shoppers in debt to their eyeballs but still among
+the %53 of Walmart Black Friday sales from mobile devices, the truth
+that consumers provide the engine (and dollars) promoting innovation
+seems more evident now than ever.
+
+
