@@ -1,0 +1,18 @@
+---
+layout: post
+title: Digital Ocean and GitHub
+subtitle: The Best Place for Pet Developer Cephalopods to Dwell
+---
+
+I'm betting it was no accident that the creators of [Digital Ocean][]
+picked the best metaphor to match the [GitHub][] Octo-Mascot. It's
+simply the best small to medium hosting a developer could dream of
+today.
+
+Digital Ocean is so good --- I mean everything about it --- that just
+having an account there makes me want to move to New York --- well,
+that and [Hacker School][] and [The Ashtanga Yoga Institute][] and
+&hellips; I digress.
+
+
+
