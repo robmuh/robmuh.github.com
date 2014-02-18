@@ -34,13 +34,13 @@ single class.
 Not 4, not 2 unless you continue to 3, 5 is right out. There is probably a
 more entertaining ethereal explanation for it, but I've observed this is
 the perfect number to encourage teaming, a little healthy peer pressure,
-and enough intimacy to not be intimidated by having ones mistakes laid
-bare for everyone to see.
+and enough intimacy to promote risk-taking and not be intimidated by
+having mistakes laid bare for everyone to see.
 
 ### It's About Personal Investment
 
 Nothing like a sense of ownership in a project motivates more. Research,
-such as that in Drive, overwhelmingly confirms we do and learn more
+such as that in *Drive*, overwhelmingly confirms we do and learn more
 when we care more. Keeping learning nano-size means **both** the mentor
 and the team of learners are enjoying what they are doing because they
 are *choosing* to do it. Don't like something? Change it. The only
@@ -67,14 +67,14 @@ dedicated to learning when we were kids, and even a couple hours on
 the weekend as adults. We really are never done learning.
 
 Nano-education at this level --- motivated by project-based
-self-investment --- maximized the learning during those smaller
+self-investment --- maximizes the learning during those smaller
 sessions. As we accept this we are able to take on more 1-3 learning
 teams throughout the day if our day job happens to be education or
 just one team if we have another day job.
 
 ### Socially Distributed Education
 
-Share the load, pay it forward, what if we all did it. This has
+Share the load, pay it forward, what if we all did it? This has
 nothing to do with distance education, although it could be done
 through distance education using today's tools.
 
@@ -85,7 +85,7 @@ us closer together as humans, even happier?
 
 ### Teaching And Learning are Very Satisfying
 
-You know they are. You don't someone to tell you that or prove it. The
+You know they are. You don't need someone to tell you that or prove it. The
 act of having someone want to learn something you happen to know is
 very validating. And the act of gaining new skills *that you care
 about* is always supremely fun. Think how much happier we might all be
@@ -93,18 +93,18 @@ if we did this.
 
 ### The Technology is Just A Plus
 
-Originally I remember sharing these ideas with someone in K-12
-education, how we could build something, I called it MentorMe at the
-time, and allow those who want to learn, (which is largely everyone),
-with those who want to mentor, (which is also everyone) in a way that
-they could exchange credits of some kind that could literally be paid
-forward to buy education in an area that they also wanted. I would
-still like to see such a system emerge.
+Originally I remember sharing these ideas with someone in K-12 education,
+how we could build something, I called it MentorMe at the time , a system
+to connect those who want to learn, (which is largely everyone), with
+those who want to mentor, (which is also everyone), in a way that they
+could exchange credits of some kind that could literally be paid forward
+to buy education in an area that they also wanted. I would still like to
+see such a system emerge.
 
 ### Nobody's Stopping You
 
 Today's homeschooling laws are getting smart about allowing parents to
-find innovation in education on their own, and it's spreading. Those
+find innovation in education on their own --- and it's spreading. Those
 who know are finding time to teach, to share, to help anyone else
 learn. Because learning happens in as little at 90 minute sessions
 once or twice per week all the laws about licensing and child-care and
