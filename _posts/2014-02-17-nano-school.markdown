@@ -4,7 +4,7 @@ title: Nano Schools
 subtitle: 1-3 Teacher Student Ratios
 ---
 
-Could the solution to the world-wide education crisis come in a very small
+Could the solution to the world-wide education crisis come in very small
 packages? Nano schools maximize mentor-learner attention with a 1-3 ratio.
 
 Ever since I read Daniel Pink's [Free Agent Nation][] the term
