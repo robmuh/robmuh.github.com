@@ -531,7 +531,7 @@ unfamiliar with GitHub.
 
 ### Analytics: Google, NewRelic
 
-Google and [NewRelic][] give you stats about your sites and apps. They
+Google and NewRelic give you stats about your sites and apps. They
 are pretty much standard on everything these days. Most all modern
 sites contain the 'agent' code to tie them in.
 
