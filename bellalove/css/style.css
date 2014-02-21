@@ -140,7 +140,7 @@ h3 {
 	height: 74px;
 	margin-bottom:-74px;
 	padding: 0;
-	background: url(../images/header_bg.png);
+  background: rgba(30, 30, 30, 0.4);
 }
 #logo a {
 	display:block;
@@ -166,7 +166,7 @@ h3 {
 	top:-100px;
 	width:100%!important;
 	height:74px;
-	background:#fff!important;
+	background:#000!important;
 	z-index:99999;
 	opacity: 0;
 	filter: alpha(opacity=0);
@@ -244,7 +244,7 @@ a.menu_toggler { display:none;
 #home {
 	position:relative;
 	padding:0;
-	background-image: url(../images/home_bg.jpg);
+	background-image: url(../images/onlookers.jpg);
 	box-shadow:0 0 250px rgba(0,0,0,0.24) inset;
 }
 .home_gradient {
@@ -254,7 +254,7 @@ a.menu_toggler { display:none;
 	top:0;
 	width:100%;
 	height:100%;
-	background:url(../images/home_gradient.png);
+	/*background:url(../images/grafetti.jpg);*/
 }
 .welcome_block {
 	position:relative;
@@ -361,26 +361,26 @@ a.down_btn {
 /* ___________________ //Services ___________________ */
 
 
-/* ____________________ Portfolio ____________________ */
-#portfolio {
+/* ____________________ Artists ____________________ */
+#artists {
 	width:100%;
 	overflow:hidden;
 }
-#portfolio .parallax_effect {
+#artists .parallax_effect {
 	position:relative;
 	margin-top:-31px;
 	padding:74px 0 55px;
-	background-image: url(../images/portfolio_bg.jpg);
+	background-image: url(../images/artists_bg.jpg);
 }
-#portfolio .parallax_effect .container {
+#artists .parallax_effect .container {
 	position:relative;
 	z-index:1;
 }
-#portfolio .parallax_effect h2 {
+#artists .parallax_effect h2 {
 	line-height:58px;
 	background: url(../images/h2_bg.png) repeat-x left bottom;
 }
-#portfolio .parallax_effect h2 span {
+#artists .parallax_effect h2 span {
 	display:inline-block;
 	border-bottom:1px solid #fff;
 }
@@ -408,19 +408,19 @@ a.down_btn {
 
 /* _________ //Filter _________ */
 
-/* __________ Portfolio Item __________ */
-.portfolio_block {padding-top:15px;
+/* __________ Artists Item __________ */
+.artists_block {padding-top:15px;
 }
-.portfolio_item {
+.artists_item {
 	position:relative;
 	background:#967ade;
 }
-.portfolio_item .element {overflow:visible !important;}
-.portfolio_item .hover_img img {
+.artists_item .element {overflow:visible !important;}
+.artists_item .hover_img img {
 	opacity: 0.84;
 	filter: alpha(opacity=84);
 }
-.portfolio_item .zoom {
+.artists_item .zoom {
 	display:inline-block;
 	position:absolute;
 	left: 21px;
@@ -433,7 +433,7 @@ a.down_btn {
 	transition: all 0.5s ease-in-out;
 	-webkit-transition: all 0.5s ease-in-out;
 }
-.portfolio_item .zoom:hover {
+.artists_item .zoom:hover {
 	background:#fff;
 	color:#967ade;
 }
@@ -459,7 +459,7 @@ a.btn_load_more:hover {
 }
 
 /* Animation */
-.portfolio_block .element {
+.artists_block .element {
 	-webkit-perspective: 1700px;
 	-moz-perspective: 1700px;
 	perspective: 1700px;
@@ -467,26 +467,26 @@ a.btn_load_more:hover {
 	-moz-perspective-origin: 0 50%;
 	perspective-origin: 0 50%;
 }
-.portfolio_item {
+.artists_item {
 	-webkit-transform-style: preserve-3d;
 	-moz-transform-style: preserve-3d;
 	transform-style: preserve-3d;
 }
-.portfolio_item .hover_img {
+.artists_item .hover_img {
 	overflow: hidden;
 }
-.portfolio_item .hover_img img {
+.artists_item .hover_img img {
 	-webkit-transition: -webkit-transform 0.4s;
 	-moz-transition: -moz-transform 0.4s;
 	transition: transform 0.4s;
 }
-.portfolio_item:hover .hover_img img {
+.artists_item:hover .hover_img img {
 	-webkit-transform: translateX(25%);
 	-moz-transform: translateX(25%);
 	-ms-transform: translateX(25%);
 	transform: translateX(25%);
 }
-.portfolio_item .description {
+.artists_item .description {
 	background: none repeat scroll 0 0 #967ade;
     left: 0;
     padding: 0;
@@ -509,7 +509,7 @@ a.btn_load_more:hover {
 	-moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;
 	transition: transform 0.4s, opacity 0.1s 0.3s;
 }
-.portfolio_item:hover .description {
+.artists_item:hover .description {
 	opacity: 1;
 	-webkit-transform: rotateY(0deg);
 	-moz-transform: rotateY(0deg);
@@ -518,11 +518,11 @@ a.btn_load_more:hover {
 	-moz-transition: -moz-transform 0.4s, opacity 0.1s;
 	transition: transform 0.4s, opacity 0.1s;
 }
-.portfolio_item .description_in {
+.artists_item .description_in {
 	padding:17px 21px 20px;
 	color:#fff;
 }
-.portfolio_item .description_in p {
+.artists_item .description_in p {
 	margin:0 0 11px;
 	text-transform:uppercase;
 	line-height:26px;
@@ -533,9 +533,9 @@ a.btn_load_more:hover {
 
 /* //Animation */
 
-/* _________ //Portfolio Item _________ */
+/* _________ //artists Item _________ */
 
-/* ___________________ //Portfolio ___________________ */
+/* ___________________ //Artists ___________________ */
 
 
 /* ____________________ Sed Ul ____________________ */
@@ -987,10 +987,10 @@ input[type="color"]:focus {
 	
 /* _________ //About _________ */
 
-/* __________ Portfolio __________ */
-	.portfolio_item .description_in p {font-size:18px;line-height:22px;}
-	.portfolio_item .description {width:165px;}
-/* _________ //Portfolio _________ */
+/* __________ Artists __________ */
+	.artists_item .description_in p {font-size:18px;line-height:22px;}
+	.artists_item .description {width:165px;}
+/* _________ //Artists _________ */
 
 /* __________ Events __________ */
 	.post_block {width:316px;}
@@ -1102,10 +1102,10 @@ input[type="color"]:focus {
 	
 /* _________ //About _________ */
 
-/* __________ Portfolio __________ */
+/* __________ Artists __________ */
 	#filter li {margin-right:15px;}
 	
-/* _________ //Portfolio _________ */
+/* _________ //Artists _________ */
 
 	#sed_ul .parallax_effect .container h2 {line-height:44px;}
 
@@ -1148,9 +1148,9 @@ input[type="color"]:focus {
 	
 	#sed_ul .parallax_effect .container h2 {font-size:30px;line-height:30px;}
 
-/* __________ Portfolio __________ */
+/* __________ Artists __________ */
 	
-/* _________ //Portfolio _________ */
+/* _________ //Artists _________ */
 
 /* __________ Testimonials __________ */
 	.testimonials_block {padding:48px 10px;}

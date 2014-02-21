@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Video Killed More Than the Radio Star
-subtitle: Liiiiike Lecturers and Other Talking Head Educators
+title: Video Killed the Lecture Star
+subtitle: Why Video is Flipping More than Classrooms
 ---
 
 Finally educators can be as lazy as programmers. Now they can craft
