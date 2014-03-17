@@ -1,0 +1,56 @@
+---
+layout: post
+---
+
+Jade not only makes it faster and less error-prone to code web apps,
+it produces better html closer to what you probably intended.
+
+Take the following example from common button bar usage:
+
+```html
+<div id="navbuttons">
+  <a href="#a" class="navbutton"><i class="fa fa-th"></i></a>
+  <a href="#b" class="navbutton"><i class="fa fa-rocket"></i></a>
+</div>
+```
+Even with [htmlmin][] and the other HTML minifiers out there set to remove
+whitespace the annoying line return does not get eliminated but converted
+into a single space, which makes the margin of your block link buttons too
+big on the right. (I actually ran into this creating [Thumble][].)
+
+Now there are a lot of clever ways to fix this, and the not-so-clever
+and very ugly solution of putting them all on the same line. But after
+10 minutes of searching and editing to change icon names this quickly
+passed my lazy-coder threshold triggering the inevitable search for
+something better. Then I found Jade, again:
+
+```jade
+#navbuttons
+  a.thumble-btn(href='#a')
+    i.fa.fa-phone
+  a.thumble-btn(href='#b')
+    i.fa.fa-rocket
+```
+
+Instantly my problem was solved without any minification even applied.
+
+I had encountered Jade a while back when considering a template engine
+for yet another attempt at a 100% node static blogging engine, (a need
+which has easily been met by [assemble][] and a bunch of other
+solutions). At the time I was cautious about adopting another format
+for HTML in much the way that most of the mainstream JavaScript
+community has considered and dismissed the use of [CoffeeScript][]
+(and for good reason, imho).
+
+But HTML is an entirely different beast --- especially today in the age
+where 'compiling' your CSS is standard practice for any web app and even
+the simplest web sites and for good reason. [Gulp][], [JShint][], [CSSmin][],
+[Stylus][], and [autoprefix][] make any other web development workflow
+seems downright archaic once you've experienced them. And if you are
+part of a small, agile organization (like [skilstak_][]) then there is
+really no excuse not to use them.
+
+One of the best advantages of Jade is that you can easily choose
+between a pretty-printed HTML output form when creating demo HTML that
+will be viewed by others and ultra-efficient, minified HTML in
+conjunction with other Gulp stream plugins.

@@ -1,0 +1,15 @@
+---
+layout: post
+---
+
+Took a long hard look at SVG
+
+* grunticon
+* svgmin
+
+Then I found Dudley Storey and boy am I glad I did. It was his
+[explanation][] of Responsive SVG that changed everything for me and
+made it impossible to use any of the other solutions. They just seemed
+to limited, complex, and frankly unnecessary.
+
+[explanation]: http://demosthenes.info/blog/744/Make-SVG-Responsive

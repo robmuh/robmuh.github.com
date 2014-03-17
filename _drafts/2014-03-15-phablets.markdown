@@ -1,0 +1,12 @@
+---
+layout: post
+---
+
+Phablets are here and for one good reason: smart people want one smart
+device to lug around, not two. But what does this mean for web and
+mobile app developers --- especially with the modern emphasis on mobile,
+responsive design? Phablets don't even maintain the sacred 16:9 aspect
+ratios. And then there are the virtually square screens of phone
+watches.
+
+
