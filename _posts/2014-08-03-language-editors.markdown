@@ -9,7 +9,7 @@ use for a given language can be daunting. Here's help.
 
 First off here are the languages we at SkilStak Coding Arts consider
 worth learning and in the order we generally introduce them. The
-editors listed are in order of preference based on easy of use (we are
+editors listed are in order of preference based on easy of use. (We are
 talking about initially 7-year-old coders, so yeah). The editor
 recommendation is not only based on easy of adoption but what a coder
 is most likely to encounter in the working world:
