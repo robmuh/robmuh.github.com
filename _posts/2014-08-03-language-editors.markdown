@@ -43,7 +43,7 @@ of setup (which I actually had all my students do) v.s. just opening
 Python IDLE or NotePad++ and just having everything work. Once again,
 we are talking about those as young as seven doing this. Anyone who
 can actually configure SublimeText to do more probably would be able
-to tackle VIM without a much more difficulty, which carries tons more
+to tackle VIM without much difficulty, which brings more
 usability and utility for the person learning it.
 
 Sublime is heavily used in the web development world, but one reason I
