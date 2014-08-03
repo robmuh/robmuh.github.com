@@ -9,9 +9,9 @@ use for a given language can be daunting. Here's help.
 
 First off here are the languages we at SkilStak Coding Arts consider
 worth learning and in the order we generally introduce them. The
-editors listed are in order of preference based on easy of use. (We are
+editors listed are in order of preference based on ease of use. (We are
 talking about initially 7-year-old coders, so yeah). The editor
-recommendation is not only based on easy of adoption but what a coder
+recommendation is not only based on ease of adoption but what a coder
 is most likely to encounter in the working world:
 
 * [Python][] - IDLE, NotePad++, VIM
@@ -27,14 +27,14 @@ is most likely to encounter in the working world:
 
 Of course there are other languages, but we currently don't concern
 ourselves with them at SkilStak. Even though some of these might not
-be my personal favorites, they are clearly and fundamentally relevent
+be my personal favorites, they are clearly and fundamentally relevant
 to today's technology requirements. In other words, if you learn them
 you can easily get a job and get paid to code in them.
 
 ## Not So Sublime
 
 Note SublimeText has fallen off (although I paid for it). The creator
-has long since abandonned regular updates (infuriating the plugin
+has long since abandoned regular updates (infuriating the plugin
 community with his lack of responsiveness and release of the code to open
 source). It is also insanely complicated to setup when the very reason
 a lot of people use it is for easy of use. For example, configuring
