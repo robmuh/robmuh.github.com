@@ -118,4 +118,4 @@ entirely in Python including function definitions, conditional logic flow,
 and actual written code that they've saved to GitHub? I am sure you
 would be pleased with both and support whatever your child does to
 learn and express their love for you but one of these gifts taught
-them more as they built it.
+your child more as she made it.
