@@ -3,13 +3,13 @@ layout: post
 title: Nano-Schooling Group Sizes Revisited
 ---
 
-Preferred group sizes for nano-schooling varies with age, personality, and
+Preferred group sizes for nano-schooling vary with age, personality, and
 session type.
 
-This continual education experiment here at [SkilStak](http://skilstak.com)
-has recently brought me to some very real, (yet unscientific),
-discoveries about group size. Most will fall into the 'no-duh' category
-for you readers with more experience than I.
+This continual education experiment here at [SkilStak Coding
+Arts](http://skilstak.com) has recently brought me to some very real,
+if unscientific, discoveries about group size. Most will fall into the
+'no-duh' category for you readers with more experience than I.
 
 ## Decibels
 
@@ -29,7 +29,7 @@ accept or participate in.
 Teens and adults simply from their maturity have gained the ability,
 generally, to stay on task and work independently. This means less
 need to constantly monitor their learning and bring them back on task,
-which is notably more pronouced in those 14 and under. "See this
+which is notably more pronounced in those 14 and under. "See this
 remarkably simple responsive web app? 1-day, $300. Now learn this
 stuff so you can make them."
 
@@ -44,11 +44,11 @@ People would play that forever."
 
 This is by far the most fascinating for me. Just two pre-teens, who
 aren't related or don't have a long history together already, can get
-downright aggresive with each other in almost a competition for my
-attention as they learn. It's like sybling rivalry I imagine, but can
+downright aggressive with each other in almost a competition for my
+attention as they learn. It's like sibling rivalry I imagine, but can
 get worse. They don't actually get mean in the traditional sense, just
-very aggresive. If you add one other to the group they are still
-aggresive for attention but tend to not get personal, or even physical
+very aggressive. If you add one other to the group they are still
+aggressive for attention but tend to not get personal, or even physical
 in their struggle.
 
 Teens are more subtle in their need for attention and will simply not even
