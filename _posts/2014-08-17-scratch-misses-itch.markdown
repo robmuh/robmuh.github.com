@@ -115,4 +115,7 @@ mother's day card in Scratch that your child made by playing with
 pictures, picking sounds, and making things move without typing nearly
 a thing; or an interactive, text-based quiz or story written about you
 entirely in Python including function definitions, conditional logic flow,
-and actual written code that they've saved to GitHub?
+and actual written code that they've saved to GitHub? I am sure you
+would be pleased with both and support whatever your child does to
+learn and express their love for you but one of these gifts taught
+them more as they built it.
