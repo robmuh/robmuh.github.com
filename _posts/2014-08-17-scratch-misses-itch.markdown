@@ -83,7 +83,7 @@ taking it &mdash; in Python.
 Yes we have become largely a visual society but that does not mean
 there is still very interesting and motivating value in simple text
 interactions. Python teaches kids to think more than Scratch and for
-move valuable reasons.
+more valuable reasons.
 
 ### Expect More
 
