@@ -85,6 +85,18 @@ there is still very interesting and motivating value in simple text
 interactions. Python teaches kids to think more than Scratch and for
 more valuable reasons.
 
+### Better Visual Options
+
+If you do feel a graphically rich and immediately satisfying tool is
+warranted then use Gamemaker Studio of Unity 3D. These tools are used
+by professionals as well as being relatively easy to use &mdash;
+especially Gamemaker Studio with its rich drag-and-drop options that
+can be directly translated later into their code equivalents. Your
+students benefit best because they take those new skills with them and
+can immediately produce amateur and professional games rather than
+having to relearn a new tool after being forced to learn Scratch
+(and/or Alice) first.
+
 ### Expect More
 
 I've been told I hold even my youngest coders to very high expectations. I
