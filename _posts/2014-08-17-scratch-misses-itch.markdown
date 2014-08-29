@@ -88,7 +88,7 @@ more valuable reasons.
 ### Better Visual Options
 
 If you do feel a graphically rich and immediately satisfying tool is
-warranted then use Gamemaker Studio of Unity 3D. These tools are used
+warranted then use Gamemaker Studio or Unity 3D. These tools are used
 by professionals as well as being relatively easy to use &mdash;
 especially Gamemaker Studio with its rich drag-and-drop options that
 can be directly translated later into their code equivalents. Your
