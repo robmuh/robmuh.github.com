@@ -10,8 +10,8 @@ Scratch.
 
 I mean no disrespect to a tool that has introduced probably hundreds of
 thousands to programming at this point but the cutesy Scratch platform
-(I just cannot bring myself to call it a language) seems like a waste
-of time &mdash; especially after seeing first-hand how future coders
+(I just cannot bring myself to call it a language) often seems like a
+waste of time &mdash; especially after seeing first-hand how future coders
 as young as seven, who can barely type, can code in Python and usually
 enjoy it more and for better reasons.
 
