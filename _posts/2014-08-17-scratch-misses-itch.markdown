@@ -107,7 +107,7 @@ any insular language designed for nothing more than to provide 'a good
 introduction to computational thinking even if they never code again',
 which brings me to another rant ...
 
-### Teacher's Crutch?
+### Teachers' Crutch?
 
 I realize what I'm about to write will be considered fighting words by
 some, but I can't not. For whatever reason, most teachers' I have observed, who are tasked
