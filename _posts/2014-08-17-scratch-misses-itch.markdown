@@ -176,4 +176,4 @@ languages like it but only if it does not slow them down in learning
 a real language. If during the first month you identify students that
 really hate Python or just can't learn to match a parenthesis or
 include a semicolon then put them in the remedial Scratch-ish program,
-otherwise, don't punish the rest of the students baby talk.
+otherwise, don't punish the rest of the students with baby talk.
