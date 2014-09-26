@@ -49,6 +49,19 @@ Coding* and it's use of Scratch in a structured way to accomplish
 a goal &mdash; especially as it leads directly into Python making
 visual comparisons between the two.
 
+### Computational Thinking: When Snap! Works
+
+One of the hardest concepts I've had to introduce to students is
+event-based, functional programming, (which we eventually use with
+JavaScript and Node). Currently the first tool I use is Gamemaker
+Studio to introduce this since it so naturally ties events to the
+actions that happen when those events are detected. Snap!, however,
+is another way to supplement this idea of functional thinking over
+more traditional object-oriented thinking, which we learn first in Python.
+Some say Snap! is just Scheme with blocks and I'd agree with that.
+This is one or the uses when a Scratch-ish tool like Snap! makes sense
+even for older students.
+
 ### Never Been a Fan
 
 I have to confess I have never really liked Scratch for much the same
