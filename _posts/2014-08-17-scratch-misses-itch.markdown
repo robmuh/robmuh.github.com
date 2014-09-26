@@ -88,31 +88,45 @@ more valuable reasons.
 ### Better Visual Options
 
 If you do feel a graphically rich and immediately satisfying tool is
-warranted then use Gamemaker Studio or Unity 3D. These tools are used
-by professionals as well as being relatively easy to use &mdash;
-especially Gamemaker Studio with its rich drag-and-drop options that
+warranted then use Gamemaker Studio or Unity3D or KhanAcademy's
+JavaScript lessons using the ProcessingJS engine, and Python's own
+turtle graphics, PyGame, and especially Kivy frameworks. Sure you can
+hold their hands to help jump the puddles of setting up these tools.
+But once setup, they are using the same tools used by professionals even
+though, like Gamemaker Studio, they come with beginner-friendly drag-and-drop options that
 can be directly translated later into their code equivalents. Your
 students benefit best because they take those new skills with them and
 can immediately produce amateur and professional games rather than
 having to relearn a new tool after being forced to learn Scratch, Alice,
-Snap or whatever other academically-invented language is out there.
-I'll take teaching a language constructed by a well-informed engineer
-to do real things (including fun graphic things) that the scientific
-community (and others) have overwhelmingly adopted over any insular
-language designed for nothing more than to provide 'a good introduction
-to computational thinking even if they never code again'.
+Snap or whatever other academically-invented distraction is out there.
+As a student I would take being taught a language constructed by a
+well-informed engineer (even if it was BASIC) to do real things
+(including fun graphic things) that the scientific community (and others)
+have overwhelmingly adopted (yes Python is the darling of scientists) over
+any insular language designed for nothing more than to provide 'a good
+introduction to computational thinking even if they never code again',
+which brings me to another rant ...
 
 ### Expect More
+
+Why are we making cutesy tools for colleges to 'get to' students that
+will drop programming after their first class in it? (according to one
+line of thinking expressed by a proponent of Snap in colleges).
+
+There are two
+general groups, those that will continue to program and really eat it
+up, those that do not consider themselves programmers and sincerely
+don't want anything to do with it. The
+we-want-them-to-love-playing-to-keep-coding approach ultimately
+punishes the first group so the second group can play and maybe learn
+something.
 
 Some of the most amazing programmers I have ever met were Russian,
 Romanian, Indian, Chinese and Polish. By all accounts these are our main
 competitors for programming jobs. Ask any of them what they think of
-Scratch and this uniquely American way of coddling our future coders.
-"Let's not make it difficult so they want to keep doing it." Sure more
-people might play with it before deciding coding is not for them, but
-for those that are talented programmers, the ones we want to identify
-and encourage as early on to continue real programming, Scratch puts
-them actually behind in comparison.
+Scratch and this uniquely American way of coddling our future coders
+at the expense of identifying and teaching real programmers.
+Scratch puts these guys and gals actually behind in comparison.
 
 I've been told I hold even my youngest coders to very high expectations. I
 suppose I'm a little spoiled. I expect every student at SkilStak to
@@ -125,13 +139,21 @@ even if that is just coding ...
 print('Hello world!')
 ```
 
-To me learning Scratch simply doesn't count as 'first code.'  Imagine
+To me learning Scratch simply doesn't count as 'first code.'  Every
+time code.org videos lie to kids and tell them they just 'wrote' so
+many lines of code I have to stifle a grimace. The verb 'write' to
+most objective humans means you used a pencil, pen, or typed
+something. Saying you 'wrote' 160 lines of code.org code by snapping
+blocks together in a GUI editor is a bald-faced lie, and worse, one
+that they encourage kids to brag about. Imagine
 these coders when they are 24 talking to their university friends about
 when they started to code:
 
-    "Oh I started Scratch when I was seven."
+
+    "Oh I started Scratch when I was seven. I wrote 300 lines of code."
     
-    "Awwww cute. That's when I coded my first small Python app.
+    "You mean you snapped together a few blocks without every typing 
+    out a for loop. Cute. That's when I coded my first small Python app.
     Wanna see it on GitHub?"
 
 Which do you want to be? Which do you want for those you are helping
@@ -149,7 +171,7 @@ your child more as she made it.
 
 ### Conclusion
 
-Start with Python and never leave it. Supplement with Scratch and
+Start with Python. Simple code is not hard. Supplement with Scratch and
 languages like it but only if it does not slow them down in learning
 a real language. If during the first month you identify students that
 really hate Python or just can't learn to match a parenthesis or
