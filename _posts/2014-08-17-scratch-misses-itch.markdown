@@ -15,6 +15,40 @@ of time &mdash; especially after seeing first-hand how future coders
 as young as seven, who can barely type, can code in Python and usually
 enjoy it more and for better reasons.
 
+### Computational Thinking: When Scratch Works
+
+Computational thinking does not come to everyone naturally. This is
+something I had to realize talking with others and observing students.
+Breaking a problem down into parts and creating logical flows and
+algorithms has to be learned even if, like me, you can't remember when
+and where it was that you learned it.
+
+I have sat and watched students solve problems on
+[studio.code.org](http://studio.code.org) through trial and error and
+have witnessed them learning computational thinking before my eyes. This
+particular approach to visual programming does not require any
+typing skills. It is fun, engaging, and low-danger. My conclusion
+based on this experience is that kids as young at
+four can learn how to think like a programmer without typing a word.
+For this young group Scratch
+and the like are ideal, a way to play with computers that doesn't
+promote console-syndrome, that intellectual paralysis that comes
+to kids that play nothing but XBox-ish games. 
+
+Code Studio is fundamentally different than Scratch and Snap! in this
+regard because it is focused on the very young, those that cannot
+type. Scratch and Snap! require a fair amount of typing skill.
+
+The key is structure, at least in the beginning.
+
+The very structured problem-solving games at studio.code.org are also
+something anyone can do completely unsupervised making this a great
+extra to the code written together in the classroom. The same can be
+accomplished with books like DK's great *Help Your Kids with Computer
+Coding* and it's use of Scratch in a structured way to accomplish
+a goal &mdash; especially as it leads directly into Python making
+visual comparisons between the two.
+
 ### Never Been a Fan
 
 I have to confess I have never really liked Scratch for much the same
@@ -197,7 +231,9 @@ your child more as she made it.
 
 ### Conclusion
 
-Start with Python. Simple code is not hard. Supplement with Scratch and
+If your students cannot type start with Scratch and Blockly. 
+If your students can type, even a little, start with Python.
+Simple code is not hard. Supplement with Scratch and
 languages like it but only if it does not slow them down in learning
 a real language. If during the first month you identify students that
 really hate Python or just can't learn to match a parenthesis or
