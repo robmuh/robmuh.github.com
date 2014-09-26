@@ -107,6 +107,32 @@ any insular language designed for nothing more than to provide 'a good
 introduction to computational thinking even if they never code again',
 which brings me to another rant ...
 
+### Teacher's Crutch?
+
+I realize what I'm about to write will be considered fighting words by
+some, but I can't not. For whatever reason, most teachers' I have observed, who are tasked
+with teaching others to program, simply have no idea how to write
+actual code themselves. I think this is a fault of the system more
+than any teacher. I was on IRC with a guy that had been thrown into
+teaching Java because he has written a few lines of it in college even
+though he was a history teacher. The school 'volunteered' him to come up
+with an entire 'code club' program. He was in way over his head but
+wanted to help and was desperate. He and others begged me to write
+a book to specifically help these teachers thrown into teaching
+programming who have never actually done it.
+
+This is just embarrassing.
+
+The future of our world and nation depends on these skills and not
+only are they not taught in schools, the teachers could not teach them
+if we wanted them to. And you can bet as soon as *any* of them learn
+even rudimentary programming it will be really hard for them not to
+bail for an entry-level programming job making almost double their
+teacher salary. Our system of education is horribly broken and will
+never be fixed as long as that dynamic exists (which I rant about in
+another post about why [nano-schools](http://robmuh.com/nano-schools)
+and a different fundamental approach might be the answer).
+
 ### Expect More
 
 Why are we making cutesy tools for colleges to 'get to' students that
