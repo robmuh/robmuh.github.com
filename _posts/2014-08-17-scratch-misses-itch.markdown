@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scratch Misses the Itch
-subtitle: Why MIT's Scratch 'Programming' Language Might Be a Waste of Time
+subtitle: Why MIT's Scratch Might Be a Waste of Time
 ---
 
 MIT and others are shifting to use Python to introduce programming. Why
@@ -88,17 +88,31 @@ more valuable reasons.
 ### Better Visual Options
 
 If you do feel a graphically rich and immediately satisfying tool is
-warranted then use Kivy, Gamemaker Studio or Unity 3D. These tools are used
+warranted then use Gamemaker Studio or Unity 3D. These tools are used
 by professionals as well as being relatively easy to use &mdash;
 especially Gamemaker Studio with its rich drag-and-drop options that
 can be directly translated later into their code equivalents. Your
 students benefit best because they take those new skills with them and
 can immediately produce amateur and professional games rather than
-having to relearn a new tool after being forced to learn Scratch
-(and/or Alice) first. If necessary you can do that harder steps to setup the
-environment and then let them code it.
+having to relearn a new tool after being forced to learn Scratch, Alice,
+Snap or whatever other academically-invented language is out there.
+I'll take teaching a language constructed by a well-informed engineer
+to do real things (including fun graphic things) that the scientific
+community (and others) have overwhelmingly adopted over any insular
+language designed for nothing more than to provide 'a good introduction
+to computational thinking even if they never code again'.
 
 ### Expect More
+
+Some of the most amazing programmers I have ever met were Russian,
+Romanian, Indian, Chinese and Polish. By all accounts these are our main
+competitors for programming jobs. Ask any of them what they think of
+Scratch and this uniquely American way of coddling our future coders.
+"Let's not make it difficult so they want to keep doing it." Sure more
+people might play with it before deciding coding is not for them, but
+for those that are talented programmers, the ones we want to identify
+and encourage as early on to continue real programming, Scratch puts
+them actually behind in comparison.
 
 I've been told I hold even my youngest coders to very high expectations. I
 suppose I'm a little spoiled. I expect every student at SkilStak to
@@ -107,7 +121,7 @@ if kids don't want to code they leave, one way or another. At this point
 dozens of kids have had their 'code birthday' here, a *real* birthday,
 even if that is just coding ...
 
-```python
+```
 print('Hello world!')
 ```
 
@@ -132,3 +146,12 @@ and actual written code that they've saved to GitHub? I am sure you
 would be pleased with both and support whatever your child does to
 learn and express their love for you but one of these gifts taught
 your child more as she made it.
+
+### Conclusion
+
+Start with Python and never leave it. Supplement with Scratch and
+languages like it but only if it does not slow them down in learning
+a real language. If during the first month you identify students that
+really hate Python or just can't learn to match a parenthesis or
+include a semicolon then put them in the remedial Scratch-ish program,
+otherwise, don't punish the rest of the students baby talk.
