@@ -5,7 +5,7 @@ subtitle: Personal Reflections on an Undeniable Truth
 ---
 
 I'm finishing up a VMware Ubuntu Linux Desktop on a Stick image for
-[SkilStak Coding Arts](skilstak.com) with one goal in mind. Marginalize
+[SkilStak Coding Arts](http://skilstak.com) with one goal in mind. Marginalize
 Windows &mdash; and even Macs &mdash; in my students' minds.
 
 ![Ubuntu Logo](/images/ubuntu-logo14.png)
