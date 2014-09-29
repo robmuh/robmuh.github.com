@@ -6,7 +6,7 @@ subtitle: Personal Reflections on an Undeniable Truth
 
 I'm finishing up a VMware Ubuntu Linux Desktop on a Stick image for
 [SkilStak Coding Arts](skilstak.com) with one goal in mind. Marginalize
-Windows &mdash; and even Macs &mdash; in my students minds.
+Windows &mdash; and even Macs &mdash; in my students' minds.
 
 Here's the reality. I've met and worked with a lot of respectable,
 intelligent developers out there over some 25 years, but the ones that
