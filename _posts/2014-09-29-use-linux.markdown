@@ -8,6 +8,8 @@ I'm finishing up a VMware Ubuntu Linux Desktop on a Stick image for
 [SkilStak Coding Arts](skilstak.com) with one goal in mind. Marginalize
 Windows &mdash; and even Macs &mdash; in my students' minds.
 
+[Ubuntu Logo][images/ubuntu-logo14.png]
+
 Here's the reality. I've met and worked with a lot of respectable,
 intelligent developers out there over some 25 years, but the ones that
 are head and shoulders above their peers &mdash; not just the rock stars,
