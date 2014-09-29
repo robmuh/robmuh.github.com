@@ -8,14 +8,14 @@ I'm finishing up a VMware Ubuntu Linux Desktop on a Stick image for
 [SkilStak Coding Arts](skilstak.com) with one goal in mind. Marginalize
 Windows &mdash; and even Macs &mdash; in my students minds.
 
-Here's the reality. There are a lot of respectable, intelligent developers
-out there, but the ones I've met over some 25 years that are head and
-shoulders above their peers &mdash; not just the rock stars, not just
-the masters, the code geniuses who quietly and decidedly blow away their
-peers in performance, aptitude, and raw skill &mdash; all use Linux as
-their primary desktop. Among them those that use vim turn out to be even
-more intelligent and capable. These folks can leverage any operating
-system foisted on them, but they excel using Linux.
+Here's the reality. I've met and worked with a lot of respectable,
+intelligent developers out there over some 25 years, but the ones that
+are head and shoulders above their peers &mdash; not just the rock stars,
+not even the masters: the code geniuses who quietly and decidedly blow
+away their peers in performance, aptitude, and raw skill &mdash; all
+use Linux as their primary desktop. Among them those that use vim turn
+out to be even more intelligent and capable. These folks can leverage
+any operating system foisted on them, but they excel using Linux.
 
 ### Why do the best coders pick Linux?
 
@@ -49,16 +49,16 @@ to justify the cost.
 
 I've done a lot of research on the topic and Gamemaker Studio is still
 the best all-around, serious game development tool that both a 7-year-old
-can use as well as a professional or amateur indy developer. It has its
-quirks to be sure, but enjoys a solid place in the industry &mdash; for
-now &mdash; especially for real 2D game development.  At SkilStak we make
-a point of helping students learn real tools as much as possible rather
-than just-for-education toys whenever possible.  When considering a tool
-the first questions are "Can students use this in the real world?" or
-"Can this be used to make something I can upload to any app store?"
-This is where Gamemaker Studio stands out even if it is a Windows-only
-thing. It does, however, create games for all platforms (much better
-than Corona SDK does, for example).
+can use as well as a professional or amateur indy developer. It has
+its quirks to be sure, but enjoys a solid place in the industry &mdash;
+for now &mdash; especially for real 2D game development.  At SkilStak
+we make a point of helping students learn real tools as much as possible
+rather than just-for-education toys whenever possible.  When considering a
+tool the first questions are "Can a seven-year-old use this?" followed by
+"Can students use this in the real world?" or "Can this be used to make
+something I can upload to any app store?"  This is where Gamemaker Studio
+stands out even if it is a Windows-only thing. It does, however, create
+games for all platforms (much better than Corona SDK does, for example).
 
 ### The Mac Conundrum 
 
