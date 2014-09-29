@@ -20,7 +20,7 @@ fact, if you **don't** use Linux on your desktop when you first
 encounter one of these types, many of them will almost palpably dismiss
 your mediocrity in subtle, but distinguishable ways. The reverse is
 also true, if you do use Linux as your desktop the masses incorrectly
-attribute more acumen than you actually possess to you.
+credit you with more acumen than you actually possess.
 
 ### Why do the best coders pick Linux?
 
