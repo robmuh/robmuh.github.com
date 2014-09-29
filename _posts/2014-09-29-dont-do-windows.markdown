@@ -15,7 +15,12 @@ not even the masters: the code geniuses who quietly and decidedly blow
 away their peers in performance, aptitude, and raw skill &mdash; all
 use Linux as their primary desktop. Among them those that use vim turn
 out to be even more intelligent and capable. These folks can leverage
-any operating system foisted on them, but they excel using Linux.
+any operating system foisted on them, but they excel using Linux. In
+fact, if you **don't** use Linux on your desktop when you first
+encounter one of these guys, many of them will almost palpably dismiss
+your mediocrity in subtle, but distinguishable ways. The reverse is
+also true, if you do use Linux as your desktop the masses incorrectly
+attribute more acumen than you actually possess to you.
 
 ### Why do the best coders pick Linux?
 
