@@ -93,7 +93,7 @@ a little structure and organization this code could really help others
 wanting to offer more to students after completing studio.code.org
 activities. I played around with how to organize everything and
 remembered that all of code for studio.code.org is available on
-[github.com/code-dot-org](http://github.com/code-dot.org). Around that
+[github.com/code-dot-org](http://github.com/code-dot-org). Around that
 time I also wondered how to add port activities for the Maze and Farmer
 sections that don't directly map to Artist/Turtle stuff.  I thought we
 could easily add something to make them also port directly. Something
