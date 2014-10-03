@@ -55,7 +55,7 @@ Here's the major reasons, (which maybe I'll elaborate on later):
 * Integrates on-the-web and on-the-desktop coding activities
 * Launch point into graphics programming starting with Python `turtle`
 
-The overwhelming evidence from my personal experience with this students
+The overwhelming evidence from my personal experience with these students
 is that they *love* Python graphics programming and want to do a lot
 more of it. Reminded me of when I wrote a basic missile-command game in
 Basic on the Atari after doing a simpler DnD character generator in text
