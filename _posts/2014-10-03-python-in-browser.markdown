@@ -11,7 +11,7 @@ suffers from a schism of sorts between those that try to invent ways of
 running Python in the web browser using JavaScript (think codeacademy.com
 and Skulpt) and those that run Python on the server and send the
 results back to the web browser (think groklearning.com, checkio.org,
-sphere-research.com). It's no surprise that learning JavaScript in the
+sphere-research.com). Its no surprise that learning JavaScript in the
 browser and Python and Java on the desktop works out best in the long
 run for education.
 
@@ -36,8 +36,8 @@ in a creative, graphics-centric way.
 ### Java
 
 Java, not to be confused with JavaScript of course, is another big
-language used in education and for good reason, it's ubiquity outweighs
-it's warts as the first *heavy* language you should learn, but not as a
+language used in education and for good reason, its ubiquity outweighs
+its warts as the first *heavy* language you should learn, but not as a
 first language. It is currently the language of the AP Computer Science
 exam and the main secondary language taught at MIT (after Python). Java
 is the *only* language most new students know by name when they enroll
@@ -57,7 +57,7 @@ which differentiated Python's roots as a language developed by an
 engineer (who now works at Google) from those of Perl developed by
 a linguist.
 
-During it's long life several Python engines have been created to
+During its long life several Python engines have been created to
 accomplish different things, all with their own subtle (and sometimes
 annoying) differences. Among these are the 'in browser' Python interpreter
 engines that weigh up to 300KB, don't support much of anything you
@@ -110,7 +110,7 @@ equivalent they seem overwhelmed with accomplishment.
 
 Khan Academy is another JavaScript-based place to learn programming
 and uses ProcessingJS library, an amazing tool for making all sorts of
-creative visual stuff, but Processing is technically it's own language
+creative visual stuff, but Processing is technically its own language
 even though it looks a lot like Java. Moving from Processing, which is
 more of a language than an API, to Java makes some sense, but not really
 to Python. There is the `pyprocessing` project and some other Skulpt-based
