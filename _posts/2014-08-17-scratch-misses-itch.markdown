@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Scratch Misses the Itch
-subtitle: Why Educational-Only Approaches Might Be a Waste of Time
 ---
 
 MIT and others are shifting to use Python to introduce programming. Why
