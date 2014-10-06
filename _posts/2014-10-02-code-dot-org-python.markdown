@@ -116,7 +116,7 @@ from codestudio import Artist
 
 Or even more simply when referring directly to an activity:
 
-``` 
+```python
 from codestudio.s1level2 import *
 ```
 
