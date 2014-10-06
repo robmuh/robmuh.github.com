@@ -7,7 +7,9 @@ MIT and others are shifting to use Python to introduce programming. Why
 not do the same for even the youngest future coders instead of
 Scratch.
 
-### Computational Thinking: When Scratch Works
+Something here
+
+### Computational Thinking, When Scratch Works
 
 Computational thinking does not come to everyone naturally. This is
 something I had to realize talking with others and observing students.
@@ -41,7 +43,7 @@ Coding* and it's use of Scratch in a structured way to accomplish
 a goal &mdash; especially as it leads directly into Python making
 visual comparisons between the two.
 
-### Computational Thinking: When Snap! Works
+### Computational Thinking, When Snap! Works
 
 One of the hardest concepts I've had to introduce to students is
 event-based, functional programming, (which we eventually use with
