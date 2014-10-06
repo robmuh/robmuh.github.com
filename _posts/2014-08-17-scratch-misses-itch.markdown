@@ -7,6 +7,7 @@ MIT and others are shifting to use Python to introduce programming. Why
 not do the same for even the youngest future coders instead of
 Scratch.
 
+
 I mean no disrespect to a tool that has introduced probably hundreds of
 thousands to programming at this point but the cutesy Scratch platform
 (I just cannot bring myself to call it a language) often seems like a
