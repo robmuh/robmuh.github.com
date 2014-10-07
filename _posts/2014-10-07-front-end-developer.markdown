@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wanted: Front End Developers
+title: Wanted - Front End Developers
 subtitle: The New Job Requirements or Wake Up, You Suck
 ---
 
