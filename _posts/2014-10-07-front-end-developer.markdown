@@ -171,10 +171,12 @@ back on track.
 
 ### And Then There Was SkilStak
 
-SkilStak started a day or two later at first as an small app to keep
-track of where my skills were and where I wanted them to be and later as
-a way to help others do the same. Yes I could apply for this or any of
-the dozens of other jobs that are out there about which recruiters call
-me about once a week, including Google and Amazon. But there is simply
-nothing more fun and fulfilling than preparing young technologists early
-to face the challenge of a coding career.
+SkilStak started a day or two later at first as an small app to keep track
+of where my skills were and where I wanted them to be. Later it became
+a way to help others do the same.
+
+Yes I've got my skills back to a place where I could accept any of a
+dozen job offers, including Amazon and Google and ironically one doing
+*exactly* the same thing I was doing at IBM for IBM for about 15% more
+money, but nothing tops preparing young technologists early to face the
+challenge of a coding career on their own terms.
