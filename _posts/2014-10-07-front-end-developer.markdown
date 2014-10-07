@@ -12,14 +12,14 @@ takes to get a job in ~~web~~ front-end development today.
 The following is taken direct from a recent email sent from a local
 recruiter:
 
- * Seeking a strong Javascript Developer
- * Coding skills are far more important that years of experience in the field. 
- * Junior, Mid-level, and Senior Developers are all welcome to apply.
- * Coding in Native Javascript is key.
- * HTML5 and CSS3 must be strong.
- * Experience with varied libraries/frameworks: JQuery, Angular, Ember, Backbone, Bootstrap, Etc.
- * Must be a self-starter and work well within a team environment.
- * Candidates are encouraged to submit a portfolio of their work for review.
+    * Seeking a strong Javascript Developer
+    * Coding skills are far more important that years of experience in the field. 
+    * Junior, Mid-level, and Senior Developers are all welcome to apply.
+    * Coding in Native Javascript is key.
+    * HTML5 and CSS3 must be strong.
+    * Experience with varied libraries/frameworks: JQuery, Angular, Ember, Backbone, Bootstrap, Etc.
+    * Must be a self-starter and work well within a team environment.
+    * Candidates are encouraged to submit a portfolio of their work for review.
 
 At first glance this looks pretty standard but I couldn't help taking
 note of a few things you might not catch unless you read it again.
