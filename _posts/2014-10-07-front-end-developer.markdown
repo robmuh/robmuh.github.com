@@ -31,19 +31,20 @@ web technologies have become the defacto 'front-end' GUI technologies
 as well. When people want to put a front end on their monstrous
 enterprise application they automatically assume that it will be web
 technology. While I personal predict this will change as devices become
-more powerful and multi-touch is more usefully deployed web tech is
-worth a solid investment of your mind-share (as are rapid-deployment,
+more powerful and multi-touch is more usefully deployed, today web tech
+is worth a solid investment of your mind-share (as are rapid-deployment,
 multi-touch, cross-platform technologies such as Python Kivy).
 
 ### Supply Does Not Meet Demand
 
-There are all kinds of surveys and research studies showing that the
-pace of growth in the tech industry is far exceeding the availability
-of people who can actually do the work, even 'junior' developers. When
-he writes, 'junior, mid, and senior developers' he means, "We are
-desperate for anyone who can actually code." It also means that you
-should not sell yourself short if you actually have something to show
-for your skill.
+There are all kinds of surveys and research studies &mdash; most notably
+[that](http://www.bls.gov/) from the Bureau of Labor and Statistics
+&mdash; showing that the pace of growth in the tech industry is far
+exceeding the availability of people who can actually do the work, even
+'junior' developers. When he writes, 'junior, mid, and senior developers'
+he means, "We are desperate for anyone who can actually code." It also
+means that you should not sell yourself short if you actually have
+something to show for your skill.
 
 ### Must Have GitHub 'Portfolio'
 
