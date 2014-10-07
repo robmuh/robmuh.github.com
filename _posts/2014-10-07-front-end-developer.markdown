@@ -74,7 +74,7 @@ of skills &mdash; then just don't put up with that crap. Find a job
 and environment that you will enjoy working in with people who trust
 you to be productive and that you trust back and make stuff happen.
 
-### 'Native' JavaScript is King
+### 'Native' JavaScript is King, Light on jQuery
 
 The first bullet listed is JavaScript even though HTML5 and CSS3 are
 listed four lines later with the same 'strong' adjective. In fact,
@@ -82,23 +82,12 @@ JavaScript gets another mention as 'Native Javascript' (his caps). I
 think this is significant because it shows a deemphasis on jQuery (even
 though it is also listed later). What does this mean? It means learn
 JavaScript. Seems obvious but worth saying. It used to be you really
-just needed to know jQuery and you were good, not anymore.
-
-### No PHP
-
-Nope. No surprise there. PHP is dying. Don't waste your
-time. Disagree? Cool story bro. Go blog about why you disagree with the
-very guys who created the thing in the first place.
-
-### Light on jQuery
-
-Even though it is listed because anyone who has been around over the
-last decade should at least recognize and be able to deal with jQuery
-the trend is clearly moving toward more powerful CSS alternatives and
-'native' JavaScript. Most of the reasons jQuery was valuable when the
-browsers were all over the place and no consistency existed have
-faded, yet there is still a lot of legacy jQuery code out there to
-decipher and improve.
+just needed to know jQuery and you were good, not anymore. jQuery is
+listed because anyone who has been around over the last decade should
+at least recognize and be able to deal with jQuery when they have to
+support older code.  Most of the reasons jQuery was valuable when the
+browsers had no consistent standard have faded, yet there is still a
+lot of legacy jQuery code out there to decipher and improve.
 
 ### Heavy on the Angular, Backbone and Ember
 
