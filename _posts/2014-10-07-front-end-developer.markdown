@@ -45,7 +45,7 @@ exceeding the availability of people who can actually do the work, even
 he means, "we are desperate for anyone who can actually code." It also
 means that you should not sell yourself short if you actually have
 something to show for your skill no matter what your background or
-format education.
+formal education.
 
 ### Must Have GitHub 'Portfolio'
 
