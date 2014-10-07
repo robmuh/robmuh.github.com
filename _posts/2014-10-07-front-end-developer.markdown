@@ -154,13 +154,16 @@ way to do this?" I wanted to punch his smart ass grin through the phone
 mostly because I realized just what a dull-edged cliché I had become
 but instead I laughed it off.
 
-"Hell no!" I thought later to inside to myself. "I am NOT that guy."
+"Hell no!" I thought later to myself inside, or was it very loudly to
+my wife hearing me out over a beer, I forget.
+
+"I am NOT that guy."
 
 But I was. It didn't matter how much smarter I was than the
 interviewer. It didn't matter how much other amazing stuff I'd done,
-(which I'll spare you from reading about). All that mattered was could
-I do the job in the most efficient way possible, and that meant knowing
-`JSON.parse()`. I couldn't.
+(which I'll spare you). All that mattered was that I could do the job
+in the most efficient way possible, and in this case apparently that
+meant knowing `JSON.parse()`. I couldn't.
 
 While I think interviews like that are largely idiotic because they do
 not assess the actual aptitude of an applicant it was enough to get me
