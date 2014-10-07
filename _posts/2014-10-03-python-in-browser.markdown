@@ -95,7 +95,7 @@ heavily in any in-browser Python implementation for their material.
 I had to be reminded that kids really, really, really love visual feedback
 during their programming. While we have a great time creating text-only
 games in Python things like the amazing studio.code.org mesmerized these
-guys to the point of almost of being catatonic while working on them.
+guys to the point of almost being catatonic while working on them.
 Naturally that meant adding more visual interest to their
 learning-to-code work.
 
