@@ -93,7 +93,7 @@ lot of legacy jQuery code out there to decipher and improve.
 
 Angular is the 'A' in [MEAN](http://mean.io/) stack. And while even MEAN will soon be not
 so mean due to Koa and ECMAScript 6, (which I think should be called the
-[KWAND](http://kwand.io) stack), it is clearly here to stay for a long
+[KWAND](http://github.com/kwand) stack), it is clearly here to stay for a long
 time. I mean, come on, Google pretty much owns it and they aren't
 going anywhere, (which can be said of Python as well).
 
