@@ -13,7 +13,7 @@ and Skulpt) and those that run Python on the server and send the
 results back to the web browser (think groklearning.com, checkio.org,
 sphere-research.com). Its no surprise that learning JavaScript in the
 browser and Python and Java on the desktop works out best in the long
-run for education.
+run.
 
 Note to the established developers: yes I'm over-generalizing and
 simplifying a bit to make this easier to grok for others.
