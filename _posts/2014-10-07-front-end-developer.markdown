@@ -42,7 +42,7 @@ There are all kinds of surveys and research studies &mdash; most notably
 &mdash; showing that the pace of growth in the tech industry is far
 exceeding the availability of people who can actually do the work, even
 'junior' developers. When he writes, 'junior, mid, and senior developers'
-he means, "We are desperate for anyone who can actually code." It also
+he means, "we are desperate for anyone who can actually code." It also
 means that you should not sell yourself short if you actually have
 something to show for your skill.
 
