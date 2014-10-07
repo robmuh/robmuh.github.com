@@ -9,7 +9,7 @@ and education, perhaps a degree or two. Times have changed, and for the
 better, that is, if you know how to prepare and keep up. Here's what it
 takes to get a job in <del>web</del> front-end development today.
 
-The following is taken direct from a recent email sent from a local
+The following is taken verbatim from a recent email sent from a local
 recruiter:
 
     * Seeking a strong Javascript Developer
