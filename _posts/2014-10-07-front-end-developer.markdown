@@ -71,8 +71,8 @@ blah, blah. Personally, I'm not into that game and don't see why
 anyone else really needs to play that way as well. If you are being
 asked to jump through hoops &mdash; and you have a solid 'portfolio'
 of skills &mdash; then just don't put up with that crap. Find a job
-and environment that you will enjoy working in with the kinda of
-stress you enjoy, not that sucks the life and skills out of you.
+and environment that you will enjoy working in with people who trust
+you to be productive and that you trust back and make stuff happen.
 
 ### 'Native' JavaScript is King
 
