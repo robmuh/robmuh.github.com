@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn Python and Java on the Desktop, JavaScript in the Browser
+title: Learn Python and Java on the Server and Desktop, JavaScript in the Browser
 ---
 
 JavaScript, Java, and Python top the list of first real programming
