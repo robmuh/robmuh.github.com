@@ -9,7 +9,7 @@ teach first at [SkilStak Coding Arts](http://skilstak.com). I've
 narrowed it down to [Kivy](http://kivy.org) and
 [Processing](http://processing.org). Processing is a visualization
 language targeted mostly at artists with a great JavaScript port and
-is used by [khanacademy.com](khanacademy.com]) to teach programming
+is used by [khanacademy.com](http://khanacademy.com) to teach programming
 but suffers from lack of cross-platform support and multi-touch
 functions. Kivy is Python with its own markup and full cross-platform,
 multi-touch support for apps on all devices but isn't really as accessible
