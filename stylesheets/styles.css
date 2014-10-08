@@ -261,9 +261,10 @@ samp {
   font-family: 'courier new', monospace, sans-serif;
   font-size: 1em;
   border-radius: 3px;
-  background: #f5f7f8;
+  background: #073642;
   padding: 4px 4px 1px;
-  border: solid 1px #e4e4e4;
+  border: solid 1px #002b36;
+  color: #b58900;
 }
 
 /*
