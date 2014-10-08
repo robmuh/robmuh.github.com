@@ -62,15 +62,15 @@ important &mdash; if not slightly more so &mdash; than web development.
 
 ### Kivy Fits the Education Path Better
 
-Everyone here starts on studio.code.org. Then they port the JavaScript
-from 'Show Code' to Python's `turtle` module, which in turn leads to
-`tkinter` broader graphic possibilities and then to `pygame` and
-ultimately to Kivy, which is built partially on `pygame`. This
-progression feels natural where it matters most: the transition from
-dragging blocks to typing code. Python has a more forgiving and
-understandable syntax than JavaScript for this yet the students are
-exposed to a little JavaScript syntax as well in the process &mdash;
-particularly loops, functions and such.
+Everyone here starts on [studio.code.org](http://studio.code.org). Then
+they port the JavaScript from 'Show Code' to Python's `turtle` module,
+which in turn leads to `tkinter` broader graphic possibilities and
+then to `pygame` and ultimately to Kivy, which is built partially on
+`pygame`. This progression feels natural where it matters most: the
+transition from dragging blocks to typing code. Python has a more
+forgiving and understandable syntax than JavaScript for this yet the
+students are exposed to a little JavaScript syntax as well in the process
+&mdash; particularly loops, functions and such.
 
 Python provides quite a bit of graphics programming possibilities included
 in every Python installation with `turtle` and `tkinter`. When we reach
