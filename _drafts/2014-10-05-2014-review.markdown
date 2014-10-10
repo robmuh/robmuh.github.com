@@ -1,0 +1,155 @@
+---
+layout: post
+title: 2014 Year in Review
+subtitle: An early look back
+---
+
+A lot has happened at [SkilStak Coding Art](http://skilstak.com) in 2014
+with more to come. Here's a summary.
+
+### Student Growth
+
+It's been fun getting to watch SkilStak grow this year, sometimes in
+spite of me. We've grown from 30 students in January to 48 currently
+enrolled on our way to hitting the goal of 60 by year end. Each student
+contributes something so completely unique yet somehow every one of
+them just seems to belong here. I've never been shy about my somewhat
+metaphysical conviction that students are led to SkilStak. With no
+marketing besides word-of-mouth this seems more true than ever.
+
+### Turnover
+
+Because we never ask for more than a 4-week commitment we have had
+some expected turn-over as students find other interests or decide, on
+occasion, that programming just isn't their thing. We average three
+adds for every one drop with most drops based on school conflicts and
+distance.
+
+### Expanded Locations
+
+We looked into moving our location based on suggestions and availability
+but have decided to remain at our Catawba location for the foreseeable
+future &mdash; especially now that the AC is fixed and local places are
+opening where parents can spend time nearby waiting for their
+students.
+
+We have had several requests to open a location in South Charlotte but
+have no immediate plans to do so focusing instead on increasing capacity
+of our Cornelius location. We'd rather provide a phenomenal experience
+for few local students than dilute that experience for a lot before we
+are ready. That said, several of our students drive as much as an hour
+to attend.
+
+### Online Classes
+
+At a friend's emphatic request we attempted an online version of class
+identical in every other way to the ones in person. After about a month
+it became clear that even though screen sharing with Google Hangouts
+works great and provides essentially the same experience supporting
+even three students using this approach just doesn't work, not in the
+same way as in person anyway. While it is likely we could figure out a
+way around this we decided to focus on the unique, in-person, SkilStak
+[nano-school](http://robmuh.com/nano-school) experience instead. Happily
+he was able to find a similar school in his area.
+
+I am not saying online education doesn't work in general, just that
+from my personal experience the ideal is the hyper-focus and attention
+available only in person with a small group of students that work well
+together. Once I'd experienced it everything else seemed vastly
+inferior.
+
+As Salmon Kahn echoes in his **One World Schoolhouse** the Internet is
+ideal for independent, individual self-instruction. I'd add it is also
+horrible at real-time education. Ironically this conclusion &mdash;
+based on recent personal experience &mdash; is completely opposite from
+the opinion I held for years while promoting virtual worlds and online
+classrooms for education. When you want real-time online, there is IRC,
+Twitter and other zero-start-up solutions which are naturally easier to
+setup and digest than the heavier virtual world possibilities. Yes
+immersion is real in a virtual world, but very few subjects,
+particularly just learning to code, do not benefit from it.
+
+### Multiple Class Space Remodels
+
+It still makes some of our original students' parents giggle every
+time it happens but the layout of the classroom has changed
+organically to meet what seems best for those coming here. Ironically
+after having removed tables last year we are back to them again only
+better and with more space.
+
+We bumped up the maximum class size from three to four after the
+improvements and this seems sustainable going forward increasing
+maximum school class enrollment to 68 and Saturday camp enrollment to
+16.
+
+### Attendance and Billing Improvements
+
+
+
+
+### Ubuntu Linux Server on a Stick
+
+### Web Sites: Bellalove, Tawbawalk
+
+### Reincorporation in North Carolina
+
+### "Raw Code" Class Format
+
+### Research: Learning to Code Resource Recommendations
+
+### Research: Learning to Code Educational Paths
+
+### OpenSource: studio.code.org -> Python Port
+
+### Python Tutorial: Battleship
+
+### GameMaker Tutorial: RPG Movement
+
+### GameMaker Tutorial: RPG Movement
+
+### GameMaker Tutorial: Perfect Platformer
+
+### Python Module: gamegrid
+
+### Python Module: storylib
+
+### Book: A Code Wizard's First Spellbook
+
+### Summer Camps
+
+### CorneliusNews.net Article
+
+SkilStak has enjoyed very good word-of-mouth marketing allowing us
+to make the school great instead of telling everyone how great it is.
+SkilStak would not be in business if it were not for this amazing effort
+by the students and parents here.
+
+Still, when CorneliusNews.net approached asking for an interview it
+was great to see the school and students get some good positive
+attention. Thanks to that article we have Jack and William and I could
+not imagine the school without them. The article perfectly captures
+why SkilStak exists and where we want to go with it.
+
+### Ubuntu Linux Desktop on a Stick
+
+### Saturday Minecraft Camps
+
+### Saturday Gamer Camps
+
+### Bailey Code Club
+
+### SkilBux
+
+### T-Shirts, Bumber Stickers
+
+### Parents' Class
+
+### Day-Time Classes
+
+SkilStak classes are currently only after school and on Saturdays but
+we hope to add at least one day-time class in 2014 mostly for those
+who are home-schooled. Day-time classes will be from 2:00-3:30 so as
+to not interfere with the regular 9-2 Summer Camp hours. If successful
+most day-time classes will be added increasing the maximum enrollment
+from 68 to 
+
