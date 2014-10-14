@@ -41,7 +41,7 @@ def random_color():
 
 This porting activity addressed so many things that I still felt were
 missing and even made me shy away from things like
-[Scratch](http://robmuh.com/scratch-misses-itch) and even turtle
+[Scratch](http://robs.io/scratch-misses-itch) and even turtle
 graphics programming in general. Since GameMaker, for example, is also
 very graphical and can be used to make actual games eventually more
 capably that just pure Python.
