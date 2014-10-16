@@ -13,7 +13,7 @@ games. In fact, I hope they never code games in their lives after leaving
 SkilStak unless it is for fun with their family and friends to teach them
 coding as well.
 
-### Most Gamers Suck, and Not Just the Noobs
+### Gamers Suck, and Not Just the Noobs
 
 All too often I encounter the worst gamer personification &mdash;
 especially online behind their cloak of anonymity. These guys (and gals)
