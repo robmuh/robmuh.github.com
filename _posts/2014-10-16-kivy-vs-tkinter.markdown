@@ -62,9 +62,9 @@ Python 3 is otherwise supported by both.
 
 You really have to just add one line:
 
-```python
+{% highlight python %}
 from tkinter import tkk
-```
+{% endhighlight %}
 
 This gets you all the new and improved widgets.
 
