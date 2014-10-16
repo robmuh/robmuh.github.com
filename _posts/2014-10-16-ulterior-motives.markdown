@@ -49,5 +49,21 @@ revealed in a mass spectrometer or imbuing robots with the intelligence
 to perform tasks or just to make a computer generate amazing interactive
 art, which games are, of course.
 
-Learning to program is only the beginning. The question is what will you use
-your coding mastery for.
+Learning to program is only the beginning. The question is what will
+you use your coding mastery for.
+
+### SkilStak Coding Arts is About Programming, Not Games
+
+Yes we love to game. We are even adding a gaming camp to learn the
+subtleties of the most advanced strategy games out there. But SkilStak
+never has been nor never will be about playing games other than as a means
+to learn programming and build computational thinking skills. If anything
+I hope our small army of programmers grows capable to make games that
+educate and uplift without kids even knowing they aren't just playing
+a game.
+
+There are a lot of schools, some national, popping up that tie into
+game development, some more than others, but in our case, SkilStak will
+always be about programming first. We may not enjoy the mass appeal
+of game-dev-only schools, but we don't need it. Our motives are pure,
+learn programming to create whatever you dream of, the rest will follow.
