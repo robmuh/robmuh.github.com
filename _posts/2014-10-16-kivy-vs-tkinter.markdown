@@ -62,7 +62,7 @@ Python 3 is otherwise supported by both.
 
 You really have to just add one line:
 
-```python
+```
 from tkinter import tkk
 ```
 
