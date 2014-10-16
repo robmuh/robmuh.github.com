@@ -15,19 +15,28 @@ coding as well.
 
 ### Most Gamers Suck, and Not Just the Noobs
 
-Honestly, most gamers I meet &mdash; especially online behind the
-cloak of anonymity &mdash; are illiterate, assholes who couldn't use a
+All too often I encounter the worst gamer personification &mdash;
+especially online behind their cloak of anonymity. These guys (and gals)
+are illiterate, foul-mouthed, overweight, assholes who couldn't use a
 semicolon properly to save their lives. If you are one, well, I'm not
-sorry I said so. (Now go read a book.) If you aren't, then I'm sorry
-you had to read the sorry cynical side of my personality. There's a
-reason many of the best game developers themselves don't play a lot
-of video games (as is voiced in one documentary about indy and 'big
-house' game development). They enjoy the challenge of creation more
-than winning. Games can stimulate. They can also destroy, which may
-explain the sad, sorry personalities of those who have come to think
-their behavior is acceptable when it just isn't.
+sorry I said so. (Now go read a book.) If you aren't, then I'm sorry you
+had to read the sorry cynical side of my personality.
+
+I know it's not culturally correct to call-out this negative
+generalization about gamers &mdash; especially today when just about
+everyone is one.
+
+I also am not claiming saint-hood here. I've been one of the worst of
+these gamers, which might be why I understand them so much.
 
 Don't think you are immune. 
+
+### Best Game Developers Don't Play Games
+
+There's a reason many of the best game developers themselves don't play
+a lot of video games (as is voiced in one documentary about indy and
+'big house' game development). They enjoy the challenge of creation
+more than winning. Games can stimulate. They can also destroy.
 
 ### Minecraft
 
