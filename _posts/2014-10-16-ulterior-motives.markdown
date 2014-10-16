@@ -73,6 +73,8 @@ a game.
 
 There are a lot of schools, some national, popping up that tie into
 game development, some more than others, but in our case, SkilStak will
-always be about programming first. We may not enjoy the mass appeal
-of game-dev-only schools, but we don't need it. Our motives are pure,
-learn programming to create whatever you dream of, the rest will follow.
+always be about programming first. We may not enjoy the mass appeal of
+game-dev-only schools, but we don't need it. Our motives might not be
+obvious with the Minecraft stuff in the window, but they really are to
+get as many humans as possible to learn programming to create whatever
+they dream of, the rest will follow.
