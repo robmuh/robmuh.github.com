@@ -10,7 +10,7 @@ are and who they will become, not just to making games.
 Recently I was reminded why I have always been about teaching particularly
 school-age kids programming through their love of games, not just to make
 games. In fact, I'd be fine if they never code games in their lives after
-leaving SkilStak thought I'd hope they still would for fun with their
+leaving SkilStak though I'd hope they still would for fun with their
 family and friends to teach them coding, typing, chemistry or whatever.
 
 ### Gamers Suck, and Not Just the Noobs
