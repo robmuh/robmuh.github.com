@@ -59,8 +59,8 @@ revealed in a mass spectrometer or imbuing robots with the intelligence
 to perform tasks or just to make a computer generate amazing interactive
 art, which games are, of course.
 
-Learning to program is only the beginning. The question is what will
-you use your coding mastery for.
+Learning to program is only the beginning. The question is how will you use
+your code master superpowers.
 
 ### SkilStak Coding Arts is About Programming, Not Games
 
