@@ -9,18 +9,19 @@ are and who they will become, not just to making games.
 
 Recently I was reminded why I have always been about teaching particularly
 school-age kids programming through their love of games, not just to make
-games. In fact, I hope they never code games in their lives after leaving
-SkilStak unless it is for fun with their family and friends to teach them
-coding as well.
+games. In fact, I'd be fine if they never code games in their lives after
+leaving SkilStak thought I'd hope they still would for fun with their
+family and friends to teach them coding, typing, chemistry or whatever.
 
 ### Gamers Suck, and Not Just the Noobs
 
 All too often I encounter the worst gamer personification &mdash;
 especially online behind their cloak of anonymity. These guys (and gals)
-are illiterate, foul-mouthed, overweight, assholes who couldn't use a
+are illiterate, foul-mouthed, self-entitled assholes who couldn't use a
 semicolon properly to save their lives. If you are one, well, I'm not
-sorry I said so. (Now go read a book.) If you aren't, then I'm sorry you
-had to read the sorry cynical side of my personality.
+sorry I said so. (Now go read a book.) If you aren't, then I'm sorry
+you had to read the sorry cynical side of my personality. I swear I'm
+a happy guy. I really am.
 
 I know it's not culturally correct to call-out this negative
 generalization about gamers &mdash; especially today when just about
