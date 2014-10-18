@@ -47,7 +47,7 @@ others teach Python 3 already as well.)
 ### Effort Better Spent
 
 I hate being told where to spend my time so I won't do the same. I
-do wonder, however, what amazing things could be accomplished brilliant 
+do wonder, however, what amazing things could be accomplished by the brilliant 
 minds behind all the Python on the Web implementations if they focused on
 something else. 
 
