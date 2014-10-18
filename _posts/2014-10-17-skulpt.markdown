@@ -63,8 +63,8 @@ checked there was no support for the core `tkinter` module in Skulpt.
 I was particularly disappointed by this because I am working on a small
 game engine mostly for education implemented entirely in `tkinter.Canvas`
 called `tkgm` mostly so young programmers have a one-module minimal
-game engine to use without any additional download or setup (such as
-what Pygame or Kivy would require).
+game engine to use without any additional download or setup that feels
+familiar to [GameMaker Studio&trade;](http://yoyogames.com) developers.
 
 No `tkinter` means no Skulpt for me.
 
