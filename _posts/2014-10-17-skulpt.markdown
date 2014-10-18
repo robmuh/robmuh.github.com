@@ -58,10 +58,11 @@ focus on existing efforts might propel it further forward.
 
 ### No tkinter?
 
-Last I checked there was no support for the core `tkinter` module in
-Skulpt.  I was particularly disappointed by this because I am working
-on a small game engine mostly for education implemented entirely in
-`tkinter.Canvas` called `tkgm`. No `tkinter` means no Skulpt for me.
+I guess this 'battery' isn't included in this implementation. Last I
+checked there was no support for the core `tkinter` module in Skulpt.
+I was particularly disappointed by this because I am working on a small
+game engine mostly for education implemented entirely in `tkinter.Canvas`
+called `tkgm`. No `tkinter` means no Skulpt for me.
 
 (To read more about the justification for the `tkgm` engine
 follow the [tkgm](http://github.com/skilstak/tkgm) and
@@ -110,5 +111,5 @@ visual arts community for years. Ultimately I concluded [Kivy has more
 relevance long-term](http://robs.io/kivy-or-processing).
 
 In other words, Processing is simply not a reason to use Skulpt. If
-anything, Processing are ProcessingJS are a reasons to learn JavaScript not
-Python.
+anything, Processing and ProcessingJS are a reasons to learn JavaScript
+not Python.
