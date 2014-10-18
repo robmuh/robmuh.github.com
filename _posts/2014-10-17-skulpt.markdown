@@ -21,7 +21,7 @@ Skulpt isn't the first Python interpreter project to attempt to put Python
 where it clearly does not belong (on the web), but it is definitely the
 coolest one to try it. Despite it's brilliance and best intentions in
 the name of education and content accessibility this effort ultimately
-delays the core learning needed for students run Python as God intended.
+delays the core learning needed for students to use Python as God intended.
 
 ### Codecademy.com, Still on Python 2.7
 
