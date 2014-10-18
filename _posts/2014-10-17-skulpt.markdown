@@ -34,7 +34,7 @@ are compiling to JavaScript directly from the C source with
 and beyond. Since that time there has been no update and no information
 about when Python might be updated to the only version worth teaching,
 Python 3. In fact, I actively encourage students and parents *not* to
-use codecademy.com for *Python* because of it. Correcting them is to
+use codecademy.com for *Python* because of it. Correcting them is too
 frustrating when they come with non-Python 3 habits. It's not drastic,
 but enough to be annoying and make them feel a little foolish.
 
