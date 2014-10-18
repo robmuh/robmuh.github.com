@@ -1,0 +1,119 @@
+---
+layout: post
+title: Skulpt, A Python Caught in the Web
+subtitle: skulpt takes python out of it's natural habitat
+---
+
+As amazing as Skulpt is and as brilliant a developer, educator, and writer
+[Brad Miller](https://github.com/bnmnetp) is, any attempt to bring Python
+to the 'client side' (on the web) is simply misguided and distracting.
+
+### Brad Rocks!
+
+Before I continue I wish to express my utter admiration for Brad's
+work and professional respect for every aspect of his career, which,
+from what I know if it, I both admire and envy. Brad if you read this
+I very much hope it will be received in good faith.
+
+### Skulpt Isn't the Only Python Creature Caught in the Web
+
+Skulpt isn't the first Python interpreter project to attempt to put Python
+where it clearly does not belong (on the web), but it is definitely the
+coolest one to try it. Despite it's brilliance and best intentions in
+the name of education and content accessibility this effort ultimately
+delays the core learning needed for students run Python as God intended.
+
+### Codecademy.com, Still on Python 2.7
+
+Among the other attempts to put Python on the Web
+is the engine behind the outdated Python tutorials on
+[codecademy.com](http://www.codecademy.com/tracks/python). These
+are compiling to JavaScript directly from the C source with
+[emscripten](http://kripken.github.io/emscripten-site/), which it appears
+[Amjad](https://twitter.com/amasad) created before he left for Facebook
+and beyond. Since that time there has been no update and no information
+about when Python might be updated to the only version worth teaching,
+Python 3. In fact, I actively encourage students and parents *not* to
+use codecademy.com for *Python* because of it. Correcting them is to
+frustrating when they come with non-Python 3 habits. It's not drastic,
+but enough to be annoying and make them feel a little foolish.
+
+(And no I don't feel like discussing why Python 2.7 is still
+relevant. Most of my students will be in the college and or working
+in 3-10 years. By then it's a safe bet Python 3 will be much more of a
+standard than it already is, which is probably why groklearning.com and
+others teach Python 3 already as well.)
+
+### Effort Better Spent
+
+I hate being told where to spend my time so I won't do the same. I
+do wonder, however, what amazing things could be accomplished brilliant 
+minds behind all the Python on the Web implementations if they focused on
+something else. 
+
+The JavaScript community comparatively seems to enjoy a rather centralized
+focus around the common Google V8 engine. Python has been around a lot
+longer and has a wider net of domains to address but any additional
+focus on existing efforts might propel it further forward.
+
+### No tkinter?
+
+Last I checked there was no support for the core `tkinter` module
+in Skulpt.  I was particularly disappointed by this because I am
+working on a small game engine mostly for education implemented
+entirely in `tkinter.Canvas` called `tkgm`. This humble engine
+will share the model and domain language of GameMaker Studio and
+other tools similar to it. Need for such an engine arose from our
+[`codestudio`](http://github.com/skilstak/codestudio.git), and
+code.org -> Python ports that we do as a natural progression
+into typed code from the excellent code.org challenges
+([code-org-example](http://github.com/skilstak/code-org-example)). More
+about the justification for this engine and why can be read about on
+those project sites. Mostly we need one-to-one port paths for the Maze
+and Farmer activities (Artist already has Python `turtle`).
+
+### Speed
+
+My disappointment about Skulpt not having `tkinter` support was alleviated
+when I realized that even if implemented it would likely be hindered by
+performance issues more than a native `tkinter` implementation would. This
+would really be interesting to research since I could be completely wrong
+and any JavaScript implementation of `tkinter` (even if just the `Canvas`
+class) might turn out to be faster. My gut says it would be unlikely,
+however.
+
+### Groklearning.com Gets It
+
+Even though they are a subscription service ($30/year currently),
+[groklearning.com](http://groklearning.com) understands the
+premise of my criticism of putting Python where it doesn't belong,
+but they do it anyway, with style. They ship off the Python to a
+server running it and send back the actual Python output from a
+[CPython](http://en.wikipedia.org/wiki/CPython) interpreter. Ahhhh,
+now that's Pythonic.
+
+Problem is, this completely eliminates most all of the graphics stuff. For
+example, no `turtle` even on groklearning.com. I used to think those
+learning could overlook all the shiny graphic methods to learn Python, but
+observing first-hand how captivated learners of all ages are by
+learn.code.org are (and then Python `turtle` and `tkinter` applications
+later) I simply can't deny graphics play a major motivational role in
+learning to code.
+
+### Processing and the Rest
+
+[Processing](http://processing.org) has been implemented in Skulpt, which is
+great. In fact, it is the only implementation of Processing I've been able
+to find for Python. It is one of the biggest advantages of Skulpt.
+
+I had to seriously ask myself if I wanted to include Processing in the
+main curriculum. After being convinced that graphics have a solid place in
+learning real computer programming evaluating Processing was tough.  It is
+the foundation of all of programming education at khanacademy.com. Beyond
+that it is just so fun. No wonder it has been a darling of the creative
+visual arts community for years. Ultimately I concluded [Kivy has more
+relevance long-term](http://robs.io/kivy-or-processing).
+
+In other words, Processing is simply not a reason to use Skulpt. If
+anything, Processing are ProcessingJS are a reasons to learn JavaScript not
+Python.
