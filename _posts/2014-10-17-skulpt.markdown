@@ -58,19 +58,14 @@ focus on existing efforts might propel it further forward.
 
 ### No tkinter?
 
-Last I checked there was no support for the core `tkinter` module
-in Skulpt.  I was particularly disappointed by this because I am
-working on a small game engine mostly for education implemented
-entirely in `tkinter.Canvas` called `tkgm`. This humble engine
-will share the model and domain language of GameMaker Studio and
-other tools similar to it. Need for such an engine arose from our
-[`codestudio`](http://github.com/skilstak/codestudio.git), and
-code.org -> Python ports that we do as a natural progression
-into typed code from the excellent code.org challenges
-([code-org-example](http://github.com/skilstak/code-org-example)). More
-about the justification for this engine and why can be read about on
-those project sites. Mostly we need one-to-one port paths for the Maze
-and Farmer activities (Artist already has Python `turtle`).
+Last I checked there was no support for the core `tkinter` module in
+Skulpt.  I was particularly disappointed by this because I am working
+on a small game engine mostly for education implemented entirely in
+`tkinter.Canvas` called `tkgm`. No `tkinter` means no Skulpt for me.
+
+(To read more about the justification for the `tkgm` engine
+follow the [tkgm](http://github.com/skilstak/tkgm) and
+[codestudio](http://github.com/skilstak/codestudio) project sites.)
 
 ### Speed
 
