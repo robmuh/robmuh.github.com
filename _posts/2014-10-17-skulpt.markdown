@@ -39,7 +39,7 @@ frustrating when they come with non-Python 3 habits. It's not drastic,
 but enough to be annoying and make them feel a little foolish.
 
 (And no I don't feel like discussing why Python 2.7 is still
-relevant. Most of my students will be in the college and or working
+relevant. Most of my students will be in college and/or working
 in 3-10 years. By then it's a safe bet Python 3 will be much more of a
 standard than it already is, which is probably why groklearning.com and
 others teach Python 3 already as well.)
