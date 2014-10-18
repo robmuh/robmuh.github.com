@@ -12,7 +12,7 @@ to the 'client side' (on the web) is simply misguided and distracting.
 
 Before I continue I wish to express my utter admiration for Brad's
 work and professional respect for every aspect of his career, which,
-from what I know if it, I both admire and envy. Brad if you read this
+from what I know of it, I both admire and envy. Brad if you read this
 I very much hope it will be received in good faith.
 
 ### Skulpt Isn't the Only Python Creature Caught in the Web
