@@ -62,7 +62,11 @@ I guess this 'battery' isn't included in this implementation. Last I
 checked there was no support for the core `tkinter` module in Skulpt.
 I was particularly disappointed by this because I am working on a small
 game engine mostly for education implemented entirely in `tkinter.Canvas`
-called `tkgm`. No `tkinter` means no Skulpt for me.
+called `tkgm` mostly so young programmers have a one-module minimal
+game engine to use without any additional download or setup (such as
+what Pygame or Kivy would require).
+
+No `tkinter` means no Skulpt for me.
 
 (To read more about the justification for the `tkgm` engine
 follow the [tkgm](http://github.com/skilstak/tkgm) and
