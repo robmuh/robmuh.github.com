@@ -28,7 +28,7 @@ This is gonna sound ridiculously obvious to a lot of you out there, but it
 is worth sharing for the others:
 
 `
-cd codestudio-project
+cd codestudio-project;
 git submodule add git@github.com:skilstak/codestudio.git
 `
 
