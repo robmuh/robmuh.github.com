@@ -7,8 +7,8 @@ subtitle: Just say no to bad educational sites
 I'd practically forgotten about the horrid
 [w3schools.com](http://w3schools.com)
 thanks to the [Chrome W3Schools Hider
-extension](https://chrome.google.com/webstore/detail/w3schools-hider/igiahejkpbnbnekdaefddmdceocmjpll).
-But when a local program to help kids become computer programmers
+extension](https://chrome.google.com/webstore/detail/w3schools-hider/igiahejkpbnbnekdaefddmdceocmjpll),
+but when a local program to help kids become computer programmers
 incorrectly referred to 'w3cschools.org' in their official marketing
 materials I was reminded just how rampant the confusion still is.
 
