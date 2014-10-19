@@ -47,10 +47,10 @@ eliminate you from every Google search made.
 
 ### I was once burned
 
-Up until about two years ago I also read the stuff there, it was then that
-I noticed some stuff that was just plain wrong, beyond bad practice and
-starting Googling to see if this was reliable information &mdash; especially
-considering the monumental changes to the web with HTML5. That was when
-I realized just how much misinformation I had already read from them and
-immediately put the blocking extension on my Chrome, which I strongly
-recommend.
+Up until about two years ago I also read the stuff on w3schools.com.
+Then I noticed some stuff that was just plain wrong. The more I looked the
+more Googled to see if this was reliable information &mdash; especially
+considering the monumental changes to the web with HTML5 &mdash; the
+more I realized how much misinformation was there. I found w3fools.com,
+added the Chrome extension and have never regretted it for one minute. You
+should too.
