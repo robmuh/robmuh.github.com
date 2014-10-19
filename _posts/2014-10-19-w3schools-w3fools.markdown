@@ -26,9 +26,12 @@ confusion.
 
 Contrary to what this well-intentioned group of self-organized technology
 parents wrote in this marketing material for a Summer camp, there
-simply is no 'w3cshools.org' at all. (There is also no such site as
-'codecedmy.com'; no words in the English language spelled 'materail';
-and 'its' is a possessive, not a contraction of 'it is'.)
+simply is no 'w3cshools.org' at all.
+
+(There is also no such site as 'codecedmy.com'; no words in the English
+language spelled 'materail'; 'its' is a possessive, not a contraction of
+'it is'; and 'grove' is a group of trees not a hip mental state in which
+to be thinking about code.)
 
 ![w3cshools.org](/images/c2pkids.png)
 
