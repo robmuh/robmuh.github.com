@@ -4,9 +4,8 @@ title: GitHub Python Module Project Organization
 subtitle: Have your cruft and eat it too, wait, what?
 ---
 
-It's not rocket science, but some of you might still not know to just
-make a `yourmod-project` repo and a `yourmod` repo and just make the
-second a submodule of the first.
+Just make a yourmod-project repo and a yourmod repo. Then make the second
+a submodule of the first.
 
 One of the long standing debates in the packaging world is just how much
 packaging to put around the actual stuff you are packaging. On the one side
