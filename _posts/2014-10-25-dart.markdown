@@ -70,7 +70,7 @@ not for now:
 But the biggest reasons of all ...
 
 * JavaScript is still easier to learn than Dart, even simpler
-* Dart has a ~butt-ugly,~ heavy, Java and C++ STL like syntax
+* Dart has a butt-ugly, heavy, Java and C++ STL like syntax
 * JavaScript's asynchronous, prototypal nature is a great contrast
 
 It's important even new students to programming realize there is more
