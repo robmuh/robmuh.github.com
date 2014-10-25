@@ -16,14 +16,16 @@ should invest theirs.
 
 This relatively [recent article about Dart
 1.1](http://jaxenter.com/dart-can-now-write-better-javascript-than-you-107431.html)
-crossed by path claiming JavaScript compiled from Dart is actually faster
-than 'hand-written' JavaScript I would create. It also notes that one of
-the big minds behind Node's V8 engine, [Lars
-Bak](http://www.infoworld.com/article/2620869/javascript/infoworld-interview--why-google-dart-beats-javascript.html), leads on the Dart team.
+crossed my path claiming JavaScript compiled
+from Dart is actually faster than 'hand-written'
+JavaScript I would create, which is currently not true. It
+also notes that one of the big minds behind Google and Node's V8 engine, [Lars
+Bak](http://www.infoworld.com/article/2620869/javascript/infoworld-interview--why-google-dart-beats-javascript.html),
+leads the Dart team.
 
 ### Core Languages
 
-Here are the *programming* languages we currently learn at
+Here are the programming languages we currently learn at
 [SkilStak](http://skilstak.com):
 
 * [Blockly](https://learn.code.org)
@@ -50,7 +52,7 @@ would be better than Dart:
 * Erlang
 * C++
 
-Even Visual Basic (lol) would be more relevant.
+Even Visual Basic would be more relevant.
 
 ### But why?
 
@@ -76,7 +78,12 @@ than one approach to creating solutions with code. We learn procedural and
 traditional classes with Python, then expand into functional asynchronous
 callbacks and prototypes with JavaScript. Teaching Dart does not expand
 students view of the fundamental approaches to programming as much as
-does combining Python, JavaScript, Java, and C.
+does combining:
+
+* Python - procedural, object-oriented, mixable
+* JavaScript - functional-ish, prototypal, asynchronous
+* Java - object-oriented, single-inheritance
+* C - procedural, low-level 
 
 ### JavaScript Does Have Warts
 
