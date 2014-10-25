@@ -61,8 +61,7 @@ not for now:
 * Dart lacks adoption and support (including from the Mozilla Foundation)
 * Node alternatives have more momentum
 * Dart JS is [*not* faster](https://www.dartlang.org/performance/) than JavaScript
-* Dart doesn't do anything Harmony (ECMAScript 6) does not already
-* Dart comes with a bloated [Eclipse IDE](https://developer.android.com/sdk/installing/studio.html)
+* Dart comes with an [Eclipse IDE](https://developer.android.com/sdk/installing/studio.html)
 * Dart still uses [SVN (not GIT)](https://code.google.com/p/dart/wiki/GettingTheSource)
 * Competitors TypeScript and CoffeeScript are JavaScript (but also suck)
 
@@ -78,6 +77,118 @@ traditional classes with Python, then expand into functional asynchronous
 callbacks and prototypes with JavaScript. Teaching Dart does not expand
 students view of the fundamental approaches to programming as much as
 does combining Python, JavaScript, Java, and C.
+
+### JavaScript Does Have Warts
+
+I won't pretend that it didn't take a long time to warm up to JavaScript
+having experienced the non-modern version through the 90s. There is plenty
+to hate on, but the biggest reason Dart puts forth for getting rid of
+JavaScript is to have something for large scale web applications with the
+fair claim that JavaScript's lack of any typing is a major problem in that
+area.
+
+I agree.
+
+This is why a lot of Unity game developers, the serious ones anyway, blog
+over and over again the problems of using UnityScript. (They can't bring
+themselves to call it JavaScript.)
+
+But the better question is, "Why are you making large scale web
+applications like they are Java enterprise applications?"
+
+### "Let's Make a Language", says a bunch of Java developers
+
+What I think is closer to the truth is that Dart was created to replace
+Java and GWT, which several others have suggested. That is the real
+motivation.  It sure would explain why it looks so much like Java and
+has the same kind of typing and casting that Java and C++ have.
+
+Dart caters to old, hierarchal, enterprise thinking as if Java
+developers wanted Java for the web language and were willing to throw
+out other existing standards to get it. Remember applets, servlets, and
+beans? Be happy if you don't.
+
+The irony is Dart still has many of Java's architectural warts such as
+promoting classes over prototypes, which are notoriously incorrectly
+inherited just like Java developers have been for years. Dart promises to
+save developers from themselves by adding types, for example. Wanna save
+the world? Protect us from crappy inheritance, in fact, *any* inheritance
+and do things to promote flat composition instead. Think horizontal,
+not vertical. To Dart's credit it does allow mixins to help with this.
+
+### Large Scale Applications === JavaScript + JSON APIs + Mashups
+
+Dart maybe new, but a lot of it smells old. Here's a discussion of the
+old premise Dart is working from.
+
+While at Nike and IBM I observed that the best large-scale applications
+had 'great seams', a term I still use, 'mashups' is another way of saying
+this, sort of. I wrote the communication protocol and data handlers
+for one such application that collected data from 50,000 machines to
+manage server compliance, etc. &mdash; in Perl, a wildly type-free
+language.  I didn't like Perl's regular class model and made the Perl
+[`classes`](http://github.com/robmuh/perl-classes) pragma module. Still
+no types.
+
+Mine were just pieces of a much larger application. No developer had to
+know anything about the rest of the application to be productive. Small
+teams and even individual developers were free to use their own methods,
+languages and workflows that satisfied their requirements and preferences
+with some overriding guidelines for the entire project. Our different
+teams used only dynamic, untyped languages: Perl, Ruby, JavaScript,
+even VB. No bloated Eclipse. Our code was almost always Vim and
+Notepad++. Why? Because they are fast to develop in, much faster than
+Java or C++. This also meant we could instantly examine and debug stuff
+in the field. Our business model did not require proprietary perturbing
+everything. This real-world encapsulation enjoyed the same virtues behind
+traditional Object-Oriented programming.
+
+These huge applications are composed of many smaller, highly testable,
+apps with well defined APIs that communicate almost always over HTTP
+with JSON these days. Sometimes they use simple file system directories
+to communicate between each other very much like an assembly line in the
+real world. This focus on moving data objects around is the key. It's
+about the data, not about the objects.
+
+In a sense all the smaller apps that comprise such a larger system
+serve as instances of finite, singleton classes from the traditional
+object-oriented programming paradigm. It follows then that the languages
+that work best with this model are fast to develop in, highly efficient,
+asynchronous and event-based. I'd say this is why JavaScript and Node
+are so significant. You don't even need a web server to tie together
+the pieces.
+
+Java, C++, C# and the rest of the big application languages run on the
+architectural assumption that the entire application will be contained
+in a final, single, runnable app, or at the very least, a collection
+of compatible libraries, beans, jars, or whatever. Sharing is done not
+through web APIs and communication, but by programming class interfaces,
+class APIs, or shared memory. If you want to change anything with this
+application you have to change the whole thing, a dependency, or inherited
+class, which has *proven* tragically brittle for far too many enterprise
+applications. Let's face it, most enterprise apps are not high-performance
+games, one usecase where big application languages like Java, C#, C++
+are de rigueur and for good reason (just don't do UnityScript, lol).
+
+Dart seems to hang on to the old thinking that scalable enterprise apps
+have to be done the way Java and the like do it. Throwing out prototypes
+in favor of a better way to define classes smells like old enterprise
+notions behind evil inheritance trees. (Although Dart does add mixins.)
+
+In other words, Dart's main goal to replace JavaScript with an entire
+language more suitable for large-scale applications is based on old and
+inadequate architectural model. If you keep your apps small with clean
+seams and stuff spread horizontally instead vertically as enterprises
+tend to do then JavaScript and the other dynamic languages are not only
+fine they are preferred to Dart.
+
+### JavaScript Does Scale
+
+The claim that JavaScript "doesn't scale" can be said of Python, Perl,
+Ruby and others with minor exception. I have seen for a fact any of these
+languages scale remarkably well when used to create smaller apps as part
+of a larger system. More importantly the dynamic languages are more easily
+fixed and altered when problems do come up as they do for any system.
 
 ### Node and NPM Do have Problems
 
