@@ -123,10 +123,10 @@ the world? Protect us from crappy inheritance, in fact, *any* inheritance
 and do things to promote flat composition instead. Think horizontal,
 not vertical. To Dart's credit it does allow mixins to help with this.
 
-### Large Scale Applications === JavaScript + JSON APIs + Mashups
+### Use Object-Oriented Principles Higher
 
-Dart may be relatively new, but a lot of it smells old. Here's a discussion of the
-old premise Dart seems to be working from.
+Dart may be relatively new, but a lot of it smells old. Here's a
+discussion of the old premise Dart seems to be working from.
 
 While at Nike and IBM I observed that the best large-scale applications
 had 'great seams', a term I still use, 'mashups' is another way of saying
