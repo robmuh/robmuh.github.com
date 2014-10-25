@@ -222,7 +222,7 @@ behind object-oriented thinking. You are still applying fundamental
 object-oriented concepts just at a higher level than any single app
 comprising that system.
 
-### Node and NPM Do have Problems
+### Node and NPM Do Have Problems
 
 Another reason I gave Dart a chance is because of the freak-show that
 Node and NPM have become being suffocated by the mob piling on top of
