@@ -65,7 +65,7 @@ not for now:
 * Dart JS is [*not* faster](https://www.dartlang.org/performance/) than JavaScript
 * Dart comes with an [Eclipse IDE](https://developer.android.com/sdk/installing/studio.html)
 * Dart still uses [SVN (not GIT)](https://code.google.com/p/dart/wiki/GettingTheSource)
-* Competitors TypeScript and CoffeeScript are JavaScript (but also suck)
+* Competitors TypeScript and CoffeeScript are JavaScript
 
 But the biggest reasons of all ...
 
