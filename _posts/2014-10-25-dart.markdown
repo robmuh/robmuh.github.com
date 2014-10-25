@@ -149,13 +149,13 @@ know anything about the rest of the application to be productive. Small
 teams and even individual developers were free to use their own methods,
 languages and workflows that satisfied their requirements and preferences
 with some overriding guidelines for the entire project. Our different
-teams used only dynamic, untyped languages: Perl, Ruby, JavaScript,
-even VB. No bloated Eclipse. Our code was almost always Vim and
-Notepad++. Why? Because they are fast to develop in, much faster than
-Java or C++. This also meant we could instantly examine and debug stuff
-in the field. Our business model did not require proprietary perturbing
-everything. This real-world encapsulation enjoyed the same virtues behind
-traditional Object-Oriented programming.
+teams chose mostly dynamic, untyped languages that are often accused of
+not scaling well: Perl, Ruby, JavaScript, even VB. No bloated Eclipse. Our
+code was almost always Vim and Notepad++. Why? Because they are fast
+to develop in, much faster than Java or C++. This also meant we could
+instantly examine and debug stuff in the field. Our business model did not
+require proprietary perturbing everything. This real-world encapsulation
+enjoyed the same virtues behind traditional Object-Oriented programming.
 
 These huge applications are composed of many smaller, highly testable,
 apps with well defined APIs that communicate almost always over HTTP
