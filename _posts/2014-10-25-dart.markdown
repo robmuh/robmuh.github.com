@@ -59,11 +59,11 @@ not for now:
 
 * Dart throws away prototypes, one of the coolest things about JavaScript
 * Dart lacks adoption and support (including from the Mozilla Foundation)
-* Dart JS is [not faster](https://www.dartlang.org/performance/) than JavaScript enough to be worth it
-* Dart doesn't do anything Harmony (ECMAScript 6) does not already
-* Dart comes with a bloated [Eclipse IDE](https://developer.android.com/sdk/installing/studio.html))
-* Dart still uses [SVN (not GIT)](https://code.google.com/p/dart/wiki/GettingTheSource)
 * Node alternatives have more momentum
+* Dart JS is [*not* faster](https://www.dartlang.org/performance/) than JavaScript
+* Dart doesn't do anything Harmony (ECMAScript 6) does not already
+* Dart comes with a bloated [Eclipse IDE](https://developer.android.com/sdk/installing/studio.html)
+* Dart still uses [SVN (not GIT)](https://code.google.com/p/dart/wiki/GettingTheSource)
 * Competitors TypeScript and CoffeeScript are JavaScript (but also suck)
 
 But the biggest reasons of all ...
