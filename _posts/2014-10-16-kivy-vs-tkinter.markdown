@@ -5,7 +5,8 @@ subtitle: Tinker in Tkinter. Develop in Kivy.
 ---
 
 While I predict [Kivy](http://kivy.org) will enjoy a meteoric rise in
-attention as the world continues to adopt and prefer voice and multi-touch
+[attention](http://www.infoworld.com/article/2608912/python/python-puts-its-print-on-multitouch-apps-with-kivy.html)
+as the world continues to adopt and prefer voice and multi-touch
 interfaces over carpel-tunnel-inducing alternatives there are still
 plenty of solid reasons to learn at least some of the well-established
 Tk framework and the Python tkinter that goes with it &mdash; especially
