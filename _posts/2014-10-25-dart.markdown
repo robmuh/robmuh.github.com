@@ -24,7 +24,7 @@ Bak](http://www.infoworld.com/article/2620869/javascript/infoworld-interview--wh
 ### Core Languages
 
 Here are the *programming* languages we currently learn at
-[SkilStak](http://skilstak.com), (in roughly the order we learn them):
+[SkilStak](http://skilstak.com):
 
 * [Blockly](https://learn.code.org)
 * [Python](https://www.python.org/)
@@ -35,9 +35,9 @@ Here are the *programming* languages we currently learn at
 * [Bash](http://www.amazon.com/The-Linux-Command-Line-Introduction/dp/1593273894)
 * [C](https://www.libsdl.org/)
 
-Dart just doesn't fit in. I would rather students learn one of these
-well-established and popular languages on our short list or any of these
-great secondary languages &mdash; that get a lot of use today &mdash;
+That's a lot to learn. I would rather students learn one of these
+well-established and popular languages on our short list than learn Dart.
+Even learning these secondary languages &mdash; that get a lot of use today &mdash;
 would be better than Dart:
 
 * Ruby
