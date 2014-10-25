@@ -201,7 +201,7 @@ notions behind evil inheritance trees. Dart does add mixins to help
 address the inheritance issue I presume.
 
 Mostly Dart's main goal to replace JavaScript with an entire language
-more suitable for large-scale applications is based on old and inadequate
+more suitable for large-scale applications is based on an old and inadequate
 architectural model. If you keep your apps small with clean seams and
 stuff spread horizontally instead vertically (as enterprises tend to do)
 then JavaScript and the other dynamic languages are not only fine they
