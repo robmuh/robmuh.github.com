@@ -168,9 +168,10 @@ In a sense all the smaller apps that comprise such a larger system
 serve as instances of finite, singleton classes from the traditional
 object-oriented programming paradigm. It follows then that the languages
 that work best with this model are fast to develop in, highly efficient,
-asynchronous and event-based. I'd say this is why JavaScript and Node
-are so significant. You don't even need a web server to tie together
-the pieces over HTTP.
+asynchronous, event-based, and &mdash; most of all &mdash; great at
+communicating very fast over HTTP. This is why JavaScript and Node are
+so significant. You don't even need a web server to tie together the
+pieces over HTTP.
 
 Java, C++, C# and the rest of the big application languages run on the
 architectural assumption that the entire application will be contained
