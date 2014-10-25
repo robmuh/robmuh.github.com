@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does Dart Fly at SkilStak?
-subtitle: It doesn't
+subtitle: It Doesn't
 ---
 
 At first glance Dart looked like a much friendlier way to teach full-stack
