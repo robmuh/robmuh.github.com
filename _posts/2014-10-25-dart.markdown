@@ -73,6 +73,10 @@ But the biggest reasons of all ...
 * Dart has a butt-ugly, heavy, Java and C++ STL like syntax
 * JavaScript's asynchronous, prototypal nature is a great contrast
 
+I particularly find
+[generics](http://www.2ality.com/2011/10/dart-launch.html) just so ugly
+and C++ STL-ish.
+
 It's important even new students to programming realize there is more
 than one approach to creating solutions with code. We learn procedural and
 traditional classes with Python, then expand into functional asynchronous
