@@ -103,7 +103,7 @@ themselves to call it JavaScript.)
 But the better question is, "Why are you making large scale web
 applications like they are Java enterprise applications?"
 
-### "Let's Make a Language", says a bunch of Java developers
+### "Let's Make a Language", Says a Bunch of Java Developers
 
 What I think is closer to the truth is that Dart was created to replace
 Java and GWT, which several others have suggested. That is the real
@@ -113,7 +113,7 @@ has the same kind of typing and casting that Java and C++ have.
 Dart caters to old, hierarchal, enterprise thinking as if Java
 developers wanted Java for the web language and were willing to throw
 out other existing standards to get it. Remember applets, servlets, and
-beans? Be happy if you don't.
+beans? Or worse, remember VBScript? Be happy if you don't.
 
 The irony is Dart still has many of Java's architectural warts such as
 promoting classes over prototypes, which are notoriously incorrectly
@@ -125,30 +125,36 @@ not vertical. To Dart's credit it does allow mixins to help with this.
 
 ### Large Scale Applications === JavaScript + JSON APIs + Mashups
 
-Dart maybe new, but a lot of it smells old. Here's a discussion of the
-old premise Dart is working from.
+Dart may be relatively new, but a lot of it smells old. Here's a discussion of the
+old premise Dart seems to be working from.
 
 While at Nike and IBM I observed that the best large-scale applications
 had 'great seams', a term I still use, 'mashups' is another way of saying
-this, sort of. I wrote the communication protocol and data handlers
-for one such application that collected data from 50,000 machines to
-manage server compliance, etc. &mdash; in Perl, a wildly type-free
+this, sort of. I wrote the communication protocol and data handlers for
+one such application that collected data from 50,000 machines to manage
+server compliance and more &mdash; in Perl &mdash; a wildly type-free
 language.  I didn't like Perl's regular class model and made the Perl
-[`classes`](http://github.com/robmuh/perl-classes) pragma module. Still
-no types.
+[`classes`](http://github.com/robmuh/perl-classes) pragma module to
+help. Still no types. Perl gets a bad rap and actually supports the
+argument Dart creators make about what happens when you don't give
+developers constraints. I'm proud to say my code did not fall into the
+'write once, read never' spaghetti category. Still the critique of Perl
+is valid and one reason Python continues to be preferred over Perl in
+the large-application space including by me.
 
-Mine were just pieces of a much larger application. No developer had to
-know anything about the rest of the application to be productive. Small
-teams and even individual developers were free to use their own methods,
-languages and workflows that satisfied their requirements and preferences
-with some overriding guidelines for the entire project. Our different
-teams used only dynamic, untyped languages: Perl, Ruby, JavaScript,
-even VB. No bloated Eclipse. Our code was almost always Vim and
-Notepad++. Why? Because they are fast to develop in, much faster than
-Java or C++. This also meant we could instantly examine and debug stuff
-in the field. Our business model did not require proprietary perturbing
-everything. This real-world encapsulation enjoyed the same virtues behind
-traditional Object-Oriented programming.
+The components of the large application I created were just pieces of
+a much larger application. No developer had to know anything about the
+rest of the application to be productive. Small teams and even individual
+developers were free to use their own methods, languages and workflows
+that satisfied their requirements and preferences with some overriding
+guidelines for the entire project. Our different teams used only
+dynamic, untyped languages: Perl, Ruby, JavaScript, even VB. No bloated
+Eclipse. Our code was almost always Vim and Notepad++. Why? Because they
+are fast to develop in, much faster than Java or C++. This also meant
+we could instantly examine and debug stuff in the field. Our business
+model did not require proprietary perturbing everything. This real-world
+encapsulation enjoyed the same virtues behind traditional Object-Oriented
+programming.
 
 These huge applications are composed of many smaller, highly testable,
 apps with well defined APIs that communicate almost always over HTTP
