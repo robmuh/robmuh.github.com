@@ -88,8 +88,8 @@ have problems, [big problems](https://github.com/joyent/node/issues/6960)
 that a lot of people wanting to look cool might overlook lest they face
 angry-skinny-jeans retaliation. Here's a good summary:
 
-  Just finished reading this thread, so the conclusion is node's module
-  system sucks but it won't be fixed? Lame.
+> Just finished reading this thread, so the conclusion is node's module
+> system sucks but it won't be fixed? Lame.
 
 This, and the complexity of setting up a Node development environment,
 (which is why I created [kwand.io](http://kwand.io)), had me in a place to
