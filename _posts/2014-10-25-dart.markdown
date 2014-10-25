@@ -142,19 +142,20 @@ developers constraints. I'm proud to say my code did not fall into the
 is valid and one reason Python continues to be preferred over Perl in
 the large-application space including by me.
 
-The components of the large application I created were just pieces of
-a much larger application. No developer had to know anything about the
-rest of the application to be productive. Small teams and even individual
-developers were free to use their own methods, languages and workflows
-that satisfied their requirements and preferences with some overriding
-guidelines for the entire project. Our different teams used only
-dynamic, untyped languages: Perl, Ruby, JavaScript, even VB. No bloated
-Eclipse. Our code was almost always Vim and Notepad++. Why? Because they
-are fast to develop in, much faster than Java or C++. This also meant
-we could instantly examine and debug stuff in the field. Our business
-model did not require proprietary perturbing everything. This real-world
-encapsulation enjoyed the same virtues behind traditional Object-Oriented
-programming.
+The components of the large application I created were largely created in
+isolation from the other parts of the application. I knew my domain and
+needed only an overview of the rest to be productive. No developer had to
+know anything about the rest of the application to be productive. Small
+teams and even individual developers were free to use their own methods,
+languages and workflows that satisfied their requirements and preferences
+with some overriding guidelines for the entire project. Our different
+teams used only dynamic, untyped languages: Perl, Ruby, JavaScript,
+even VB. No bloated Eclipse. Our code was almost always Vim and
+Notepad++. Why? Because they are fast to develop in, much faster than
+Java or C++. This also meant we could instantly examine and debug stuff
+in the field. Our business model did not require proprietary perturbing
+everything. This real-world encapsulation enjoyed the same virtues behind
+traditional Object-Oriented programming.
 
 These huge applications are composed of many smaller, highly testable,
 apps with well defined APIs that communicate almost always over HTTP
