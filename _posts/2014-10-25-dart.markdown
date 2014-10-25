@@ -134,7 +134,7 @@ this, sort of. I wrote the communication protocol and data handlers for
 one such application that collected data from 50,000 machines to manage
 server compliance and more &mdash; in Perl &mdash; a wildly type-free
 language.  I didn't like Perl's regular class model and made the Perl
-[`classes`](http://github.com/robmuh/perl-classes) pragma module to
+[classes](http://github.com/robmuh/perl-classes) pragma module to
 help. Still no types. Perl gets a bad rap and actually supports the
 argument Dart creators make about what happens when you don't give
 developers constraints. I'm proud to say my code did not fall into the
