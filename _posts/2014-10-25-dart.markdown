@@ -214,10 +214,13 @@ languages scale remarkably well when used to create smaller apps as part
 of a larger system. More importantly the dynamic languages are more easily
 fixed and altered when problems do come up as they do for any system.
 
-In fact, if you architect this correctly you can rewrite entire small app
-components to meet the changing needs of what that component accomplishes
-without trashing the entire system. You are still applying object-oriented
-thinking just at a higher level than any single app comprising that system.
+In fact, if you architect this correctly you can rewrite entire app
+components of the larger system to meet the changing needs of what
+that specific component is designed to accomplish without redoing the
+entire system. Talk about separation of concerns. This is the very goal
+behind object-oriented thinking. You are still applying fundamental
+object-oriented concepts just at a higher level than any single app
+comprising that system.
 
 ### Node and NPM Do have Problems
 
