@@ -1,0 +1,109 @@
+---
+layout: post
+title: How Does Dart Fly at SkilStak?
+subtitle: It doesn't
+---
+
+At first glance Dart looked like a much friendlier way to teach full-stack
+web apps &mdash; particularly to school-age kids &mdash; but ultimately
+Dart distracts them from learning JavaScript and other established
+languages that matter more.
+
+Picking emerging technology to teach is tough. While any good
+technologist must constantly assess how to invest their mindshare,
+teachers face the added challenge of deciding when and how their students
+should invest theirs.
+
+This relatively [recent article about Dart
+1.1](http://jaxenter.com/dart-can-now-write-better-javascript-than-you-107431.html)
+crossed by path claiming JavaScript compiled from Dart is actually faster
+than 'hand-written' JavaScript I would create. It also notes that one of
+the big minds behind Node's V8 engine, [Lars
+Bak](http://www.infoworld.com/article/2620869/javascript/infoworld-interview--why-google-dart-beats-javascript.html), leads on the Dart team.
+
+### Core Languages
+
+Here are the *programming* languages we currently learn at
+[SkilStak](http://skilstak.com), (in roughly the order we learn them):
+
+* [Blockly](https://learn.code.org)
+* [Python](https://www.python.org/)
+* [JavaScript](http://phaser.io/)
+* [Java](https://www.jetbrains.com/idea/)
+* [GML](http://docs.yoyogames.com/)
+* [C#](http://docs.unity3d.com/ScriptReference/)
+* [Bash](http://www.amazon.com/The-Linux-Command-Line-Introduction/dp/1593273894)
+* [C](https://www.libsdl.org/)
+
+Dart just doesn't fit in. I would rather students learn one of these
+well-established and popular languages on our short list or any of these
+great secondary languages &mdash; that get a lot of use today &mdash;
+would be better than Dart:
+
+* Ruby
+* Perl
+* Lua
+* Scala
+* PHP
+* Tcl
+* Haskell
+* Erlang
+* C++
+
+Even Visual Basic (lol) would be more relevant.
+
+### But why?
+
+Here are the reasons you won't be learning Dart at SkilStak, at least
+not for now:
+
+* Dart throws away prototypes, one of the coolest things about JavaScript
+* Dart lacks adoption and support (including from the Mozilla Foundation)
+* Dart JS is [not faster](https://www.dartlang.org/performance/) than JavaScript enough to be worth it
+* Dart doesn't do anything Harmony (ECMAScript 6) does not already
+* Dart comes with a bloated [Eclipse IDE](https://developer.android.com/sdk/installing/studio.html))
+* Dart still uses [SVN (not GIT)](https://code.google.com/p/dart/wiki/GettingTheSource)
+* Node alternatives have more momentum
+* Competitors TypeScript and CoffeeScript are JavaScript (but also suck)
+
+But the biggest reasons of all ...
+
+* JavaScript is still easier to learn than Dart, even simpler
+* Dart has a butt-ugly, heavy, Java and C++ STL like syntax
+* JavaScript's asynchronous, prototypal nature is a great contrast
+
+It's important even new students to programming realize there is more
+than one approach to creating solutions with code. We learn procedural and
+traditional classes with Python, then expand into functional asynchronous
+callbacks and prototypes with JavaScript. Teaching Dart does not expand
+students view of the fundamental approaches to programming as much as
+does combining Python, JavaScript, Java, and C.
+
+### Node and NPM Do have Problems
+
+Another reason I gave Dart a chance is because of the freak-show that
+Node and NPM have become being suffocated by the mob piling on top of
+it so fast they can't breath enough to finish building it. Node and NPM
+have problems, [big problems](https://github.com/joyent/node/issues/6960)
+that a lot of people wanting to look cool might overlook lest they face
+angry-skinny-jeans retaliation. Here's a good summary:
+
+  Just finished reading this thread, so the conclusion is node's module
+  system sucks but it won't be fixed? Lame.
+
+This, and the complexity of setting up a Node development environment,
+(which is why I created [kwand.io](http://kwand.io)), had me in a place to
+at least consider the alternatives.
+
+Maybe I'm just too old but often the whole Node effort seems to be driven
+by a bunch of geniuses that have never done enterprise-scale development.
+I mean, the whole `node_modules` fiasco not working on Windows is one thing
+but then claiming it is not Node's fault, "It's Windows fault" is, well,
+something someone without enterprise experience would say.
+
+Node itself is really just riding on the coat-tails of the true-brilliance
+behind the V8 engine optimizations and the main genius behind that is
+now leading the Dart team. I still feel V8 will get all the attention it
+needs because the whole world seems focused on optimizing the web and that
+means optimizing V8. The momentum is staggering. Just because Lars is
+leading Dart now does not mean that V8 will suffer in the least.
