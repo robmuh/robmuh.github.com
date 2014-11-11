@@ -34,12 +34,17 @@ of lines of code, test suites, data analysis, etc. Python is likely the
 lightest of the languages they get to use. More often everything is in
 Java, C, C# or some other enterprise-ish language.
 
-Platform engineering and other large-scale systems development seems
-solidly and prolifically used in that space and has been for years.
+Python for platform engineering and other large-scale systems development
+seems solidly and prolifically used in that space and has been for years.
 I remember one rather large corporate Intranet search engine offering in
 the 90s that cost thousands and was entirely in Python, not Java. In fact,
 more and more you see Python replacing and supplementing Java &mdash;
-especially in the enterprise space.
+especially in the enterprise space. Having done a lot more Python in the
+last four years I must confess I wish I had been able to use Python 3
+for the massive enterprise applications I got to build while at IBM. I
+used Perl and Ruby instead. (Don't even ask about my experience trying
+to do them in PHP at first to be a 'team player', that memory-leaking,
+not-a-language, developer-team-in-fighting, piece of filth.)
 
 Python is also the darling among scientists and number crunchers for
 many reasons but I can't help thinking this is mostly because it can be
