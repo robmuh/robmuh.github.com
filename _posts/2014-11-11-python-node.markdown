@@ -124,5 +124,4 @@ with brain-dead architects and CTOs picking technology they prefer just
 because they learned it first and like it better (like a recent job
 posting I read where they are ripping out the Ruby stuff a firm did for
 them to replace it all with Perl to match the 'legacy' system instead
-of updating the backend and then are willing to pay thousands to do it
-reminding me of the COBOL job postings in the 90s.)
+of updating the backend.)
