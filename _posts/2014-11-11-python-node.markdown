@@ -106,7 +106,7 @@ beautiful app they can run on any device to control their robot locally
 over the network once they have written the network protocol code to talk
 to it, which is a huge learning opportunity I can't wait to introduce.
 
-We will use Node to create SPAs that are accessible from anyplace on the
+We will use Node to create SPAs that are accessible from any place on the
 Internet by anyone perhaps even giving them a playground that is on a web
 cam so others can 'drive' them from home. Node let's us both handle the
 webapp commands and connect easily to the EVs over the network.
