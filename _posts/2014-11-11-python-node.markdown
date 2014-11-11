@@ -54,13 +54,11 @@ with science-types charting Tornadoes or staring at mass-spectrometers
 you are likely looking at a Python program running on Linux.
 
 While Django, Pyramid/Pylons, Flask and the rest have been major players
-in the web framework space for years (and still are) I submit they are
-not Python's major domain or strength. For one, it wasn't until recently
-that they supported Python3. Many of them still don't support asyncio,
-which seems like Python playing catch-up after the popularity of nginx
-and node took off (for good reason). Python web development still,
-for the most part, seems to have the WSGI cruft as well. A lot of create
-sites web sites and apps run on Python, but I suggest a strong look at Node
+in the web framework space for years (and still are) I submit they are not
+Python's major domain or strength. For one, it wasn't until recently that
+they supported Python3. Many of them still don't support asyncio. Python
+web development still carries the WSGI cruft as well. Even though a lot
+of great sites and apps run on Python, I suggest a strong look at Node
 for anything network related.
 
 Node for Network
@@ -71,35 +69,34 @@ an asynchronous, event-driven, low-ram-using powerhouse. But even more
 significantly it empowers developers to largely do away with the bulk and
 cruft of other web components, such as the server itself in many cases. In
 fact, with additions like Koa you have access to the efficiency and power
-of low level network operations allowing you to create protocols below
+of low-level network operations allowing you to create protocols below
 HTTP in the same way. These powerful advances have got Python playing
 catch-up in a big way. Python has bolted on `asyncio` but it wasn't built
 around an optimized engine that used it from the start.
 
-Node is also in JavaScript so connecting it the front-end just feels
-less hack-ish. Node was born to talk to front ends and other network
-components.
+Node is also in JavaScript so inter connecting web front-end and platform
+components just feels natural. Node was born to talk to front ends and
+other network components. Coupled with a strong Python back-end system and
+nice clear non-network hand off between them Node and Python compliment
+each other very well.
 
-Node can be used for platform engineering, but it has a long way to go to
-catch up with Python in that space. Most notably Node lacks the same level
-of maturity that Python does in the enterprise space. There are fewer test
-suites and a few major flaws, such as the NPM naming issue. Relatively
-speaking, very few enterprise architects or scientists would trust Node as
-their core development language currently and probably for good reason.
-Last year Walmart uncovered a subtle but important memory leak in the
-Node core. It was corrected and pushed the language further along in
-enterprise adoption, but it's important to remember just how new Node
-is. Sometimes old is better.
+Node can be used for platform engineering, but it has a long way to
+go to catch up with Python in that space.
+
 
 Right Tool
 ==========
-So as CTO of this enterprise of one here at SkilStak I've decided our
-architecture will use generally use Python for platform and Node for
-network. In terms of our little EV3s this means when we ssh into our
+Would I use Node to crunch terabytes of enterprise server security
+audit data? Nah. Would I use it to collect and communicate that data
+and present Angular front-end views into the data? Hell yeah.
+
+So as CTO of this enterprise-of-one here at SkilStak I've decided our
+architecture will generally use Python for platform and Node for network,
+and for much the same reasons I would direct an enterprise team to do
+the same. In terms of our little EV3s this means when we ssh into our
 EV's brains we code Python and Bash scripts in them so they remember
 them even when off the network, but when we want to control them over
-WIFI or Bluetooth we use Node to handle the protocol connections and
-such. 
+WIFI or Bluetooth we use Node to handle the protocol connections and such.
 
 Will we still learn network programming in Python? Absolutely, probably
 by creating a `tkinter` app to control the robots first, then a `kivy`
@@ -112,3 +109,19 @@ We will use Node to create SPAs that are accessible from anyplace on the
 Internet by anyone perhaps even giving them a playground that is on a web
 cam so others can 'drive' them from home. Node let's us both handle the
 webapp commands and connect easily to the EVs over the network.
+
+Ruby, PHP, Perl, The Side Notes
+===============================
+As beautiful as these languages are they are dead. They just are. They
+have lost the battle for the thing they were best at. PHP lost to
+Ruby. Ruby lost to Node. Perl lost to Python3 and Bash. I could write
+a ton about each, but those that seriously do their own research will
+see that same conclusion.
+
+These alive-but-dead languages will linger for years &mdash; especially
+with brain-dead architects and CTOs picking technology they prefer just
+because they learned it first and like it better (like a recent job
+posting I read where they are ripping out the Ruby stuff a firm did for
+them to replace it all with Perl to match the 'legacy' system instead
+of updating the backend and then are willing to pay thousands to do it
+reminding me of the COBOL job postings in the 90s.)
