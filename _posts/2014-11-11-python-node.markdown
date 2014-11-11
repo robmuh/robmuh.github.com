@@ -100,11 +100,11 @@ them even when off the network, but when we want to control them over
 WIFI or Bluetooth we use Node to handle the protocol connections and such.
 
 Will we still learn network programming in Python? Absolutely, probably
-by creating a `tkinter` app to control the robots first, then a `kivy`
-app later to do the same. Kivy quickly gives students a beautiful app
-they can run on any device to control their robot locally over the
-network once they have written the network protocol code to talk to it,
-which is a huge learning opportunity I can't wait to introduce.
+by creating a network-enabled `tkinter` app to control the robots first,
+then a `kivy` app later to do the same. Kivy quickly gives students a
+beautiful app they can run on any device to control their robot locally
+over the network once they have written the network protocol code to talk
+to it, which is a huge learning opportunity I can't wait to introduce.
 
 We will use Node to create SPAs that are accessible from anyplace on the
 Internet by anyone perhaps even giving them a playground that is on a web
