@@ -86,8 +86,8 @@ Node core. It was corrected and pushed the language further along in
 enterprise adoption, but it's important to remember just how new Node
 is. Sometimes old is better.
 
-Right Tool &hellips;
-====================
+Right Tool
+==========
 So as CTO of this enterprise of one here at SkilStak I've decided our
 architecture will use generally use Python for platform and Node for
 network. In terms of our little EV3s this means when we ssh into our
