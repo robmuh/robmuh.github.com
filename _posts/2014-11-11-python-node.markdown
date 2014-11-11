@@ -88,13 +88,14 @@ Right Tool
 ==========
 Would I use Node to crunch terabytes of enterprise server security
 audit data? Nah. Would I use it to collect and communicate that data
-and present Angular front-end views into the data? Hell yeah.
+and present Angular front-end views into the data? Hell yeah. It really is
+about the right tool for the job.
 
-So as CTO of this enterprise-of-one here at SkilStak I've decided our
-architecture will generally use Python for platform and Node for network,
-and for much the same reasons I would direct an enterprise team to do
-the same. In terms of our little EV3s this means when we ssh into our
-EV's brains we code Python and Bash scripts in them so they remember
+So as CTO of this enterprise-of-one here at SkilStak I've declared \*lol\*
+that our architecture will generally use Python for platform and Node for
+network, and for much the same reasons I would direct an enterprise team
+to do the same. In terms of our little EV3s this means when we ssh into
+our EV's brains we code Python and Bash scripts in them so they remember
 them even when off the network, but when we want to control them over
 WIFI or Bluetooth we use Node to handle the protocol connections and such.
 
