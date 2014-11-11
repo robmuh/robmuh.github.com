@@ -74,7 +74,7 @@ HTTP in the same way. These powerful advances have got Python playing
 catch-up in a big way. Python has bolted on `asyncio` but it wasn't built
 around an optimized engine that used it from the start.
 
-Node is also in JavaScript so inter connecting web front-end and platform
+Node is also in JavaScript so connecting web front-end and platform
 components just feels natural. Node was born to talk to front ends and
 other network components. Coupled with a strong Python back-end system and
 nice clear non-network hand off between them Node and Python compliment
