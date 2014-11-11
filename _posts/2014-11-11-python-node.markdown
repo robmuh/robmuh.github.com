@@ -15,7 +15,7 @@ how these languages are generally used.
 
 An Example
 ==========
-A SkilStak Coding Arts this week we welcome the birth of two new baby Lego
+At SkilStak Coding Arts this week we welcome the birth of two new baby Lego
 Mindstorm EV3s and a bunch of Raspberry Pis to keep them company. While
 we researched all the fun things we can code and learn with them, which
 is just astounding, we uncovered dozens of ways to make them do what
