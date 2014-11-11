@@ -113,11 +113,11 @@ webapp commands and connect easily to the EVs over the network.
 
 Ruby, PHP, Perl, The Side Notes
 ===============================
-As beautiful as these languages are they are dead. They just are. They
-have lost the battle for the thing they were best at. PHP lost to
-Ruby. Ruby lost to Node. Perl lost to Python3 and Bash. I could write
-a ton about each, but those that seriously do their own research will
-see that same conclusion.
+As beautiful as these languages are, (except PHP which is just shit),
+they are dead. They just are. They have lost the battle for the thing they
+were best at. PHP lost to Ruby. Ruby lost to Node. Perl lost to Python3
+and Bash. I could write a ton about each, but those that seriously do
+their own research will see that same conclusion.
 
 These alive-but-dead languages will linger for years &mdash; especially
 with brain-dead architects and CTOs picking technology they prefer just
