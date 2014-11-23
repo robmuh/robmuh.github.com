@@ -30,6 +30,6 @@ I don't need to write more. All anyone needs to know are these two things:
 * JavaScript uses a `loop {}` construct instead of an actual loop syntax
 
 I've informed the creators and I can't wait to see them spend real time with
-actual computer science educators to correct this fatal flaws. The idea
+actual computer science educators to correct these fatal flaws. The idea
 behind what they are doing is amazing and I applaud those behind getting
 this idea out there.
