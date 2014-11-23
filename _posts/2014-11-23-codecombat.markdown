@@ -12,7 +12,10 @@ guidelines](https://www.python.org/dev/peps/pep-0008#function-names)
 for no good reason. Then when considering it for JavaScript coding
 I encountered their `loop {}` construct instead of an actual loop.
 Conclusion: an incredibly cool looking flop. It fails to accomplish the
-main goal of teaching correct programming.
+main goal of teaching correct programming. *UPDATE: Recently learned that
+**all** of codecombat.com is released as [full open
+source](http://codecombat.com/legal), so yeah, I'll be
+running my own server and tweeking things to my likely eventually. Thanks!*
 
 However, I was utterly blown away by the quality of HTML5 site and
 everything it entails. The developers responsible are clearly masters
