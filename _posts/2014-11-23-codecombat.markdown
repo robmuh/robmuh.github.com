@@ -26,7 +26,6 @@ those interviews.
 I don't need to write more. All anyone needs to know are these two things:
 
 * Python uses camelCase
-* Python uses `self` outside the context of being in an actual method
 * JavaScript uses a `loop {}` construct instead of an actual loop syntax
 
 I've informed the creators and I can't wait to see them spend real time with
