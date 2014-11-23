@@ -19,7 +19,7 @@ everything it entails. The developers responsible are clearly masters
 of web app and game development. The art of the game is also very
 amazing. All the more reason I was grossly disappointed to realize that
 getting my students excited about this tool would only serve to instill
-practices I'd have to unteach them later end would ensure they fail any
+practices I'd have to unteach them later and would ensure they fail any
 job interview to become a programmer one day if they used them during
 those interviews.
 
