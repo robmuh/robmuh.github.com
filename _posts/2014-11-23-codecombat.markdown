@@ -15,7 +15,7 @@ Conclusion: an incredibly cool looking flop. It fails to accomplish the
 main goal of teaching correct programming. *UPDATE: Recently learned that
 **all** of codecombat.com is released as [full open
 source](http://codecombat.com/legal), so yeah, I'll be
-running my own server and tweeking things to my likely eventually. Thanks!*
+running my own server and tweeking things to my liking eventually. Thanks!*
 
 However, I was utterly blown away by the quality of HTML5 site and
 everything it entails. The developers responsible are clearly masters
