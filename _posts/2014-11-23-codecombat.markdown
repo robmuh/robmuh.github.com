@@ -1,14 +1,16 @@
 ---
 layout: post
 title: CodeCombat Review
-subtitle: Flash Over Sustance
+subtitle: Flash Over Substance
 ---
 
 My overwhelming excitement to discover
-[CodeCombat.com](http://codecombat.com) was instantly squelched when I
-saw the Python (default) language uses camelCase, a gross violation of
-PEP-8 Python style guidelines. Then when considering it for JavaScript
-coding I encountered their `loop {}` construct instead of an actual loop.
+[CodeCombat.com](http://codecombat.com) was instantly
+squelched when I saw the Python (default) language
+uses camelCase, a gross violation of [PEP-8 Python style
+guidelines](https://www.python.org/dev/peps/pep-0008#function-names)
+for no good reason. Then when considering it for JavaScript coding
+I encountered their `loop {}` construct instead of an actual loop.
 Conclusion: an incredibly cool looking flop. It fails to accomplish the
 main goal of teaching correct programming.
 
