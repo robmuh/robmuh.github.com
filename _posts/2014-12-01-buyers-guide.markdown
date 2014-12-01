@@ -52,10 +52,10 @@ the extra money for a Mac with Windows
 
 ## Three Computers in One
 
-You pay more of a Mac in general, but if you pay a bit more to have
-Windows put on it you get two computers for the price of one. Then if
-you add a Linux virtual machine (like our Ubuntu Desktop on a Stick)
-you get three.  Mac is the only computer that allows developers to
-create software for all three main operating systems and *every* mobile
-platform that exists. This is why Macs dominate the developer desktop
-and laptop market.
+It seems like you are paying more for a Mac, but if you pay a bit more
+to have quality hardware and a machine you can put both Mac OS *and*
+Windows on then you are paying for two computers. Then if you add a Linux
+virtual machine (like our Ubuntu Desktop on a Stick) you get three.
+Mac is the only computer that allows developers to create software
+for all three main operating systems and *every* mobile platform that
+exists. This is why Macs dominate the developer desktop and laptop market.
