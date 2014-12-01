@@ -20,7 +20,7 @@ customer service, which cannot be over-emphasized.
 
 ## Do NOT Buy iBuyPower
 
-Speaking of customer no-service. A simple Google search will confirm why
+Speaking of customer no-service, a simple Google search will confirm why
 you should not buy iBuyPower, which is consistent with my experience,
 including the very real possibility they are selling you refurbished
 hardware as if it were new.
