@@ -18,6 +18,31 @@ Why? Hardware quality trumps everything else and there is never any
 question with Apple computers. There is also never any question about their
 customer service, which cannot be over-emphasized.
 
+## Windows on Mac
+
+There are two ways to accomplish this. Both of them are probably best done
+by the Apple store if you have any question at all how to do them:
+
+1. Install VMware Fusion and run Windows while booted into your Mac
+1. Boot directly into Windows with Bootcamp instead of booting into Mac
+
+The first option is really only for computers that can handle running
+two operating systems at the same time. Some will run even more
+than that concurrently. It is nice if you want also install Linux
+later and you don't intend to do any high-end 3D gaming or modeling.
+This option is also good for creating 2D games in the Windows-only
+GameMaker Studio for example.  Since you are literally running
+Windows in addition to your host operating system (Mac) this is
+hard on resources particularly for older Macs. The plus side is you
+can simulate an entire network of computers all on one machine if
+you have the horsepower.
+
+The second option is preferred if you want to run your Mac exactly
+as if it were a Windows machine. This option is particularly good
+for those that want to run 3D Windows-only games. It is also best
+if you have an older Mac and can't afford sharing resources between
+two operating systems.
+
 ## Do NOT Buy iBuyPower
 
 Speaking of customer no-service, a simple Google search will confirm why
