@@ -30,8 +30,8 @@ of an age now decidedly past, the age of technical book learning.
 Today's technical pace demands paradigm shift to just-in-time
 learning (a term I believe I've coined). For example, Code School
 just spammed my in box with "New Express.js Course Has Launched!"
-the same week I (watched Jonathan Ong trash
-Express)[http://youtu.be/bNVcVx8TfPc], which he helped build with
+the same week I [watched Jonathan Ong trash
+Express](http://youtu.be/bNVcVx8TfPc), which he helped build with
 TJ, to explain KoaJS, clearly the successor to Express written by
 the Express developers themselves. It still makes me laugh to realize
 there were only 522 views of this video when it explains the most
