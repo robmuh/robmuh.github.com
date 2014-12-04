@@ -61,10 +61,11 @@ they have more than 100 pages.
 On the other hand, books like the incredible [Creating Apps in
 Kivy](http://shop.oreilly.com/product/0636920032595.do) manage to
 stuff all the real material into a project that the author takes
-you through. These books are more like lessons or tutorials than
-books. Reading a book like this is the next best thing to actually
-doing the work even if you choose to not do it. Still, such books
-are never as informative as the mountain of [Kivy
+you through in relatively few pages for less money. These books are
+more like lessons or tutorials than books. Reading a book like this
+is the next best thing to actually doing the work even if you choose
+to not do it. Still, such books are never as informative as the
+mountain of [Kivy
 examples](https://github.com/kivy/kivy/tree/master/examples) available
 to dig apart and figure out without any book involved at all.
 
