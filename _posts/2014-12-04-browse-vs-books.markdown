@@ -61,6 +61,32 @@ way to learn is spending a little money for thinkful.com if you
 can't find an equivalent way to learn locally.  Mentorship will
 always win over any book.
 
+This goes even for parents and kids. This is compounded by the fact that
+parents often come from a book-learning background and can't understand why
+their son or daughter doesn't want to learn from the great book they found
+for them. This is especially true for home schoolers. 
+
+One specific example of this is [DK's Help Your Child to Learn
+Computer
+Coding](https://github.com/skilstak/dk-help-your-kids-with-computer-coding).
+This flashy book that would grab anyone's attention on the shelf
+is full of bad code and coding practices, practices that are
+specifically called out as 'anti-idioms' in the official Python
+documentation. I also seriously doubt that the Ph.D's listed at the
+front of the book, which suspiciously are not directly noted as
+'authors', had anything to do with the book. From top to bottom the
+book is a marketing device more than a book of real substance. This
+is the danger books carry for the unwary. I would never hire anyone
+who coded the Bubble Blaster program in that book, not even for
+beginning internship work. 
+
+While I still mention this book to parent's when pressed since it
+remains one of the better books for very young kids, I always
+recommend they stick with other online, challenge-based learning
+options, the official tutorials, and their own experimentation. It isn't
+a hard sell because this is what most kids want anyway, instead of just
+retyping what they see in a book.
+
 # "I'm Afraid of Gaps"
 
 Aren't we all. Truth is everyone in the technology field will have gaps of
