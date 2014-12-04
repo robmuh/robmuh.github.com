@@ -47,7 +47,7 @@ were no books on HTML for years. I know. I checked every day at the
 local bookstore.  We had to read the source code and make friends
 with other developers on the Internet.
 
-# What about those first starting?
+# What About Those First Starting?
 
 When dealing with technical topics doing always wins over reading.
 Reading is nice while consuming your favorite beverage or meal, but
@@ -61,7 +61,7 @@ way to learn is spending a little money for thinkful.com if you
 can't find an equivalent way to learn locally.  Mentorship will
 always win over any book.
 
-# I'm afraid of gaps
+# "I'm Afraid of Gaps"
 
 Aren't we all. Truth is everyone in the technology field will have gaps of
 some kind. Making sure those gaps are not critical is the key. Books are
@@ -72,7 +72,7 @@ official docs do not exist or are too hard to grok then use the index at
 least as a bullet-point list of things you know you need to learn, from the
 Internet and/or a mentor.
 
-# Old-timers
+# Old-Timers
 
 I happen to be one. I can tell you there was a time when having a
 colorful library of O'Reilly books was a very comforting feeling.
