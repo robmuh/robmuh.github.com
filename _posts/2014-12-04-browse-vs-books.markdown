@@ -47,6 +47,27 @@ were no books on HTML for years. I know. I checked every day at the
 local bookstore.  We had to read the source code and make friends
 with other developers on the Internet.
 
+# Books Don't Do Anything
+
+You have to read and do the stuff in a technical book for it to
+really help. Read that again. Yep, shocking isn't it. Books are
+useless unless you read them and apply what they contain. You may
+be, or have been or met, the guy who has a lot of technical books
+but doesn't know anything in them. It's almost an obsession for
+some. For others it's often the book author's fault. There is nothing
+worse than a bad technical book. You can usually spot them because
+they have more than 100 pages.
+
+On the other hand, books like the incredible [Creating Apps in
+Kivy](http://shop.oreilly.com/product/0636920032595.do) manage to
+stuff all the real material into a project that the author takes
+you through. These books are more like lessons or tutorials than
+books. Reading a book like this is the next best thing to actually
+doing the work even if you choose to not do it. Still, such books
+are never as informative as the mountain of [Kivy
+examples](https://github.com/kivy/kivy/tree/master/examples) available
+to dig apart and figure out without any book involved at all.
+
 # What About Those First Starting?
 
 When dealing with technical topics doing always wins over reading.
