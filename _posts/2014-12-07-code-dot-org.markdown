@@ -69,7 +69,7 @@ concerned is mixing the unplugged videos with real-content videos:
 * Unplugged videos talk to teachers not students
 * Students cannot distinguish between core content videos and unplugged
 * Many classes will not be doing the unplugged activities
-* Students become board by the unplugged videos and skip them
+* Students become bored by the unplugged videos and skip them
 * Students form the bad habit of skipping videos
 * Students miss important videos about core concepts from skipping
 
