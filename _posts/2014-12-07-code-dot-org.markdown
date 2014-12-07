@@ -199,7 +199,7 @@ see it all.
 
 Students quickly become bored and aggravated by the time it takes
 Farmer and Maze puzzles to complete. This makes keeping students
-attention very difficult. The lose focus, disengage, and start to
+attention very difficult. They lose focus, disengage, and start to
 distract others. The artist puzzles at least allow this to be sped
 up.
 
@@ -252,7 +252,7 @@ a function call.
 Even though there is a 'Reset' button at the bottom reloading the entire
 page is often a much better solution. This is consistent with professional
 programming techniques as well. At a certain point the code, whether it be
-Blockly or Python, because so convoluted and hard to follow that it is
+Blockly or Python, becomes so convoluted and hard to follow that it is
 faster to simply start over. Frequently this is exactly the resolution
 a student needs when they realize they have vastly overcomplicated an
 otherwise easy solution. Helping students have this realization experience
