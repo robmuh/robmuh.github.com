@@ -16,7 +16,7 @@ The [Introduction to Computer Science](http://studio.code.org/s/1)
 is the first block in every students stack here at [SkilStak Coding
 Arts](http://skilstak.com). It is so fantastic and fundamental I
 created a [Python version](http://github.com/skilstak/code-dot-org-python)
-every puzzle to build student skills with typed programming challenges
+of every puzzle to build student skills with typed programming challenges
 using the same tools and methods professional programmers do. I
 really do believe in the code.org approach and applaud everyone
 involved in bringing this amazing resource to the world.
@@ -52,7 +52,7 @@ click it off and go on missing critical information.
 
 # Unplugged Videos Mixed with Instructional Videos
 
-Have your students skip anything that starts with 'Unplugged'.
+Here's a funny dialog that happened last week:
 
 "Hey which one are you on?"
 
@@ -60,6 +60,8 @@ Have your students skip anything that starts with 'Unplugged'.
 
 The weather man was Bill Gates explaining 'if' statements about taking your
 jacket out in the rain.
+
+*Know Thy Audience*
 
 The biggest curriculum design flaw in the system as far as I'm
 concerned is mixing the unplugged videos with real-content videos:
