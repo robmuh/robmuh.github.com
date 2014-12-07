@@ -63,7 +63,7 @@ jacket out in the rain.
 
 *Know Thy Audience*
 
-The biggest curriculum design flaw in the system as far as I'm
+The biggest instructional design flaw in the system as far as I'm
 concerned is mixing the unplugged videos with real-content videos:
 
 * Unplugged videos talk to teachers not students
