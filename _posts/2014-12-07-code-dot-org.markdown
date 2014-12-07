@@ -73,14 +73,10 @@ concerned is mixing the unplugged videos with real-content videos:
 * Students form the bad habit of skipping videos
 * Students miss important videos about core concepts from skipping
 
-I had a hard time myself knowing when and when not to skip videos.
-Most of all the entire series suffers from a common writing flaw,
-**being unclear about who your audience is.** I mean, is this
-material speaking to teachers or to students? The answer is both
-and I believe that is a mistake. The entire series should have
-eliminated the parts that speak directly to teachers and focused
-solely on establishing a dialog with the student completing the
-challenges.
+I had a hard time myself knowing when I could skip videos.  The
+entire series should have eliminated the parts that speak directly
+to teachers and focused solely on establishing a dialog with the
+student completing the challenges.
 
 The first time Kiki or one of the other educators begins using
 educator vocabulary and speaking with a tone as if talking to other
