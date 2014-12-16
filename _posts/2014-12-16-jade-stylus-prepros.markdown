@@ -5,25 +5,27 @@ subtitle: An Easier Way to Learn Web Development
 ---
 
 It may seem backward, but teaching [Jade](http://jade-lang.com) and
-[Stylus](http://learnboost.github.io/stylus/) before teaching HTML
-and CSS is actually easier for students to grok &mdash; plus with
-[PrePros](http://prepros.io) and its instant gratification students
-have so much more fun watching changes happen before
-their eyes.
+[Stylus](http://learnboost.github.io/stylus/) before teaching HTML and
+CSS is a natural compliment to learning Python as a first language and
+actually easier for students to grok. The instant gratification and
+smooth interface of [PrePros](http://prepros.io) makes any student want
+to write the code to make the magic transitions happen before their eyes.
 
 # Simple is Easier to Learn
 
-The same reason that Python makes such a great first programming
-language Jade and Stylus make focusing on the concept and tags much
-easier &mdash; particularly for young students. If you have spent
-any time reading about the philosophy behind code.org and Blockly
-then you may have been convinced removing as many distractions from
-learning the concepts up front has value.  Surely it does not
-insulate the student from learning proper syntax and being able to
-type language constructs correctly, but the initial impression is
-gentler. Jade and Stylus follow on this idea and when adding PrePros
-you can see immediately the resulting HTML formatted perfectly in
-the Chrome source inspector.
+The same reason that Python makes such a great first programming language
+Jade and Stylus make focusing on the concept and tags much easier &mdash;
+particularly for young students. The significant whitespace cleans the
+syntax and teaches good style habits, which you will appreciate if you
+have spent any time reading about the philosophy behind code.org and
+Blockly. You may have been convinced removing as many distractions from
+learning the quirks of typed-syntax to focus on core concepts has value.
+Learning Jade and Stylus first carries that same value. Surely it does
+not insulate the student from learning proper syntax and being able to
+eventually type language constructs correctly, but the initial impression
+is gentler. HTML and CSS Syntax is not kind to the very young. Jade and
+Stylus follow on this idea and when adding PrePros you can see immediately
+the resulting HTML formatted perfectly in the Chrome source inspector.
 
 # Sweet Spot Between Raw and Build Workflow
 
