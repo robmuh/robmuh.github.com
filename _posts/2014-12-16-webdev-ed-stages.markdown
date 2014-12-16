@@ -32,6 +32,6 @@ from GitHub pages yet it is just a matter of time. This combination allows
 immediate previewing of blog posts and other web pages and a simple `git
 commit` and `git push` posts the final version without any dependency on
 GitHub pages or any other blogging engine for that matter. Blogging can be
-a great way to promote web development skills using the easy these industry
+a great way to promote web development skills using these industry
 standard preprocessor formats and fosters less dependence on any particular
 blogging system.
