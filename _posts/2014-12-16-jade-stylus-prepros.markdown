@@ -8,7 +8,7 @@ It may seem backward, but teaching [Jade](http://jade-lang.com) and
 [Stylus](http://learnboost.github.io/stylus/) before teaching HTML and
 CSS is a natural compliment to learning Python as a first language and
 actually easier for students to grok. The instant gratification and
-smooth interface of [PrePros](http://prepros.io) makes any student want
+smooth interface of [PrePros](http://prepros.io) make any student want
 to write the code to make the magic transitions happen before their eyes.
 
 # Simple is Easier to Learn
