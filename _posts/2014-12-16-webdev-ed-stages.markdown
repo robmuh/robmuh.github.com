@@ -24,6 +24,41 @@ gentler. Jade and Stylus follow on this idea and when adding PrePros
 you can see immediately the resulting HTML formatted perfectly in
 the Chrome source inspector.
 
+# Sweet Spot Between Raw HTML and Command Line
+
+I used to start teaching HTML and CSS with raw HTML to those just
+starting and command-line npm-based boiler-plate for everyone else.
+Using a graphic tool like PrePros fits nicely between these two
+approaches.
+
+At first editing raw HTML on GitHub seems like a good way to quickly
+get students started with web development because it does not require
+the extra steps necessary to clone a repo and can be done entirely
+from their web browser using the GitHub editor. Once GitHub Pages
+picks up their web site saves (commits) are instantly visible giving
+them immediate feedback that would take much more setup to accomplish
+using a clone, update, commit, push approach. Soon, however, students
+and teachers hit the limitations of not being able to include local
+images and such that are addressed by doing development locally.
+At that point one begins to wonder if it would have been better to
+simply start out that way.
+
+On the other hand those doing more involved web development with
+Node require setting up a command-line build workflow including
+live-reload of some kind. There have been many approaches to
+simplifying this including [Yoeman](http://yeoman.io), which I
+loathe, to any number of boilerplates for [Grunt](http://gruntjs.com)
+and [Gulp](http://gulpjs.com) and finally just plain
+[NPM](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/), which
+makes so much sense. I even started my [own](http://kwand.io) a few
+years back but abandoned it when I realized even the brightest
+students have a hard time groking it all.
+
+The great thing about a tool like CodeKit or PrePros is that students
+can do their development locally with even more ease than with
+GitHub Pages and still maintain that process when they add in a
+build workflow such as one based on NPM.
+
 # Blog Without an Engine
 
 The Jade + Stylus + PrePros combo makes creating a blog on GitHub not only
@@ -35,3 +70,4 @@ GitHub pages or any other blogging engine for that matter. Blogging can be
 a great way to promote web development skills using these industry
 standard preprocessor formats and fosters less dependence on any particular
 blogging system.
+
