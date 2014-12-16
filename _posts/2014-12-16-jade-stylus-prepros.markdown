@@ -7,7 +7,7 @@ subtitle: An Easier Way to Learn Web Development
 It may seem backward, but teaching [Jade](http://jade-lang.com) and
 [Stylus](http://learnboost.github.io/stylus/) before teaching HTML
 and CSS is actually easier for students to grok &mdash; plus with
-[PrePros](http://prepros.io) and it's instant gratification students
+[PrePros](http://prepros.io) and its instant gratification students
 have so much more fun watching changes take place instantly before
 their eyes.
 
