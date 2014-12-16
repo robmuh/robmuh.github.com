@@ -16,7 +16,7 @@ The same reason that Python makes such a great first programming
 language Jade and Stylus make focusing on the concept and tags much
 easier &mdash; particularly for young students. If you have spent
 any time reading up the the philosophy behind code.org and Blockly
-they you may have been convinced removing as many distractions from
+then you may have been convinced removing as many distractions from
 learning the concepts up front has value.  Surely it does not
 insulate the student from learning proper syntax and being able to
 type language constructs correctly, but the initial impression is
@@ -24,7 +24,7 @@ gentler. Jade and Stylus follow on this idea and when adding PrePros
 you can see immediately the resulting HTML formatted perfectly in
 the Chrome source inspector.
 
-# Sweet Spot Between Raw HTML and Command Line
+# Sweet Spot Between Raw and Build Workflow
 
 I used to start teaching HTML and CSS with raw HTML to those just
 starting and command-line npm-based boiler-plate for everyone else.
