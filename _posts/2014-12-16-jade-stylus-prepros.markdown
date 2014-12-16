@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Learning Webdev is Easier with Jade, Stylus, and PrePros
+title: Jade, Stylus, and PrePros
+subtitle: An Easier Way to Learn Web Development
 ---
 
 It may seem backward, but teaching [Jade](http://jade-lang.com) and
