@@ -8,7 +8,7 @@ It may seem backward, but teaching [Jade](http://jade-lang.com) and
 [Stylus](http://learnboost.github.io/stylus/) before teaching HTML
 and CSS is actually easier for students to grok &mdash; plus with
 [PrePros](http://prepros.io) and its instant gratification students
-have so much more fun watching changes take place instantly before
+have so much more fun watching changes happen before
 their eyes.
 
 # Simple is Easier to Learn
@@ -16,7 +16,7 @@ their eyes.
 The same reason that Python makes such a great first programming
 language Jade and Stylus make focusing on the concept and tags much
 easier &mdash; particularly for young students. If you have spent
-any time reading up the the philosophy behind code.org and Blockly
+any time reading about the philosophy behind code.org and Blockly
 then you may have been convinced removing as many distractions from
 learning the concepts up front has value.  Surely it does not
 insulate the student from learning proper syntax and being able to
@@ -71,4 +71,3 @@ GitHub pages or any other blogging engine for that matter. Blogging can be
 a great way to promote web development skills using these industry
 standard preprocessor formats and fosters less dependence on any particular
 blogging system.
-
