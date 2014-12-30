@@ -68,7 +68,7 @@ time. But it doesn't have to be that way.
 They just have to be. Those who create those tutorials to get you
 started in the game with as little learning curve as possible are
 some of the best educators in the world. They have to be to hold
-the gamers attention and interest or that gamer will move on. These
+the gamer's attention and interest or that gamer will move on. These
 educators possess some of the best skills needed to help everyone
 learn topics besides how to rocket-jump (yes, I'm dating myself)
 or dominate the mid-lane. What if such skills were applied to
