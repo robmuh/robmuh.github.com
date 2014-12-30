@@ -13,7 +13,7 @@ shooter&mdash;or God forbid, another GTA.
 I have a confession to make. I really don't play that many games.
 Yes I've been through the Dota2 obsession and enjoy Team Fortress
 2 with my boys online.  But does not playing games make me a hypocrite
-&mdash; or worse &mdash; a sham? Nah, just sneaking and subversive.
+&mdash; or worse &mdash; a sham? Nah, just sneaky and subversive.
 
 ## Even Hard Core Game Developers Don't Play Much
 
