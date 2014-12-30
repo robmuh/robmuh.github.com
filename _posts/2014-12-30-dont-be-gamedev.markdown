@@ -4,11 +4,11 @@ title: Don't Be a Game Developer
 subtitle: My Secret Ironic Hope
 ---
 
-Basic game development is probably the biggest foundation on which
-I built SkilStak but I secretly hope none of my students actually
-become game developers, unless they are creating games with a
-purpose. There is just so much more the world needs besides another
-first-person shooter.
+I built SkilStak Coding Arts based on the love of games and game
+development but I secretly hope none of my students actually become
+game developers, unless they are creating games with a purpose.
+There is just so much more the world needs besides another first-person
+shooter&mdash;or God forbid, another GTA.
 
 I have a confession to make. I really don't play that many games.
 Yes I've been through the Dota2 obsession and enjoy Team Fortress
