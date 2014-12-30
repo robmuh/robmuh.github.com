@@ -55,7 +55,7 @@ world's best, most playable, e-d-u-c-ational games. (That's me having
 a hard time even typing that horrendous word.) The games I want to
 see created would be so playable and awesome that not even the most
 discerning gamer/consumer could tell. This has been tried many times
-before and failed miserably. Gamers and teens can smell 'education'
+before and failed miserably. Gamers can smell 'education'
 in their game ruining the learning and the game. It's like when you
 spray fruity air-freshener after having spent 10 minutes filling
 the toilet boil in your bathroom, with digested gluten and broccoli
