@@ -91,7 +91,7 @@ What about something more simple? Good 'ol breakout but using the
 maps of the world as tiles that do interesting things when they are
 bounced with the pong-ish ball. Maybe the way the state responds
 to being hit is different depending on dangerously-generalized
-cultural clich&eegu;s like Texas taking several hits and a 'Yeeeeha'
+cultural cliches like Texas taking several hits and a 'Yeeeeha'
 when it drops. It might not win a lot of awards, but it would give
 that kid on his iPad next to you on that flight something to do
 more than Temple Run.
