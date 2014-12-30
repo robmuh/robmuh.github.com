@@ -99,7 +99,7 @@ more than Temple Run.
 How about Code Drone Commander (one that I'm actually working on)
 where you combine the best elements of a 2.5D or 3D tower-defense
 game with actual code to create complicated programs to navigate
-the drone successfully to it's destination doing missions that have
+the drone successfully to accomplish its missions that have
 relevance to a larger single-player story line.
 
 ## Do Something More
