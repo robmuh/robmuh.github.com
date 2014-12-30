@@ -54,7 +54,7 @@ I have always been open with my not-so-evil-plan-to-rule-the-world.
 It is to raise up an army of technologists creating and supporting the
 worlds best, most playable, e-d-u-c-ational games. (That's me having
 a hard time even typing that horrendous word.) The games I want to
-see created we be so playable and awesome that not even the most
+see created would be so playable and awesome that not even the most
 discerning gamer/consumer could tell. This has been tried many times
 before and failed miserably. Gamers and teens can smell 'education'
 in their game ruining the learning and the game. It's like when you
@@ -63,3 +63,39 @@ the toilet boil in your bathroom, with digested gluten and broccoli
 let's say. It still smells like crap, just fruity crap. Such is the
 case with most games that are educational and try to trick unsuspecting
 gamers into playing them in their free time.
+
+## Here's Some Ideas, Now Go Make Them
+
+So what am I talking about?
+
+How about a rated first-person-ish shooter (with a gore setting)
+in which the baddies respond to different chemicals, real chemicals
+that require knowledge of reactive properties of elements complete
+with a periodic table HUD and weapons that can be calibrated by
+mapping covalent bonds and molecules using standard notation from
+Chem 101? You could build in test weapons to sample the boss's
+reaction to bases v.s. acids say.
+
+What about something more simple? Good 'ol breakout but using the
+maps of the world as tiles that do interesting things when they are
+bounced with the pong-ish ball. Maybe the way the state responds
+to being hit is different depending on dangerously-generalized
+cultural clich&eegu;s like Texas taking several hits and a 'Yeeeeha'
+when it drops. It might not win a lot of awards, but it would give
+that kid on his iPad next to you on that flight something to do
+more than Temple Run.
+
+How about Code Drone Commander (one that I'm actually working on)
+where you combine the best elements of a 2.5D or 3D tower-defense
+game with actual code to create complicated programs to navigate
+the drone successfully to it's destination doing missions that have
+relevance to a larger single-player story line.
+
+## Do Something More
+
+Even better would be for my students to grow out of their obsession
+with making games, like I also had as a kid, and realizing all this
+code they have learned can be used to program robots to bring
+manufacturing back to the United States; to forecast economic,
+climate, and other change; to bring people together; to analyze and
+create cures for disease; to build magnificent real things and more.
