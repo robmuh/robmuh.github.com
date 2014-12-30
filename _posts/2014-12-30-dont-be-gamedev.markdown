@@ -84,7 +84,7 @@ in which the baddies respond to different chemicals, real chemicals
 that require knowledge of reactive properties of elements complete
 with a periodic table HUD and weapons that can be calibrated by
 mapping covalent bonds and molecules using standard notation from
-Chem 101? You could build in test weapons to sample the boss's
+Chem 101? You could build in test weapons to sample the boss'
 reaction to bases v.s. acids say.
 
 What about something more simple? Good 'ol breakout but using the
