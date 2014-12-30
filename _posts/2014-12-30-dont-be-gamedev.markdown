@@ -51,7 +51,7 @@ and sometimes simultaneously the most useless award.
 
 I have always been open with my not-so-evil-plan-to-rule-the-world.
 It is to raise up an army of technologists creating and supporting the
-worlds best, most playable, e-d-u-c-ational games. (That's me having
+world's best, most playable, e-d-u-c-ational games. (That's me having
 a hard time even typing that horrendous word.) The games I want to
 see created would be so playable and awesome that not even the most
 discerning gamer/consumer could tell. This has been tried many times
