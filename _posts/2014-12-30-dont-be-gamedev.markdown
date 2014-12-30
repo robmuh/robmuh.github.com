@@ -18,11 +18,11 @@ Yes I've been through the Dota2 obsession and enjoy Team Fortress
 ## Even Hard Core Game Developers Don't Play Much
 
 You know what? I'm not the only one. I've heard core game developers
-on some of the most important games ever created, including the
-upcoming [Evolve](http://evolvegame.com/), which I personally am
-looking forward too, state on camera that they don't play games
-that often.  "It's more challenging to make them," said one developer
-from [Turtle Rock](http://turtlerockstudios.com) in a video interview.
+on some of the most amazing games ever created, including the
+upcoming [Evolve](http://evolvegame.com/), state on camera that
+they don't play games that often. "It's more challenging to make
+them," said one developer from [Turtle Rock](http://turtlerockstudios.com)
+in a video interview.
 
 ## Consumer v.s. Creator
 
