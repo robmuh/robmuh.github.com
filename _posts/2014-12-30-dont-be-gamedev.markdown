@@ -39,14 +39,13 @@ more. Consumers are the 'bitches' of creators.
 ## What You Create Matters
 
 Game developers are clearly creators but so are crappy Hollywood
-Film producers and directors, those who create reality shows. Then
-there are the creators of YouTube videos, Slim Jims, Bud Lite, and
-Kia automobiles. I don't mean to be obvious, (oh wait, I do), people
-create crap. While I am approaching the topic better entertained
-by the Game Theory guy, whatever his name is, the point is there
-are different kinds of games and apps to make and unfortunately too
-many are obsessed winning the coolest and sometimes simultaneously
-the most useless award.
+Film producers. Then there are the creators of YouTube videos, Slim
+Jims, Bud Lite, and Kia automobiles. I don't mean to be obvious,
+(oh wait, I do), people create crap. While I am approaching the
+topic better entertained by the Game Theory guy, whatever his name
+is, the point is there are different kinds of games and apps to
+make and unfortunately too many are obsessed winning the coolest
+and sometimes simultaneously the most useless award.
 
 ## Make Something Cool and Useful
 
