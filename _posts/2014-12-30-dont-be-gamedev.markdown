@@ -50,18 +50,30 @@ and sometimes simultaneously the most useless award.
 ## Make Something Cool and Useful
 
 I have always been open with my not-so-evil-plan-to-rule-the-world.
-It is to raise up an army of technologists creating and supporting the
-world's best, most playable, e-d-u-c-ational games. (That's me having
-a hard time even typing that horrendous word.) The games I want to
-see created would be so playable and awesome that not even the most
-discerning gamer/consumer could tell. This has been tried many times
-before and failed miserably. Gamers can smell 'education'
+It is to raise up an army of technologists creating and supporting
+the world's best, most playable, e-d-u-c-ational games. (That's me
+having a hard time even typing that horrendous word.) The games I
+want to see created would be so playable and awesome that not even
+the most discerning gamer/consumer could tell. This has been tried
+many times before and failed miserably. Gamers can smell 'education'
 in their game ruining the learning and the game. It's like when you
 spray fruity air-freshener after having spent 10 minutes filling
 the toilet boil in your bathroom, with digested gluten and broccoli
 let's say. It still smells like crap, just fruity crap. Such is the
 case with most games that are educational and try to trick unsuspecting
-gamers into playing them in their free time.
+gamers into playing them in their free time. But it doesn't have
+to be that way.
+
+## Game Creators are Some of Best Educators
+
+They just have to be. Those who create those tutorials to get you
+started in the game with as little learning curve as possible are
+some of the best educators in the world. They have to be to hold
+the gamers attention and interest or that gamer will move on. These
+educators possess some of the best skills needed to help everyone
+learn topics besides how to rocket-jump (yes, I'm dating myself)
+or dominate the mid-lane. What if such skills were applied to
+teaching Chemistry, History, or Micro-Biology.
 
 ## Here's Some Ideas, Now Go Make Them
 
