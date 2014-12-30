@@ -58,11 +58,10 @@ the most discerning gamer/consumer could tell. This has been tried
 many times before and failed miserably. Gamers can smell 'education'
 in their game ruining the learning and the game. It's like when you
 spray fruity air-freshener after having spent 10 minutes filling
-the toilet boil in your bathroom, with digested gluten and broccoli
-let's say. It still smells like crap, just fruity crap. Such is the
-case with most games that are educational and try to trick unsuspecting
-gamers into playing them in their free time. But it doesn't have
-to be that way.
+the toilet boil in your bathroom. It still smells horrible just
+fruitier. Such is the case with most games that are educational and
+try to trick unsuspecting gamers into playing them in their free
+time. But it doesn't have to be that way.
 
 ## Game Creators are Some of Best Educators
 
