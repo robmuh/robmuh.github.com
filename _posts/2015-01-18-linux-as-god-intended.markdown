@@ -38,12 +38,15 @@ they are on and more.]
 
 ## Even Lighter
 
-A lot of my students get really bored at home or at school. Creating
-a set of tools that are just customized copies of [Putty
-Tray](https://puttytray.goeswhere.com/) (for ssh terminal access)
-and [WinSCP](http://winscp.net/eng/index.php) (for drop-dead easy
-file transfers) and putting them on a USB stick means they have
-nearly instant access to all their SkilStak work from anywhere.
+A lot of my students get really bored at home or at their main
+school, public or private. Creating a set of tools that are just
+customized copies of [Putty Tray](https://puttytray.goeswhere.com/)
+(for ssh terminal access) and [WinSCP](http://winscp.net/eng/index.php)
+(for drop-dead easy file transfers) and putting them on a USB stick
+means they have nearly instant access to all their SkilStak work
+from anywhere, anytime. This escape into coding at SkilStak is just
+the type of disruptive subversion I absolutely love. Kids learning
+despite the school system.
 
 As great as *Desktop on a Stick* and *Server on a Stick* have been
 they are too big for this sort of instant access. They are ideal
