@@ -65,7 +65,7 @@ a hassle.)
 Unity games are usually so large they can't even be stored on
 GitHub.
 
-## <student>.skilstak.com
+## *student*.skilstak.com
 
 Beyond storage all students get a web site or app of their own
 associated with their username and stored in their `www` directory.
