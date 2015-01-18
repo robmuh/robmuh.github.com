@@ -63,7 +63,22 @@ work public (I know they could get private repos for free, but it's
 a hassle.)
 
 Unity games are usually so large they can't even be stored on
-GameMaker.
+GitHub.
+
+## <student>.skilstak.com
+
+Beyond storage all students get a web site or app of their own
+associated with their username and stored in their `www` directory.
+We use individual, light-weight Harp processes to server them up
+by default with an `nginx` reverse proxy for everyone on the server
+who is detected to have a `www` directory. This provides instant
+satisfaction to students working on their site whether it be a
+static Harp site or a Meteor or Node app. I believe the progress
+made in light-weight server processes brought about by node and
+nginx has enabled an entire new approach to web site and web app
+development yet to be fully explored. I can't imagine this approach
+not catching on like wild-fire in the web development education
+space.
 
 ## Collaboration
 
