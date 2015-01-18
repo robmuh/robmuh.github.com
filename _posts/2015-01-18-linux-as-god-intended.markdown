@@ -129,5 +129,6 @@ the main reason is schools do not have the know-how and human
 resources to dedicate to such a thing, or do they? This seems like
 a great thing for the Instructional Technologist and media people
 to setup, but then again, they are dealing with teachers who can't
-use the command line themselves. Never mind. I answered my
-own question.
+use the command line themselves. Never mind. I answered my own
+question, just another reminder that traditional education models
+are dying fast, and for the best.
