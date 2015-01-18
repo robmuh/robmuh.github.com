@@ -36,7 +36,7 @@ arrow navigation the youngest coder would find intuitive. Plus I
 have vim so customized they see clearly where they are, what line
 they are on and more.]
 
-## Linux Server + Putty Tray + WinSCP = Light-Weight Coding Bliss
+## Linux + Putty Tray + WinSCP = Light-Weight Coding Bliss
 
 A lot of my students get really bored at home or at their main
 school, public or private. Creating a set of tools that are just
