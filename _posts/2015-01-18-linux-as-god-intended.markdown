@@ -126,7 +126,7 @@ command line.
 
 ## Why aren't more doing this?
 
-Some please explain to me why other schools are not introducing
+Someone please explain to me why other schools are not introducing
 Linux command-line skills earlier to students? It seems everyone
 learns them in college but that is far too late. I suppose the main
 reason is schools do not have the know-how and human resources to
