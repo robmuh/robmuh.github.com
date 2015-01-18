@@ -108,3 +108,14 @@ from a very early age. Minecraft has eased this wonderfully for
 those that have the real version and have learned to type and use
 the Minecraft command line, which is modeled in part after the Linux
 command line.
+
+## Why aren't more doing this?
+
+Some please explain to me why other schools are not introducing
+Linux command-line skills earlier to students? It seems everyone
+learns them in college but that is far too late. I suppose the main
+reason is schools do not have the know-how and human resources to
+dedicate to such a thing, or do they? This seems like a great thing
+for the Instructional Technologist and media people to setup, but
+then again, they are dealing with teachers who can't use the command
+line themselves *sigh*. Never mind. I answered my own question.
