@@ -102,14 +102,10 @@ server, even how many lines of code they wrote and give them SkilBux
 based on their activity with much more precision than would ever
 be possible writing some complicated interface to the GitHub API.
 
-I can even automate git commits for those young kids that want them,
-but they really don't need them. Everything is backed up in .snap
-daily and onto other disks regularly as well. Git is now command
-line, also as God intended. No more building dependency on GitHub's
-pretty little windows GUI that may or may not work on any given
-day. I've simplified the git commit steps with a 'save' alias. Now four
-little letters make these kids joyful for how much simpler everything is,
-and yes I'm still talking about the command-line.
+In fact, GitHub is no longer really needed until they are willing
+and able to use the `git` command even though I've simplified `git
+commit` as `save`. Everything is backed up in .snap daily and onto
+other disks regularly as well.
 
 ## The Future is on the Command Line
 
@@ -127,9 +123,11 @@ command line.
 
 Someone please explain to me why other schools are not introducing
 Linux command-line skills earlier to students? It seems everyone
-learns them in college but that is far too late. I suppose the main
-reason is schools do not have the know-how and human resources to
-dedicate to such a thing, or do they? This seems like a great thing
-for the Instructional Technologist and media people to setup, but
-then again, they are dealing with teachers who can't use the command
-line themselves *sigh*. Never mind. I answered my own question.
+learns them in college (unless you go to one of the local community
+colleges around here *sigh*) but college is far too late. I suppose
+the main reason is schools do not have the know-how and human
+resources to dedicate to such a thing, or do they? This seems like
+a great thing for the Instructional Technologist and media people
+to setup, but then again, they are dealing with teachers who can't
+use the command line themselves. Never mind. I answered my
+own question.
