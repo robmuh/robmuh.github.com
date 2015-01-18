@@ -76,9 +76,8 @@ satisfaction to students working on their site whether it be a
 static Harp site or a Meteor or Node app. I believe the progress
 made in light-weight server processes brought about by node and
 nginx has enabled an entire new approach to web site and web app
-development yet to be fully explored. I can't imagine this approach
-not catching on like wild-fire in the web development education
-space.
+education yet to be fully explored. I can't imagine this approach
+not catching on like wild-fire.
 
 ## Collaboration
 
