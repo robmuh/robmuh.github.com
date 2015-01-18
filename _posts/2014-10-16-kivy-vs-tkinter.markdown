@@ -4,6 +4,18 @@ title: Kivy v.s. Tkinter
 subtitle: Tinker in Tkinter. Develop in Kivy.
 ---
 
+UPDATE: Kivy and Tkinter and GTK are now taught together almost as
+an afterthought in Python-2 to make sure students are aware of these
+Python graphics packages but are encouraged to use HTML/CSS/JavaScript
+and Java and Swift for front-end work of any significance.
+
+UPDATE: After the recent release of Android SDK and the 85% capture
+of the SmartPhone market by Android I now think Kivy will die after
+watching the entire Hybrid approach fall farther and farther behind
+the two leading native app frameworks fight it out with billions
+of dollars behind them instead of did-we-get-a-grant-this-year
+money.
+
 While I predict [Kivy](http://kivy.org) will enjoy a meteoric rise in
 [attention](http://www.infoworld.com/article/2608912/python/python-puts-its-print-on-multitouch-apps-with-kivy.html)
 as the world continues to adopt and prefer voice and multi-touch

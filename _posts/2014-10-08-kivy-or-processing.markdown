@@ -4,6 +4,11 @@ title: Teach Kivy Before Processing?
 subtitle: Yes.
 ---
 
+UPDATE: Kivy is now taught with Tk and GTK as afterthoughts at the
+end of Python-2. Yes Python is used for graphics &mdash; particularly
+data visualization &mdash; but the emphasis at SkilStak on anything
+with a front-end is on HTML/CSS/JavaScript, Java, and Swift.
+
 Recently I've had to choose which method of graphics programming to
 teach first at [SkilStak Coding Arts](http://skilstak.com). I've
 narrowed it down to [Kivy](http://kivy.org) and

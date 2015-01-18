@@ -4,6 +4,13 @@ title: CodeCombat Review
 subtitle: Flash Over Substance
 ---
 
+UPDATE: CodeCombat is the first experience every Code and Play&trade;
+student has with Python despite its idiotic snubbing of PEP-8 and
+almost educationally destructive use of `loop {}`. In every other
+class beyond this we teach Python on the Linux command line and
+students see for themselves what a fail CodeCombat was on that
+point.
+
 My overwhelming excitement to discover
 [CodeCombat.com](http://codecombat.com) was instantly
 squelched when I saw the Python (default) language

@@ -4,6 +4,14 @@ title: Good Developers Use Linux
 subtitle: Personal Reflections on an Undeniable Truth
 ---
 
+UPDATE: We now use a nano-size zip of tools for our nano-size school
+with just a solarized [Putty Tray](https://puttytray.goeswhere.com/)
+and [WinSCP](http://winscp.net/eng/index.php) which can be put on
+a USB stick or downloaded in seconds and run from any machine that
+allows executables. No need to repackage a *Desktop on a Stick*
+image since all their work is on the server where I can update
+system profiles and more (duh).
+
 I'm finishing up a VMware Ubuntu Linux Desktop on a Stick image for
 [SkilStak Coding Arts](http://skilstak.com) with one goal in mind. Marginalize
 Windows &mdash; and even Macs &mdash; in my students' minds.

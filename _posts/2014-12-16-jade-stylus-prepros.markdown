@@ -4,6 +4,16 @@ title: Jade, Stylus, and PrePros
 subtitle: An Easier Way to Learn Web Development
 ---
 
+UPDATE: Since focusing on Linux and Mac for all web and app development
+(and eliminating Windows) we no longer need the buggy PrePros and
+have moved to the very elegant combination of Harp and browser-sync
+on our Linux server where changes are instantly public without the
+need to push them to GitHub pages or anything else. This instant
+gratification compels students even more successfully then our
+previous alternatives. We begin by teaching Jade and Stylus and
+students learn the HTML and CSS by osmosis. We do *not* teach
+CoffeeScript, however (and never will).
+
 It may seem backward, but teaching [Jade](http://jade-lang.com) and
 [Stylus](http://learnboost.github.io/stylus/) before teaching HTML and
 CSS is a natural compliment to learning Python as a first language and
