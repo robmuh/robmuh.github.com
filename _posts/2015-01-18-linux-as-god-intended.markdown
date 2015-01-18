@@ -97,7 +97,7 @@ and yes I'm still talking about the command-line.
 ## The Future is on the Command Line
 
 I've recently read more than one futurist predict more and more
-developers will move to the command line for it's raw power &mdash;
+developers will move to the command line for its raw power &mdash;
 especially as it becomes more approachable and the standard for
 packaged software installation. I agree with these predications and
 getting students comfortable with the command-line is fundamental
