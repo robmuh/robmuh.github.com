@@ -47,6 +47,10 @@ teaching or learning it you still don't need IDLE. You can use vim,
 Notepad++, Sublime, Atom, Brackets, even Eclipse if you are that
 much of a masochist. You don't lose Tk just for not using IDLE.
 
+[We cover Tkinter with PyGame, Kivy, and GTK in Python-2 near the
+end to survey all the graphics capabilities of Python for app
+development and data visualization.]
+
 ## You don't have time to waste
 
 Educators that teach students using Python IDLE are actually slowing
