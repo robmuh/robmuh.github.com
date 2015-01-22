@@ -178,6 +178,11 @@ there from the start.
 
 ### Static blogging ain't just for blogging
 
+UPDATE: I've since found [Harp](http://harpjs.com) (a favorite of [Remy
+Sharp's](https://remysharp.com/) as well] and use it for every
+web class we have, no compilation needed, just pure Jade, Stylus and
+JavaScript with the data and layout management you always dreamed of.
+
 Tools like [Jekyll][], which [Obama][] used in his campaign, demonstrate
 the sheer power and simplicity of the static site paradigm. Even though
 Jekyll started as static blogging engine from what I can tell from the
