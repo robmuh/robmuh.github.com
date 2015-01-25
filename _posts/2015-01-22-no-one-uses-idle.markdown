@@ -35,7 +35,8 @@ blog post.
 ## "What if they are not ready to use an editor?"
 
 Then they shouldn't be using IDLE either. This is what
-[code.org](http://code.org) and [codecombat.com](http://codecombat.com)
+[code.org](http://code.org), [codecombat.com](http://codecombat.com), and
+[khanacademy.com](https://www.khanacademy.org/computing/computer-programming)
 are for.
 
 ## "But it has Tkinter graphics"
