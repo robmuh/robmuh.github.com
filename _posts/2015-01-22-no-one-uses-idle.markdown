@@ -75,6 +75,10 @@ used on their computer. A better workflow to teach is to have the code open
 in a real editor of some kind, and another window with either the file
 explorer or a true shell, even Windows, where they run the program.
 
+But by then you really have to ask yourself why you are using Windows to
+teach Python in the first place when it so naturally feels better on
+a proper Bash command-line shell (as in, Linux or Mac).
+
 At first it seems like having IDLE up is more efficient during development
 than saving and rerunning it but if anything it is as efficient while
 emphasizing the way code will actually be used. Which reminds me &hellip;
