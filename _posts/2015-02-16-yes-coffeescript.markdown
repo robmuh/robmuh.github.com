@@ -15,16 +15,17 @@ Don't roll your eyes yet. Hear me out.
 
 I started web development in the 90s and coded Perl, shell, Java
 and C most of my life. I dabbled in JavaScript when it came out and
-like everyone else and hated Python and PHP when they came out.
+like everyone else hated Python and PHP when they came out.
 
 Things have changed.
 
-Call it aged wisdom or something but I see JavaScript for what they
-are way beyond their syntax now. I also spend every waking moment helping
-others *learn* to program instead of simply programming. Where I once hated
-significant white-space I know embrace it every chance I get. The logic
-follows that espoused &mdash; nay touted &mdash; by code.org, Berkeley and
-the rest of the *computational literacy* crowd. It goes like this:
+Call it aged wisdom or something but I see JavaScript and Python
+for what they are way beyond their syntax now. I also spend every
+waking moment helping others *learn* to program instead of simply
+programming. Where I once hated significant white-space I know
+embrace it every chance I get. The logic that Code.org, Berkeley and the
+rest of the *computational literacy* crowd follows
+&mdash; nay touts &mdash; goes like this:
 
 > The most important thing is for those learning to code to not get
 > discouraged and frustrated early on so they don't prematurely abandon
@@ -39,7 +40,7 @@ there. This is where CoffeeScript comes in. Here is a simple example
 first in CoffeeScript and then in the well-formed JavaScript it
 produces:
 
-```coffeescript
+```
 do -> 
   weekDays = ['sun','mon','tue','wed','thu','fri','sat']
   order = {'sun':0,'mon':1,'tue':2,'wed':3,'thu':4,'fri':5,'sat':6}
@@ -56,7 +57,7 @@ do ->
       pnode.insertBefore(time,lnode);
 ```
 
-```javascript
+```
 (function() {
   var count, day, lnode, order, pnode, time, times, today, weekDay, weekDays, _i, _len, _results;
   weekDays = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'];
