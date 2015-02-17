@@ -22,7 +22,7 @@ Things have changed.
 Call it aged wisdom or something but I see JavaScript and Python
 for what they are way beyond their syntax now. I also spend every
 waking moment helping others *learn* to program instead of simply
-programming. Where I once hated significant white-space I know
+programming. Where I once hated significant white-space I now
 embrace it every chance I get. The logic that Code.org, Berkeley and the
 rest of the *computational literacy* crowd follows
 &mdash; nay touts &mdash; goes like this:
