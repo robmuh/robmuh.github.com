@@ -107,9 +107,8 @@ programming skills grow they will have more and more exposure to
 the post-processed code, its style and proper syntax. This is simply
 the best way to learn rather than having every single JavaScript
 Wart and best practiced spelled out in class or by reading a book.
-Students are encouraged to thing, "what would the CoffeeScript
-compiler do" when in doubt of the best way to code something in
-JavaScript.
+Students are encouraged to think, "what would the CoffeeScript
+compiler do".
 
 It is true that learning CoffeeScript first defers learning actual
 JavaScript. Some might even argue that this prevents students from
@@ -122,20 +121,21 @@ for it in the end.
 
 ## Whitespace IS Significant
 
-How would you teach a child? Would you have them not learn to indent
-properly? Would you encourage them to write spaghetti? Hell no.
-Whitespace does matter. These are the very reasons Python is taking
-over the education world as the first *real* language to learn and
-why it is the default language for CodeCombat.com and SkilStak as
-well. This acknowledges the need to keep things the least frustrating
-for those starting out while keeping it real. 
+How would you teach a child? Would you teach them that indenting
+really doesn't matter? Boy I hope not.  Would you encourage them
+to write spaghetti? Probably not. Whitespace simply *does* matter.
+These are the very reasons Python is taking over the education world
+as the first *real* language to learn and why it is the default
+language for CodeCombat.com and SkilStak as well. This acknowledges
+the need to keep things the least frustrating for those starting
+out while keeping it real.
 
 This is the exact same reason that learning the preprocessors Jade
 and Stylus are *better* than learning actual HTML and CSS for
 beginners. It follows for CoffeeScript as well. Not only do students
-learn the tools seasoned professionals prefer for their simplicity
-and speed of development, but they learn the actual code better as
-well.
+learn the tools and workflows modern professionals prefer for their
+simplicity and speed of development, but they learn the actual code
+better as well.
 
 ## Clarity Beats Cleverness
 
