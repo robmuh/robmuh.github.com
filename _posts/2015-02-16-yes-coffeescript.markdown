@@ -101,7 +101,7 @@ ironically it also *safer* for them to learn.
 
 ## They Still Learn JavaScript, Just Better
 
-When the time comes they are ready to see the JavaScript produces
+When the time comes they are ready to see the JavaScript produced
 and study the individual equivalents and what they mean. As their
 programming skills grow they will have more and more exposure to
 the post-processed code, its style and proper syntax. This is simply
