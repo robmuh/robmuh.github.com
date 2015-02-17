@@ -39,7 +39,7 @@ there. This is where CoffeeScript comes in. Here is a simple example
 first in CoffeeScript and then in the well-formed JavaScript it
 produces:
 
-<code class="language-coffee">
+```
 do -> 
   weekDays = ['sun','mon','tue','wed','thu','fri','sat']
   order = {'sun':0,'mon':1,'tue':2,'wed':3,'thu':4,'fri':5,'sat':6}
@@ -54,11 +54,11 @@ do ->
       day = time.classList[1]
       break if day is today
       pnode.insertBefore(time,lnode);
-</code>
+```
 
 Or this:
 
-<code class="language-javascript">
+```
 (function() {
   var count, day, lnode, order, pnode, time, times, today, weekDay, weekDays, _i, _len, _results;
   weekDays = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'];
@@ -90,7 +90,7 @@ Or this:
     return _results;
   }
 })();
-</code>
+```
 
 Now I know there are more clever ways to do this probably. This is
 simply an example illustrating several principles combined with
