@@ -661,6 +661,7 @@ blockquote {
   font-style: italic;
 }
 
+/*
 code {
   font-size: 13px;
   margin: 0 4px;
@@ -695,6 +696,7 @@ pre code {
   margin: 0;
   padding: 0;
 }
+*/
 
 table {
   width: 100%;
