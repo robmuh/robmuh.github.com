@@ -139,21 +139,22 @@ better as well.
 
 ## Clarity Beats Cleverness
 
-Stop telling yourself that it doesn't. You may say you want your curly
-freedom but you curse the developers that abuse it and you know it.
-Usually they are the worst programmers you will ever encounter.
-Every memory of any programmer who didn't use proper style, or any
-style, or who filled code with actual tab characters AND 4-space
-indents and then picked horrible variable names has *always* turned
-out to royally suck as a programmer in general. Maybe it is the
-Swiss in me, but bad style *ruins* code. Obfuscation competitions
-are fun anomalies but are built on a bad premise, that making code
-that others can't understand somehow makes you smarter than them.
-That's just bullshit.
+Stop telling yourself that it doesn't. You may say you want your
+curly freedom but you curse the developers that abuse it and you
+know it.  Usually they are the worst programmers you will ever
+encounter.  Every memory I have of any programmer who didn't use
+proper style, or any style, or who filled code with actual tab
+characters AND 4-space indents and then picked horrible variable
+names has *always* turned out to royally suck as a programmer in
+general. Maybe it is the Swiss in me, but bad style *ruins* code.
+Obfuscation competitions are fun anomalies but are built on a bad
+premise, that making code that others can't understand somehow makes
+you smarter than them.  That's just bullshit.
 
-That said, I have heard extremest the other way torpedo use of regular
-expressions in general based on that premise and they equally suck as
-programmers.
+That said, I have heard the other extreme applied to torpedo use
+of regular expressions based on that premise, but that is going too
+far.  Even 7-year-olds can and should learn regular expressions
+eventually.
 
 ## Can a 7-Year-Old Learn This
 
@@ -161,22 +162,39 @@ As Einstein said, "If you can't explain it to a six year old, you don't
 understand it yourself." This is the true measure. In my world this translates to, "can you teach it
 to a 7-year-old."
 
-There is something innate in every young person I've run across that has
-something to prove to themselves and everyone else, build their own
-computer, type faster than their parents, code something most everyone else
-around them doesn't understand. Whatever it is, it seems to subside once
-that person has mastered the challenge enough for it to become mundane. Like
-loud v.s. Classical music their tastes shift toward beauty and clarity, to
-well thought-out ideas, practical ideas, innovative ideas that are expressed
-clearly rather than in some expected way aimed at winning praise or
-demonstrating superiority. This is the driving force behind leet-speak,
-script-kiddies, trolls, flames, and the rest. But this thinking is flawed
-and immature. The real measure of prowess is simplicity and clarity even
-when the regular representation would be wildly complex.
+There is something innate in every young person I've run across
+that has something to prove to themselves and everyone else, build
+their own computer, type faster than their parents, code something
+most everyone else around them doesn't understand. Whatever it is,
+it seems to subside once that person has mastered the challenge
+enough for it to become mundane. Like loud v.s. classical music it
+seems tastes shift from showy to beauty, efficiency, and clarity; to well
+thought-out, practical ideas and innovation.
 
 ## Stay Flexible
 
-This all reminds me to stay flexible, adaptive, and open-minded as
-a technology teacher, something students also need to learn as well
-sometimes. So many educators will think I have lost my mind, but I have
-observed this approach work in my classroom and that really suffices for me.
+As someone responsible for the learning direction of so many this
+all reminds me to stay flexible, adaptive, and open-minded as a
+technology teacher, something students also need to learn as well.
+Hey, I came to accept, even love JavaScript even after *experiencing*
+it in the 90s so there is that.  I'm sure so many educators will
+think I have lost my mind, but I have observed applying the following
+progression tree to work in my classroom and that really suffices
+for me:
+
+    Code.org -> CodeCombat -> Python -> Jade -> HTML
+                                     -> Stylus -> CSS
+                                     -> CoffeeScript -> JavaScript
+                                     -> Java -> Android
+                                             -> MC Spigot
+                                             -> MC Forge
+                                             -> MIT BattleCode
+                                     -> Swift -> iOS
+                                     -> GameMaker (GML)
+                                     -> Bash
+                                     -> C
+
+I would love to hear others' thoughts on this but it is nearly
+impossible to even find *anyone* teaching any of this in a physical
+setting &mdash; least of all the public school system. If you do, please
+leave a comment or email me. I'd love to meet you.
