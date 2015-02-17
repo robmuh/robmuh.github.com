@@ -106,7 +106,7 @@ and study the individual equivalents and what they mean. As their
 programming skills grow they will have more and more exposure to
 the post-processed code, its style and proper syntax. This is simply
 the best way to learn rather than having every single JavaScript
-Wart and best practiced spelled out in class or by reading a book.
+Wart and best practice spelled out in class or by reading a book.
 Students are encouraged to think, "what would the CoffeeScript
 compiler do".
 
