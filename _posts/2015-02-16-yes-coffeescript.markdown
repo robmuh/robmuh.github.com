@@ -32,8 +32,7 @@ rest of the *computational literacy* crowd follows
 > it. Therefore, the less concern for syntax and typos a certain
 > approach has the better.
 
-I share [George
-Saines'](http://blog.codecombat.com/3-reasons-why-computational-literacy-is-ruining-coding-education)
+I share [George Saines'](http://blog.codecombat.com/3-reasons-why-computational-literacy-is-ruining-coding-education)
 feelings on this position. In short, we need to get those learning
 to code actually typing code as soon as possible and begin from
 there. This is where CoffeeScript comes in. Here is a simple example
@@ -56,6 +55,8 @@ do ->
       break if day is today
       pnode.insertBefore(time,lnode);
 ```
+
+Or this:
 
 ```javascript
 (function() {
