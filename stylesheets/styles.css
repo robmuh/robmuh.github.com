@@ -254,6 +254,7 @@ pre {
  * Corrects font family set oddly in IE6, S4/5, Chrome
  * en.wikipedia.org/wiki/User:Davidgothberg/Test59
  */
+/*
 pre,
 code,
 kbd,
@@ -266,6 +267,7 @@ samp {
   border: solid 1px #002b36;
   color: #b58900;
 }
+*/
 
 /*
  * 1. Addresses CSS quotes not supported in IE6/7
@@ -662,6 +664,7 @@ blockquote {
 }
 
 /*
+
 code {
   font-size: 13px;
   margin: 0 4px;
