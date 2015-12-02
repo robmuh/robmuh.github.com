@@ -4,6 +4,11 @@ title: Kivy v.s. Android v.s. iOS
 subtitle: (ok, so really Kivy v.s. native)
 ---
 
+**UPDATE:** Kivy diminishes even further in relevance as hybrid
+performance boosters like [Crosswalk](http://crosswalk-project.org)
+get better and better. The gap between native and hybrid is closing
+even faster than I expected.
+
 I hate writing this. I really do. I *love* Kivy. But the harsh
 reality that Facebook and so many others have realized is that if
 you have anything more than an HTML5 single-page-app you should

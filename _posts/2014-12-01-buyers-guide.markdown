@@ -4,6 +4,15 @@ title: Computer Buyers Guide
 subtitle: The Essentials and More
 ---
 
+**Update:** SkilStak now uses Mac Minis for everything. Our first
+and best recommendation is to get a Mac &mdash; especially since
+anyone can get a Mini and a keyboard for around $500 (and much
+higher quality than any PC anyone could get at that price. We have
+expelled the drastically declining GameMaker from our curriculum
+(and replaced with Phaser.io) and only use Linux on the server or
+as a Virtual Machine for students who only have Windows at home to
+use.
+
 ***Do not buy iBuyPower under any circumstances no matter how good
 the deal.*** At SkilStak Coding Arts parents and students often ask
 what computer to buy. My standard recommendation is to *buy a Mac

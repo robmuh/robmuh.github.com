@@ -4,6 +4,13 @@ title: CoffeeScript Before JavaScript
 subtitle: For education at least. Hear me out.
 ---
 
+**UPDATE:**We don't teach CoffeeScript preferring raw, quirky
+JavaScript instead even though the argument still stands that
+CoffeeScript is a good introduction to web development for
+particularly those coming from Python. Instead we teach the
+Fundamentals in Python, JavaScript, and Shell *together* so students
+are exposed concurrently to the concepts in all three languages.
+
 Many programmers dismiss CoffeeScript for different reasons, but
 what if CoffeeScript turns out to be the best way to learn (and
 teach) JavaScript for beginners &mdash; especially for those as
