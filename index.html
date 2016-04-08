@@ -2,9 +2,34 @@
 <html>
 <head>
   <style>
+body {
+  font: 16px/1 sans-serif;
+  font-family: "Comic Sans MS", "Helvetica", sans-serif;
+  font-size: xx-large;
+  background: chartreuse;
+}
+main {
+  max-width: 60rem;
+  display: inline-block;
+}
+a {
+  border-bottom: 2px solid sblue(.1);
+  border-top-left-radius: 8px ;
+  border-top-right-radius: 8px; 
+  padding: 0 2px 0 2px;
+  text-decoration: none;
+}
+a:hover {
+  background: magenta;
+}
+.wrapper {
+  text-align: center;
+}
   </style>
 </head>
 <body>
+  <div class="wrapper">
+  <main>
   <iframe width="420" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
   <p>Here's the thing. I <em>like</em> this video! I mean don't judge until you can actually move your hands like Rick.</p>
   <p>OK, ok, you got me. I'm in the middle of creating my own
@@ -14,6 +39,7 @@
   the French Protestant of Static Site Generators, a fully
   <a href="http://github.com/fadb/fadb">FADB</a> data-driven SSG that happens
   to build on the best SSG blogging concepts and architecture to date.</p>
-
+  </div>
+  </main>
 </body>
 </html>
